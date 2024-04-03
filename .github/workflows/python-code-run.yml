@@ -24,7 +24,7 @@ jobs:
         python -m pip install --upgrade pip
 
     - name: Run Python script
-      run: pip install requirements.txt
+      run: pip install -r requirements.txt
            python tg-parser.py
 
     - name: Commit and push if it changed
