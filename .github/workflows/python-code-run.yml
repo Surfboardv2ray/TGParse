@@ -25,8 +25,7 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
     - name: Run Python script
-      run: pip install -r requirements.txt
-           python tg-parser.py
+      run: python tg-parser.py
 
     - name: Commit and push if it changed
       run: |
