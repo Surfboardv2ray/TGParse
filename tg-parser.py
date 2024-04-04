@@ -13,11 +13,10 @@ parser = argparse.ArgumentParser()
 # Add an argument
 parser.add_argument('--thrd_pars')
 parser.add_argument('--pars_dp')
+parser.add_argument('--use_inv_tc')
 
 # Parse the arguments
 args = parser.parse_args()
-
-os.environ['TERM'] = 'xterm'
 
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
