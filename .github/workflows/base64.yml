@@ -16,7 +16,7 @@ jobs:
       - name: Copy URL content to file
         run: |
           # Fetch the content from the URL
-          content=$(curl -s "http://example.com")
+          content=$(curl -s "https://base64.divineglaive.workers.dev/")
 
           # Print the content to a file
           echo "$content" > content.txt
