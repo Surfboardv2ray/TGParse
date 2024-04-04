@@ -23,7 +23,7 @@ jobs:
           done
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add mixed
+          git add splitted/mixed
           git add splitted/*
           git commit --allow-empty -m "Update output files"
           git push
