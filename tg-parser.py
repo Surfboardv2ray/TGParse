@@ -6,6 +6,18 @@ import time
 import random
 import re
 import base64
+import argparse
+# Create the parser
+parser = argparse.ArgumentParser()
+
+# Add an argument
+parser.add_argument('--thrd_pars', required=True)
+parser.add_argument('--pars_dp', required=True)
+parser.add_argument(' --use_inv_tc', required=True)
+
+# Parse the arguments
+args = parser.parse_args()
+
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 
