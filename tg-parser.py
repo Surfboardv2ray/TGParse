@@ -65,7 +65,11 @@ print("Parsing depth where 1dp equals 20 last tg posts:", pars_dp)
 print(f'\nTotal channel names in telegram channels.json         - {len(tg_name_json)}')
 print(f'Total channel names in invalid telegram channels.json - {len(inv_tg_name_json)}')
 
-while (use_inv_tc := input('\nTry looking for proxy configs from "invalid telegram channels.json" too? (Enter y/n): ').lower()) not in {"y", "n"}: pass
+
+use_inv_tc = os.getenv('USE_INV_TC')
+# Validate the value
+if use_inv_tc not in {"y", "n"}:
+    raise ValueError("Invalid value. Expected 'y' or 'n'.")
 print()
 
 start_time = datetime.now()
