@@ -31,6 +31,4 @@ jobs:
 
     - name: Run Script
       run: |
-        - name: Run script
-        run: |
-          python tg-parser.py
+        python tg-parser.py
