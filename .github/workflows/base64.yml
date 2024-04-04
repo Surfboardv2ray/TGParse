@@ -26,8 +26,8 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --local user.email "${{secrets.USER_EMAIL}}"
-          git config --local user.name "${{secrets.USER_NAME}}"
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
           git add base64.txt
           git commit -m "Add base64 content"
           git push
