@@ -7,7 +7,7 @@ on:
     branches: [ main ]
     
   schedule:
-      - cron: '0 * * * *'  # Run daily at midnight
+      - cron: '0 * * * *'
     
 
 jobs:
