@@ -17,6 +17,8 @@ parser.add_argument('--pars_dp')
 # Parse the arguments
 args = parser.parse_args()
 
+os.environ['TERM'] = 'xterm'
+
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 
