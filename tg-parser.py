@@ -55,7 +55,7 @@ inv_tg_name_json[:] = [x for x in inv_tg_name_json if len(x) >= 5]
 inv_tg_name_json = list(set(inv_tg_name_json)-set(tg_name_json))
 
 thrd_pars_str = os.getenv('THRD_PARS')
-thrd = int(thrd_pars_str) if thrd_pars_str is not None else None
+thrd = int(thrd_pars) if thrd_pars is not None else None
 print("Threads:", thrd_pars)
 
 pars_dp = int(input('\nParsing depth (1dp = 20 last tg posts): '))
