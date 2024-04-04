@@ -20,7 +20,7 @@ else:
     socks = [s for s in subscriptions if s.startswith('socks://')]
     hysteria2 = [s for s in subscriptions if s.startswith('hysteria2://')]
     hy2 = [s for s in subscriptions if s.startswith('hy2://')]
-    tuic = [s for s in subscriptions if s.startswith('tuic://']
+    tuic = [s for s in subscriptions if s.startswith('tuic://')]
 
     # Write the results to separate files
     with open('python/vmess', 'w') as f:
