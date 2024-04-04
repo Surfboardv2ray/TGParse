@@ -34,10 +34,16 @@ jobs:
       run: |
         python tg-parser.py
 
+    - name: Update files
+      run: |
+          echo "Configs" > "config-tg.txt"
+          echo "Channels" > "telegram channels.json"
+          echo "Invalids" > "invalid telegram channels.json"
+          
       
-    - name: Update Output
+    - name: Commit and push
       run:
-        git add config-tg.txt
+        git add "config-tg.txt" "telegram channels.json" "invalid telegram channels.json"
         git commit -m "Update configs"
         git push
 
