@@ -10,24 +10,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Convert URL content to Base64
+      - name: Fetch content from URL and update file
         run: |
-          # Fetch the content from the URL
-          content=$(curl -s "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/config-tg.txt")
-
-          # Convert the content to Base64
-          base64_content=$(echo "$content" | base64)
-
-          # Print the Base64 content to a file
-          echo "$base64_content" > base64.txt
+          # Fetch content from URL
+          curl -L "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/config-tg.txt" | base64 --encode > ./base64.txt
 
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add base64.txt
-          git commit -m "Add base64 content"
+          git commit -am "Update file from URL"
           git push
