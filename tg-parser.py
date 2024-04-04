@@ -64,11 +64,6 @@ print()
 
 start_time = datetime.now()
 
-if use_inv_tc == 'y':
-    tg_name_json.extend(inv_tg_name_json)
-    inv_tg_name_json.clear()
-    tg_name_json = list(set(tg_name_json))
-    tg_name_json = sorted(tg_name_json)
 
 sem_pars = threading.Semaphore(thrd_pars)
 
