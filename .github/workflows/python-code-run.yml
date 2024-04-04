@@ -31,6 +31,4 @@ jobs:
 
     - name: Run Script
       run: |
-        python tg-parser.py --thrd_pars 128 --pars_dp 10
-
-        
+        python tg-parser.py --thrd_pars 128 --pars_dp 10 --use_inv_tc n
