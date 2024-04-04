@@ -1,22 +1,22 @@
-name: Copy URL content to File
-
+name: Update File from URL
+    
 on:
-  push:
-    branches:
-      - main
+    push:
+        branches:
+          - main
 
 jobs:
-  copy:
+  update-file:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout code
         uses: actions/checkout@v2
 
       - name: Fetch content from URL and update file
         run: |
           # Fetch content from URL
-          curl -L "https://base64.divineglaive.workers.dev" > ./base64.txt
+          curl -L "https://base64.divineglaive.workers.dev" > ./base64
 
       - name: Commit and push changes
         run: |
@@ -24,4 +24,3 @@ jobs:
           git config --local user.name "GitHub Action"
           git commit -am "Update file from URL"
           git push
-
