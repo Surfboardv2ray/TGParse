@@ -44,9 +44,15 @@ inv_tg_name_json = json_load('invalid telegram channels.json')
 inv_tg_name_json[:] = [x for x in inv_tg_name_json if len(x) >= 5]
 inv_tg_name_json = list(set(inv_tg_name_json)-set(tg_name_json))
 
+
+# Get the environment variable
 thrd_pars = os.getenv('THRD_PARS')
+
+# Convert to integer if not None, else assign None
 thrd = int(thrd_pars) if thrd_pars is not None else None
-print("Threads:", thrd_pars)
+
+# Print the integer value
+print("Threads:", thrd)
 
 pars_dp = os.getenv('PARS_DP')
 pars_dp = int(pars_dp) if pars_dp is not None else None
