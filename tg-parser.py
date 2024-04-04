@@ -54,7 +54,7 @@ print(f'Total channel names in invalid telegram channels.json - {len(inv_tg_name
 
 
 use_inv_tc = os.getenv('USE_INV_TC', 'n')
-use_inv_tc = True if my_arg.lower() == 'y' else False
+use_inv_tc = True if use_inv_tc.lower() == 'y' else False
 
 start_time = datetime.now()
 
