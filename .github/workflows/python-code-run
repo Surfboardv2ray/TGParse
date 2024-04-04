@@ -30,7 +30,7 @@ jobs:
     - name: Commit and push if it changed
       run: |
         git diff
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+       git config --local user.email "${{ secrets.USER_EMAIL }}"
+          git config --local user.name "${{ secrets.USER_NAME }}"
         git commit -m "Add changes" -a || echo "No changes to commit"
         git push
