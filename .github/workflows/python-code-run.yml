@@ -14,6 +14,9 @@ jobs:
     steps:
     - uses: actions/checkout@v2
         
+    - name: Check Git version
+      run: git --version
+      
     - name: Update Git
       run: |
         sudo add-apt-repository ppa:git-core/ppa -y
@@ -43,12 +46,13 @@ jobs:
           USE_INV_TC: 'y'
       run: |
         python tg-parser.py
-    
+
+      
     - name: Update Output
       run:
         git status
-        git add .
+      
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git commit -m "Update configs"
+        git commit -am "Update configs"
         git push
