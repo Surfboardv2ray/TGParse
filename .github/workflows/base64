@@ -1,0 +1,33 @@
+name: Convert URL content to Base64
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Convert URL content to Base64
+        run: |
+          # Fetch the content from the URL
+          content=$(curl -s "http://example.com")
+
+          # Convert the content to Base64
+          base64_content=$(echo "$content" | base64)
+
+          # Print the Base64 content to a file
+          echo "$base64_content" > base64.txt
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "${{ secrets.USER_EMAIL }}"
+          git config --local user.name "${{ secrets.USER_NAME }}"
+          git add base64.txt
+          git commit -m "Add base64 content"
+          git push
