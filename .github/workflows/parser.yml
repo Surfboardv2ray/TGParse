@@ -43,6 +43,7 @@ jobs:
       
     - name: Commit and push
       run:
-        git config --local "config-tg.txt" "telegram channels.json" "invalid telegram channels.json"
+        git config user.name "GitHub Action"
+        git config user.email "action@github.com" 
         git commit -m "Update configs"
         git push https://${{ secrets.PAT }}@github.com/Surfboardv2ray/TGParse.git
