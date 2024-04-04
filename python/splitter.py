@@ -18,6 +18,9 @@ else:
     trojan = [s for s in subscriptions if s.startswith('trojan://')]
     ss = [s for s in subscriptions if s.startswith('ss://')]
     socks = [s for s in subscriptions if s.startswith('socks://')]
+    hysteria2 = [s for s in subscriptions if s.startswith('hysteria2://')]
+    hy2 = [s for s in subscriptions if s.startswith('hy2://')]
+    tuic = [s for s in subscriptions if s.startswith('tuic://']
 
     # Write the results to separate files
     with open('python/vmess', 'w') as f:
@@ -30,3 +33,15 @@ else:
         f.write('\n'.join(ss))
     with open('python/socks', 'w') as f:
         f.write('\n'.join(socks))
+    with open('python/hysteria2', 'w') as f:
+        f.write('\n'.join(hysteria2))
+     with open('python/hy2', 'w') as f:
+        f.write('\n'.join(hy2))
+    with open('python/hy2', 'w') as f:
+        f.write('\n'.join(tuic))
+
+
+
+
+
+                
