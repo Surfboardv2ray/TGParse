@@ -23,3 +23,13 @@ jobs:
           git add splitted/*
           git commit -m "Update output files"
           git push
+
+      - name: Convert Mixed to base64 and update output
+        run: |
+            content=$(cat config-tg.txt | base64)
+            echo "$content" > splitted/mixed
+            git config --local user.email "action@github.com"
+            git config --local user.name "GitHub Action"
+            git add mixed
+            git commit -m "Update mixed
+            git push
