@@ -13,23 +13,16 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Convert Mixed to base64 and update output
-        run: |
-            content=$(cat config-tg.txt | base64)
-            echo "$content" > splitted/mixed
-            git config --local user.email "action@github.com"
-            git config --local user.name "GitHub Action"
-            git add mixed
-            git commit -m "Update mixed
-            git push
-
       - name: Convert to base64 and update output
         run: |
+          content=$(cat config-tg.txt | base64)
+            echo "$content" > splitted/mixed
           for file in python/socks python/ss python/trojan python/vless python/vmess; do
             base64 $file > "splitted/$(basename $file)"
           done
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          git add mixed
           git add splitted/*
           git commit -m "Update output files"
           git push
