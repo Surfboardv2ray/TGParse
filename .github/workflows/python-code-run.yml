@@ -32,8 +32,16 @@ jobs:
 
     - name: Run Script
       env:
-          THRD_PARS: '128'
+          THRD_PARS: '256'
           PARS_DP: '10'
           USE_INV_TC: 'y'
       run: |
         python tg-parser.py
+
+    - name: Update Output
+      run:
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add config-tg.txt
+        git commit -m "Update configs"
+        git push
