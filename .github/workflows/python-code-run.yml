@@ -38,6 +38,12 @@ jobs:
       run: |
         python tg-parser.py
 
+    - name: Update Git
+      run: |
+        sudo add-apt-repository ppa:git-core/ppa -y
+        sudo apt-get update
+        sudo apt-get install git -y
+    
     - name: Update Output
       run:
         git status
