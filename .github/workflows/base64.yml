@@ -13,11 +13,15 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Fetch content from URL and update file
+      - - name: Fetch content and encode
         run: |
-          # Fetch content from URL
-          curl -L "https://base64.divineglaive.workers.dev" > ./base64
+          urls=(${{ secrets.BASE64 }} ${{ secrets.SS}} ${{ secrets.SOCKS }} ${{ secrets.TROJAN}} ${{ secrets.VMESS}} ${{ secrets.VLESS}}) # Use your secret keys here
+          files=('./base64.txt' './splitted/ss' './splitted/socks' './splitted/trojan' './splitted/vmess' './splitted/vless') # Add your file names here
 
+          for i in ${!urls[@]}; do
+            content=$(curl -s ${urls[$i]})
+            echo "$content" | base64 > ${files[$i]}
+          done
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
