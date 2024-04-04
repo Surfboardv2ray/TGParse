@@ -18,7 +18,7 @@ jobs:
         run: |
           content=$(cat config-tg.txt | base64)
             echo "$content" > splitted/mixed
-          for file in python/socks python/ss python/trojan python/vless python/vmess; do
+          for file in python/socks5 python/ss python/trojan python/vless python/vmess python/tuic python/hysteria2 python/hy2; do
             base64 $file > "splitted/$(basename $file)"
           done
           git config --local user.email "action@github.com"
