@@ -9,6 +9,7 @@ on:
 #on:
   #schedule:
     #- cron: '0 0 * * *'  # Run daily at midnight
+    
 
 jobs:
   update_subscriptions:
