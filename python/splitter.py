@@ -35,9 +35,9 @@ else:
         f.write('\n'.join(socks))
     with open('python/hysteria2', 'w') as f:
         f.write('\n'.join(hysteria2))
-     with open('python/hy2', 'w') as f:
-        f.write('\n'.join(hy2))
     with open('python/hy2', 'w') as f:
+        f.write('\n'.join(hy2))
+    with open('python/tuic', 'w') as f:
         f.write('\n'.join(tuic))
 
 
