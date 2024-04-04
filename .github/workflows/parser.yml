@@ -37,6 +37,7 @@ jobs:
       
     - name: Update Output
       run:
+        git add config-tg.txt
         git commit -m "Update configs"
         git push
 
