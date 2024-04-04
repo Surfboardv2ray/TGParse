@@ -11,8 +11,8 @@ import argparse
 parser = argparse.ArgumentParser()
 
 # Add an argument
-parser.add_argument('--thrd_pars' required=True)
-parser.add_argument('--pars_dp' required=True)
+parser.add_argument('--thrd_pars', required=True)
+parser.add_argument('--pars_dp', required=True)
 parser.add_argument('--use_inv_tc')
 
 # Parse the arguments
