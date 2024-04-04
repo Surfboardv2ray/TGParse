@@ -20,13 +20,13 @@ else:
     socks = [s for s in subscriptions if s.startswith('socks://')]
 
     # Write the results to separate files
-    with open('vmess.txt', 'w') as f:
+    with open('python/vmess', 'w') as f:
         f.write('\n'.join(vmess))
-    with open('vless.txt', 'w') as f:
+    with open('python/vless', 'w') as f:
         f.write('\n'.join(vless))
-    with open('trojan.txt', 'w') as f:
+    with open('python/trojan', 'w') as f:
         f.write('\n'.join(trojan))
-    with open('ss.txt', 'w') as f:
+    with open('python/ss', 'w') as f:
         f.write('\n'.join(ss))
-    with open('socks.txt', 'w') as f:
+    with open('python/socks', 'w') as f:
         f.write('\n'.join(socks))
