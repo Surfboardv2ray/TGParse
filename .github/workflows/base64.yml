@@ -19,7 +19,7 @@ jobs:
           content=$(curl -s "https://base64.divineglaive.workers.dev/")
 
           # Print the content to a file
-          echo "$content" > content.txt
+          echo "$content" > base64.txt
 
       - name: Commit and push changes
         run: |
