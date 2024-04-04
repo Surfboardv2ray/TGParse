@@ -1,5 +1,11 @@
 name: Fetch and update v2ray subscriptions
 
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
 #on:
   #schedule:
     #- cron: '0 0 * * *'  # Run daily at midnight
