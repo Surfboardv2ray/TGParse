@@ -58,7 +58,9 @@ thrd_pars = os.getenv('THRD_PARS')
 thrd = int(thrd_pars) if thrd_pars is not None else None
 print("Threads:", thrd_pars)
 
-pars_dp = int(input('\nParsing depth (1dp = 20 last tg posts): '))
+pars_dp = os.getenv('PARS_DP')
+pars_dp = int(pars_dp) if pars_dp is not None else None
+print("Parsing depth where 1dp equals 20 last tg posts:", pars_dp)
 
 print(f'\nTotal channel names in telegram channels.json         - {len(tg_name_json)}')
 print(f'Total channel names in invalid telegram channels.json - {len(inv_tg_name_json)}')
