@@ -16,3 +16,4 @@ snscrape==0.6.2.20230320
 soupsieve==2.4.1
 urllib3==2.0.2
 Werkzeug==2.3.4
+lxml==4.10.0
