@@ -54,7 +54,10 @@ inv_tg_name_json = json_load('invalid telegram channels.json')
 inv_tg_name_json[:] = [x for x in inv_tg_name_json if len(x) >= 5]
 inv_tg_name_json = list(set(inv_tg_name_json)-set(tg_name_json))
 
-thrd_pars = int(input('\nThreads for parsing: '))
+thrd_pars_str = os.getenv('THRD_PARS')
+thrd = int(thrd_pars_str) if thrd_pars_str is not None else None
+print("Threads:", thrd_pars)
+
 pars_dp = int(input('\nParsing depth (1dp = 20 last tg posts): '))
 
 print(f'\nTotal channel names in telegram channels.json         - {len(tg_name_json)}')
