@@ -13,18 +13,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Copy URL content to file
+      - name: Fetch content from URL and update file
         run: |
-          # Fetch the content from the URL
-          content=$(curl -s "https://base64.divineglaive.workers.dev/")
-
-          # Print the content to a file
-          echo "$content" > base64.txt
+          # Fetch content from URL
+          curl -L "https://base64.divineglaive.workers.dev" > ./base64.txt
 
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add content.txt
-          git commit -m "Add content from URL"
+          git commit -am "Update file from URL"
           git push
+
