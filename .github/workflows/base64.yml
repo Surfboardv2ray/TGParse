@@ -22,7 +22,7 @@ jobs:
           base64_content=$(echo "$content" | base64)
 
           # Print the Base64 content to a file
-          echo "$base64_content" > base64
+          echo "$base64_content" > base64.txt
 
       - name: Commit and push changes
         run: |
