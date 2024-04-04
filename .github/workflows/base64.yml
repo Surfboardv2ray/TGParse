@@ -1,4 +1,4 @@
-name: Convert URL content to Base64
+name: Copy URL content to File
 
 on:
   push:
@@ -6,21 +6,25 @@ on:
       - main
 
 jobs:
-  convert:
+  copy:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
+      - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Fetch content from URL and update file
+      - name: Copy URL content to file
         run: |
-          # Fetch content from URL
-          curl -L "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/config-tg.txt" | base64 --encode > ./base64.txt
+          # Fetch the content from the URL
+          content=$(curl -s "http://example.com")
+
+          # Print the content to a file
+          echo "$content" > content.txt
 
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git commit -am "Update file from URL"
+          git add content.txt
+          git commit -m "Add content from URL"
           git push
