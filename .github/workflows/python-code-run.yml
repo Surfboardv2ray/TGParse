@@ -31,10 +31,10 @@ jobs:
         
 
     - name: Run Script
-      run: |
-        python tg-parser.py
       env:
           THRD_PARS: '128'
           PARS_DP: '10'
           USE_INV_TC: 'y'
+      run: |
+        python tg-parser.py
 
