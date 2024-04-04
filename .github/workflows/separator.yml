@@ -33,6 +33,6 @@ jobs:
         python python/splitter.py
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add python/vmess python/vless python/trojan python/ss python/socks python/hysteria2 python/hy2 python/tuic
+        git add python/vmess python/vless python/trojan python/ss python/socks5 python/hysteria2 python/hy2 python/tuic
         git commit -m "Update v2ray subscriptions"
         git push
