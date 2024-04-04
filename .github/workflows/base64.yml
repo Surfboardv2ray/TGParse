@@ -16,7 +16,7 @@ jobs:
       - - name: Fetch content and encode
         run: |
           urls=(${{ secrets.BASE64 }} ${{ secrets.SS}} ${{ secrets.SOCKS }} ${{ secrets.TROJAN}} ${{ secrets.VMESS}} ${{ secrets.VLESS}}) # Use your secret keys here
-          files=('./base64.txt' './splitted/ss' './splitted/socks' './splitted/trojan' './splitted/vmess' './splitted/vless') # Add your file names here
+          files=('base64.txt' 'splitted/ss' 'splitted/socks' 'splitted/trojan' 'splitted/vmess' 'splitted/vless') # Add your file names here
 
           for i in ${!urls[@]}; do
             content=$(curl -s ${urls[$i]})
