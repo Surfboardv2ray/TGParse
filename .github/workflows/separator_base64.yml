@@ -5,7 +5,7 @@ on:
         branches:
           - main
     schedule:
-        - cron: '0 * * * *'
+        - cron: '0 0 * * *'
 jobs:
   update-file:
     runs-on: ubuntu-latest
@@ -14,13 +14,22 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Convert to base64 and update output
+      - name: Convert to base64
         run: |
           content=$(cat config-tg.txt | base64)
             echo "$content" > splitted/mixed
           for file in python/socks5 python/ss python/trojan python/vless python/vmess python/tuic python/hysteria2 python/hy2; do
             base64 $file > "splitted/$(basename $file)"
           done
+       
+      - name: Check for changes
+        id: changes
+        run: |
+            git diff --quiet && echo 'No changes' || echo '::set-output name=changed::true'   
+      
+      - name: Commit and push if there were changes
+        if: steps.changes.outputs.changed == 'true'   
+        run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add splitted/mixed
