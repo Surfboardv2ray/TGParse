@@ -17,7 +17,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: '3.12.2'
+        python-version: '3.x'
 
     - name: Install dependencies
       run: |
@@ -30,7 +30,7 @@ jobs:
     - name: Commit and push if it changed
       run: |
         git diff
-       git config --local user.email "${{ secrets.USER_EMAIL }}"
-          git config --local user.name "${{ secrets.USER_NAME }}"
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
         git commit -m "Add changes" -a || echo "No changes to commit"
         git push
