@@ -40,8 +40,9 @@ jobs:
 
     - name: Update Output
       run:
+        git status
+        git add .
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git commit -am "Update configs"
+        git commit -m "Update configs"
         git push
-      shell: bash
