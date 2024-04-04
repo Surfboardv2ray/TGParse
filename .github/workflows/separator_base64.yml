@@ -1,0 +1,25 @@
+name: Update File from URL
+    
+on:
+    push:
+        branches:
+          - main
+
+jobs:
+  update-file:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Convert to base64 and update output
+        run: |
+          for file in python/socks python/ss python/trojan python/vless python/vmess; do
+            base64 $file > "splitted/$(basename $file)"
+          done
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add splitted/*
+          git commit -m "Update output files"
+          git push
