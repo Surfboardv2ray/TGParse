@@ -27,4 +27,3 @@ jobs:
           git commit --allow-empty -m "Update output files"
           git push
 
-      
