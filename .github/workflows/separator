@@ -1,0 +1,32 @@
+name: Fetch and update v2ray subscriptions
+
+#on:
+  #schedule:
+    #- cron: '0 0 * * *'  # Run daily at midnight
+
+jobs:
+  update_subscriptions:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+
+    - name: Fetch and update subscriptions
+      run: |
+        python python/splitter.py
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add vmess vless trojan ss socks
+        git commit -m "Update v2ray subscriptions"
+        git push
