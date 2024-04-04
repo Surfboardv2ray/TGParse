@@ -42,6 +42,5 @@ jobs:
       run:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add config-tg.txt
-        git commit -m "Update configs"
+        git commit -am "Update configs"
         git push
