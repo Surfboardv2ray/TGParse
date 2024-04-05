@@ -36,9 +36,9 @@ jobs:
 
     - name: Update files
       run: |
-          echo "Configs" > "configtg.txt"
-          echo "Channels" > "telegramchannelsjson"
-          echo "Invalids" > "invalidtelegramchannels.json"
+          echo "configtg.txt" > "configtg.txt"
+          echo "telegramchannels.json" > "telegramchannels.json"
+          echo "invalidtelegramchannels.json" > "invalidtelegramchannels.json"
           
       
     - name: Local Authentication
