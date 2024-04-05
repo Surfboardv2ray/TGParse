@@ -45,6 +45,10 @@ jobs:
       run: |
         git config --local user.name "GitHub Action"
         git config --local user.email "action@github.com"
+
+    - name: Commit
+      run: |
+        git commit -am "Update configs"
         
     - name: Push
       run: |
