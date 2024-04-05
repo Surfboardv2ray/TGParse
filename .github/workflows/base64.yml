@@ -1,4 +1,4 @@
-name: Update File from URL
+name: Update Subscriptions to Base64
     
 on:
     push:
