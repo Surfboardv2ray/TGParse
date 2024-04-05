@@ -1,0 +1,40 @@
+name: Update File from URL
+    
+on:
+    push:
+        branches:
+          - main
+    
+    workflow_dispatch:
+    schedule:
+        - cron: '0 2 * * *'
+jobs:
+  update-file:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Convert to base64
+        run: |
+          content=$(cat configtg.txt | base64)
+            echo "$content" > splitted/mixed
+          for file in python/socks5 python/ss python/trojan python/vless python/vmess python/tuic python/hysteria2 python/hy2; do
+            base64 $file > "splitted/$(basename $file)"
+          done
+       
+      - name: Check for changes
+        id: changes
+        run: |
+            git diff --quiet && echo 'No changes' || echo '::set-output name=changed::true'   
+      
+      - name: Commit and push if there were changes
+        if: steps.changes.outputs.changed == 'true'   
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add splitted/mixed
+          git add splitted/*
+          git commit --allow-empty -m "Update output files"
+          git push
