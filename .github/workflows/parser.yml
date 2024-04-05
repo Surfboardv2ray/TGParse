@@ -47,3 +47,4 @@ jobs:
         git config --local user.email "action@github.com"
         git commit -am "Update configs"
         git push https://${{ secrets.PAT }}@github.com/Surfboardv2ray/TGParse.git
+
