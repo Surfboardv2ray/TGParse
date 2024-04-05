@@ -48,5 +48,5 @@ jobs:
         
     - name: Commit & Push
       run: |
-        git config commit -m "Update configs"
+        git config commit -am "Update configs"
         git push https://${{ secrets.PAT }}@github.com/Surfboardv2ray/TGParse.git
