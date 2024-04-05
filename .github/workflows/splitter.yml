@@ -45,4 +45,5 @@ jobs:
           git config --local user.name "GitHub Action"
           git add python/vmess python/vless python/trojan python/ss python/socks python/hysteria2 python/hy2 python/tuic
           git commit -m "Update v2ray subscriptions"
+          git pull
           git push
