@@ -1,0 +1,30 @@
+name: Correct Socks Links
+    
+on:
+    push:
+        branches:
+          - main
+
+    workflow_dispatch:
+    schedule:
+        - cron: '0 3 * * *'
+jobs:
+  update-file:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Edit Socks5 to Socks
+        run: |
+          curl -L "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/python/socks5" | sed 's#socks5://#socks://#g' > ./python/socks5
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -am "Update file from URL"
+          git push
+
+
+ 
