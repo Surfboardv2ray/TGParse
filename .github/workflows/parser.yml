@@ -36,9 +36,9 @@ jobs:
 
     - name: Update files
       run: |
-          echo "Configs" > "config-tg.txt"
-          echo "Channels" > "telegram channels.json"
-          echo "Invalids" > "invalid telegram channels.json"
+          echo "Configs" > "configtg.txt"
+          echo "Channels" > "telegramchannelsjson"
+          echo "Invalids" > "invalidtelegramchannels.json"
           
       
     - name: Commit and push
