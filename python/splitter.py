@@ -17,7 +17,7 @@ else:
     vless = [s for s in subscriptions if s.startswith('vless://')]
     trojan = [s for s in subscriptions if s.startswith('trojan://')]
     ss = [s for s in subscriptions if s.startswith('ss://')]
-    socks5 = [s for s in subscriptions if s.startswith('socks5://')]
+    socks = [s for s in subscriptions if s.startswith('socks://')]
     hysteria2 = [s for s in subscriptions if s.startswith('hysteria2://')]
     hy2 = [s for s in subscriptions if s.startswith('hy2://')]
     tuic = [s for s in subscriptions if s.startswith('tuic://')]
@@ -32,7 +32,7 @@ else:
     with open('python/ss', 'w') as f:
         f.write('\n'.join(ss))
     with open('python/socks5', 'w') as f:
-        f.write('\n'.join(socks5))
+        f.write('\n'.join(socks))
     with open('python/hysteria2', 'w') as f:
         f.write('\n'.join(hysteria2))
     with open('python/hy2', 'w') as f:
