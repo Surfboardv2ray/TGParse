@@ -37,7 +37,7 @@ def substring_del(string_list):
     return out
 
 tg_name_json = json_load('telegramchannels.json')
-inv_tg_name_json = json_load('invalid telegramchannels.json')
+inv_tg_name_json = json_load('invalidtelegramchannels.json')
 
 inv_tg_name_json[:] = [x for x in inv_tg_name_json if len(x) >= 5]
 inv_tg_name_json = list(set(inv_tg_name_json)-set(tg_name_json))
