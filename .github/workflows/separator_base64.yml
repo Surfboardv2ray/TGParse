@@ -5,7 +5,7 @@ on:
         branches:
           - main
     schedule:
-        - cron: '30 0 * * *'
+        - cron: '0 1 * * *'
 jobs:
   update-file:
     runs-on: ubuntu-latest
