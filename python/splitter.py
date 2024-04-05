@@ -31,7 +31,7 @@ else:
         f.write('\n'.join(trojan))
     with open('python/ss', 'w') as f:
         f.write('\n'.join(ss))
-    with open('python/socks5', 'w') as f:
+    with open('python/socks', 'w') as f:
         f.write('\n'.join(socks))
     with open('python/hysteria2', 'w') as f:
         f.write('\n'.join(hysteria2))
