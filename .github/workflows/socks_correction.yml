@@ -19,10 +19,10 @@ jobs:
       - name: Edit Socks5 to Socks
         run: |
           curl -L "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/python/socks5" | sed 's#socks5://#socks://#g' > python/socks5
+     
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git commit -m "Update file"
           git push
- 
