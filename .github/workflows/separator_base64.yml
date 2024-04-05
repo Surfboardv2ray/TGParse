@@ -16,7 +16,7 @@ jobs:
 
       - name: Convert to base64
         run: |
-          content=$(cat config-tg.txt | base64)
+          content=$(cat configtg.txt | base64)
             echo "$content" > splitted/mixed
           for file in python/socks5 python/ss python/trojan python/vless python/vmess python/tuic python/hysteria2 python/hy2; do
             base64 $file > "splitted/$(basename $file)"
