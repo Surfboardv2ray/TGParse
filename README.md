@@ -39,5 +39,5 @@ This is a fork of TG-Proxy-Parser by ndsphonemy
     ```
 - **Socks5**
     ```bash
-    https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/socks5
+    https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/socks
     ```
