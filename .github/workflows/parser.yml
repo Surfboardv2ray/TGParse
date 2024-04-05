@@ -43,10 +43,3 @@ jobs:
       run: |
         git add .
         git diff-index --quiet HEAD || git commit -m "Update files"
-        
-    - name: Push
-      run: |
-        git push https://${{ secrets.PAT }}@github.com/Surfboardv2ray/TGParse.git
-
-
-
