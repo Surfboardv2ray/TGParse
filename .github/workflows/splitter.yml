@@ -1,4 +1,4 @@
-name: Fetch and update v2ray subscriptions
+name: Fetch and split v2ray subscriptions
 
 on:
   push:
