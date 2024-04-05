@@ -27,5 +27,7 @@ jobs:
       
       - name: Commit and push changes
         run: |
-          git commit -m "Update file"
-          git push
+            git add .
+            git commit -m "Correct Socks"
+            git pull
+            git push
