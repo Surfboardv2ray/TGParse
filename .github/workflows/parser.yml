@@ -33,14 +33,7 @@ jobs:
           USE_INV_TC: 'n'
       run: |
         python tg-parser.py
-
-    - name: Update files
-      run: |
-          echo "configtg.txt" > "configtg.txt"
-          echo "telegramchannels.json" > "telegramchannels.json"
-          echo "invalidtelegramchannels.json" > "invalidtelegramchannels.json"
           
-      
     - name: Local Authentication
       run: |
         git config --local user.name "GitHub Action"
@@ -48,7 +41,8 @@ jobs:
 
     - name: Commit
       run: |
-        git commit -am "Update configs"
+        git add .
+        git diff-index --quiet HEAD || git commit -m "Update files"
         
     - name: Push
       run: |
