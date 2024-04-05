@@ -8,3 +8,36 @@ This is a fork of TG-Proxy-Parser by ndsphonemy
 1. Download or CLone the project.
 2. Install Dependencies via  `pip install -r requirements.txt`
 3. Run the py via `python tg-parser.py`
+
+# Subscription Links (Base64)
+- **Mixed**
+    ```bash
+    https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/mixed
+    ```
+- **Vless**
+    ```bash
+    https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/vless
+    ```
+- **Vmess**
+    ```bash
+    https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/vmess
+    ```
+- **Hysteria2**
+    ```bash
+    https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/hy2
+    ```
+     ```bash
+    https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/hysteria2
+    ```
+- **Trojan**
+    ```bash
+    https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/trojan
+    ```
+- **ShadowSocks**
+    ```bash
+    https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/ss
+    ```
+- **Socks5**
+    ```bash
+    https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/socks5
+    ```
