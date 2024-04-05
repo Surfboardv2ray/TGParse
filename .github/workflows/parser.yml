@@ -43,7 +43,7 @@ jobs:
       
     - name: Commit and push
       run:
-        git config -f user.name "GitHub Action"
-        git config -f user.email "action@github.com"
-        git commit -m "Update configs"
+        git config --local user.name "GitHub Action"
+        git config --local user.email "action@github.com"
+        git commit -am "Update configs"
         git push https://${{ secrets.PAT }}@github.com/Surfboardv2ray/TGParse.git
