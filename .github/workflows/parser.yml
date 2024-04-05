@@ -45,11 +45,8 @@ jobs:
       run: |
         git config --local user.name "GitHub Action"
         git config --local user.email "action@github.com"
-
-    - name: Commit
+        
+    - name: Commit & Push
       run: |
         git config commit -m "Update configs"
-
-    - name: Push
-      run: |
         git push https://${{ secrets.PAT }}@github.com/Surfboardv2ray/TGParse.git
