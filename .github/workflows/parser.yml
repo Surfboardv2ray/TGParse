@@ -45,4 +45,5 @@ jobs:
       run: |
         git add .
         git commit -m "Update files"
+        git pull
         git push
