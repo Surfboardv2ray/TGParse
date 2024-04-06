@@ -7,7 +7,7 @@ This is a fork of TG-Proxy-Parser by ndsphonemy
 # How To
 1. Download or CLone the project.
 2. Install Dependencies via  `pip install -r requirements.txt`
-3. Run the py via `python tg-parser.py`
+3. Run the py via `python main-parser.py`
 
 # Subscription Links (Base64)
 - **Mixed**
