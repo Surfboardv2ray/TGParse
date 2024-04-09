@@ -41,3 +41,6 @@ This is a fork of TG-Proxy-Parser by ndsphonemy
     ```bash
     https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/socks
     ```
+
+# Visitors
+![Visitor's Count](https://profile-counter.glitch.me/Surfboardv2ray_Subs/count.svg)
