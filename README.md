@@ -43,4 +43,4 @@ This is a fork of TG-Proxy-Parser by ndsphonemy
     ```
 
 # Visitors
-![Visitor's Count](https://profile-counter.glitch.me/Surfboardv2ray_Subs/count.svg)
+![Visitor's Count](https://profile-counter.glitch.me/Surfboardv2ray_TGParse/count.svg)
