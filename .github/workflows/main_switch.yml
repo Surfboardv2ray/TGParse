@@ -73,13 +73,50 @@ jobs:
           git commit -am "Update v2ray subscriptions"
           git push
 
-    - name: Convert to base64
+    - name: Convert mixed to base64
       run: |
           content=$(cat configtg.txt | base64| tr -d '\n')
             echo "$content" > splitted/mixed
-          for file in python/socks python/ss python/trojan python/vless python/vmess python/tuic python/hysteria2 python/hy2; do
-            base64 $file > "splitted/$(basename $file)"
-          done
+
+    - name: Convert socks to base64
+      run: |
+          content=$(cat python/socks | base64| tr -d '\n')
+            echo "$content" > splitted/socks
+
+    - name: Convert ss to base64
+      run: |
+          content=$(cat python/ss | base64| tr -d '\n')
+            echo "$content" > splitted/ss
+
+    - name: Convert trojan to base64
+      run: |
+          content=$(cat python/trojan | base64| tr -d '\n')
+            echo "$content" > splitted/trojan
+
+    - name: Convert vless to base64
+      run: |
+          content=$(cat python/vless | base64| tr -d '\n')
+            echo "$content" > splitted/vless
+
+    - name: Convert vmess to base64
+      run: |
+          content=$(cat python/vmess | base64| tr -d '\n')
+            echo "$content" > splitted/vmess
+
+    - name: Convert tuic to base64
+      run: |
+          content=$(cat python/tuic | base64| tr -d '\n')
+            echo "$content" > splitted/tuic
+
+    - name: Convert hysteria2 to base64
+      run: |
+          content=$(cat python/hysteria2 | base64| tr -d '\n')
+            echo "$content" > splitted/hysteria2
+
+    - name: Convert hy2 to base64
+      run: |
+          content=$(cat python/hy2 | base64| tr -d '\n')
+            echo "$content" > splitted/hy2
        
     - name: Check for Base64 Changes
       id: changes64
