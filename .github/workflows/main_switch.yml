@@ -17,6 +17,24 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     
+    - name: Create timestamped directory
+      run: |
+        mkdir -p ./archives/$(date +'%Y-%m-%d_%H-%M-%S')
+        cp splitted/mixed ./archives/$(date +'%Y-%m-%d_%H-%M-%S')/
+
+    - name: Grab content and update backup
+      run: |
+        curl https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/mixed -o archives/latest_backup/mixed # Replace with your actual URL
+
+    - name: Commit and push if there are changes
+      run: |
+        git config --global user.name 'Github Action'
+        git config --global user.email 'Action@github.com'
+        git add .
+        git commit -m "Archived backups"
+        git push
+    
+    
     - name: Set up Parser
       uses: actions/setup-python@v2
       with:
