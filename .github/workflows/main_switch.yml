@@ -8,7 +8,7 @@ on:
 
   workflow_dispatch:
   schedule:
-    - cron: "* 0,12 * * *"
+    - cron: "* 0 * * *"
 jobs:
   run_python_and_push:
 
@@ -53,7 +53,7 @@ jobs:
     - name: Run Parser
       env:
           THRD_PARS: '128'
-          PARS_DP: '25'
+          PARS_DP: '1'
           USE_INV_TC: 'n'
       run: |
         python tg-parser.py
