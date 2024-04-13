@@ -21,11 +21,13 @@ jobs:
       run: |
         mkdir -p ./archives/$(date +'%Y%m')
         mkdir -p ./archives/$(date +'%Y%m')/$(date +'%Y-%m-%d_%H-%M-%S')
+        mkdir -p ./archives/channels/$(date +'%Y%m')/$(date +'%Y-%m-%d_%H-%M-%S')
         cp splitted/mixed ./archives/$(date +'%Y%m')/$(date +'%Y-%m-%d_%H-%M-%S')/
+        cp telegramchannels.json ./archives/channels/$(date +'%Y%m')/$(date +'%Y-%m-%d_%H-%M-%S')/
 
     - name: Grab content and update backup
       run: |
-        curl https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/mixed -o archives/latest_backup/mixed # Replace with your actual URL
+        curl https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/mixed -o archives/latest_backup/mixed
 
     - name: Commit and push if there are changes
       run: |
@@ -51,7 +53,7 @@ jobs:
     - name: Run Parser
       env:
           THRD_PARS: '128'
-          PARS_DP: '10'
+          PARS_DP: '1'
           USE_INV_TC: 'n'
       run: |
         python tg-parser.py
