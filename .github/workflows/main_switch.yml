@@ -24,6 +24,8 @@ jobs:
         mkdir -p ./archives/channels/$(date +'%Y%m')/$(date +'%Y-%m-%d_%H-%M-%S')
         cp splitted/mixed ./archives/$(date +'%Y%m')/$(date +'%Y-%m-%d_%H-%M-%S')/
         cp telegramchannels.json ./archives/channels/$(date +'%Y%m')/$(date +'%Y-%m-%d_%H-%M-%S')/
+        cp archives/configtg.txt ./
+        cp archives/channels/telegramchannels.json ./
 
     - name: Grab content and update backup
       run: |
