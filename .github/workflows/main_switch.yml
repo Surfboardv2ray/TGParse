@@ -8,7 +8,7 @@ on:
 
   workflow_dispatch:
   schedule:
-    - cron: "* 0,12 * * *"
+    - cron: "* 6,18 * * *"
 jobs:
   run_python_and_push:
 
@@ -24,8 +24,9 @@ jobs:
         mkdir -p ./archives/channels/$(date +'%Y%m')/$(date +'%Y-%m-%d_%H-%M-%S')
         cp splitted/mixed ./archives/$(date +'%Y%m')/$(date +'%Y-%m-%d_%H-%M-%S')/
         cp telegramchannels.json ./archives/channels/$(date +'%Y%m')/$(date +'%Y-%m-%d_%H-%M-%S')/
-        cp archives/configtg.txt ./
-        cp archives/channels/telegramchannels.json ./
+#        Empty configtg and replace desired channels instead. Only activate when needed.
+#        cp archives/configtg.txt ./
+#        cp archives/channels/telegramchannels.json ./
 
     - name: Grab content and update backup
       run: |
@@ -55,7 +56,7 @@ jobs:
     - name: Run Parser
       env:
           THRD_PARS: '128'
-          PARS_DP: '10'
+          PARS_DP: '2'
           USE_INV_TC: 'n'
       run: |
         python tg-parser.py
