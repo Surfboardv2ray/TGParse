@@ -8,7 +8,7 @@ on:
 
   workflow_dispatch:
   schedule:
-    - cron: "* 6,18 * * *"
+    - cron: "* 4,12,18 * * *"
 jobs:
   run_python_and_push:
 
