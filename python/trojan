@@ -1,6 +1,4 @@
 trojan://0e81a9cd-d849-4101-8d64-574c283207de@172.67.204.84:2083?path=/websocket&security=tls&host=de1.trojanvpn.de&type=ws&sni=de1.trojanvpn.de#@NPV_V2RAY
-trojan://2b38ff78-05bb-4261-895c-440950cf0dbd@210.17.253.149:42030/?type=tcp&security=tls&sni=hkg01.service.nahidacloud.top#🆎26@oneclickvpnkeys
-trojan://2b38ff78-05bb-4261-895c-440950cf0dbd@hkg01.service.nahidacloud.top:42030/?type=tcp&security=tls&sni=hkg01.service.nahidacloud.top#🆎25@oneclickvpnkeys
 trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.10:443?path=6b777a91&security=tls&host=jobscareerforstudent.com&type=ws&sni=jobscareerforstudent.com#Dr.s+Hamrah+Avval+2
 trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.10:443?path=6b777a91&security=tls&host=jobscareerforstudent.com&type=ws&sni=jobscareerforstudent.com#Dr.s+Hamrah+Avval+3
 trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.10:443?path=6b777a91&security=tls&host=jobscareerforstudent.com&type=ws&sni=jobscareerforstudent.com#🍓+@V2ray_Alpha+2
@@ -9,22 +7,17 @@ trojan://71409d3e488548e8bb076d229778f008@104.17.147.77:443?path=6b777a91&securi
 trojan://71409d3e488548e8bb076d229778f008@198.41.220.4:443?path=/6b777a91&security=tls&host=jobscareerforlawyers.com&type=ws&sni=jobscareerforlawyers.com#1
 trojan://71409d3e488548e8bb076d229778f008@198.41.220.4:443?path=/6b777a91&security=tls&host=jobscareerforlawyers.com&type=ws&sni=jobscareerforlawyers.com#@V2ray1_Ng
 trojan://71409d3e488548e8bb076d229778f008@198.41.220.4:443?path=/6b777a91&security=tls&host=jobscareerforlawyers.com&type=ws&sni=jobscareerforlawyers.com#[🚀]+➠+@V2ray_official
+trojan://8fc4c0fe-9fdc-422b-b559-1ec7f41ae6d3@45.79.19.29:443?#@Hope_Net-join-us-on-Telegram
 trojan://BF434MGTN9@arm3g.720208.xyz:23650/?type=ws&path=/?ed=2048#🅱️72@oneclickvpnkeys
 trojan://EgAMtxAquaO78-IvTSWpnQ@new.whalekade.fun:2096?path=/book&security=tls&host=mrz.learnturkishspeech.fun&type=ws&sni=mrz.learnturkishspeech.fun#@NETMelliAnti
-trojan://bf3ffff0-0277-11ef-91f8-1239d0255272@104.21.69.44:443?sni=fr1.test3.net&type=ws&host=fr1.test3.net&path=/howdy#@Hope_Net-join-us-on-Telegram
-trojan://bf3ffff0-0277-11ef-91f8-1239d0255272@172.67.204.84:443?sni=fr1.test3.net&type=ws&host=fr1.test3.net&path=/howdy#@Hope_Net-join-us-on-Telegram
-trojan://da777aae-defb-41d0-a183-2c27da2b4677@jgwdj3.gaox.ml:443?allowInsecure=1#@Hope_Net-join-us-on-Telegram
-trojan://dbf9bf9c-2c3f-474a-8031-d4c00666a989@fhcamd2.gaox.ml:443?allowInsecure=1#@Hope_Net-join-us-on-Telegram
-trojan://e9edd1db-e6f0-4c37-9be7-135335a81e6c@us05.freeflyingcloud.xyz:30020/?type=tcp&security=tls&sni=us05.freeflyingcloud.xyz#🆎22@oneclickvpnkeys
-trojan://f2117e99-9b6e-47fd-b0a9-634a0b15b998@jgw2.gaox.ml:443?allowInsecure=1#@Hope_Net-join-us-on-Telegram
+trojan://acbcaab-cbaa-aacb-cdab-cccbbacbbaaa@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+trojan://cb1f26aa437d4bfa9b841d28503ce8cc@198.41.220.5:443?encryption=none&security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=/6b777a91#⚡️@DeamNet+-+🔻🇨🇦Canada
+trojan://ccababa-caab-caba-dbca-bacbcaaaccbb@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?mode=gun&security=tls&authority=&type=grpc&serviceName=443trojan&sni=cdn-21.gsmxreality.com#🍓+@V2ray_Alpha+3
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?mode=gun&security=tls&type=grpc&serviceName=443trojan&sni=cdn-21.gsmxreality.com#ALL 5
-trojan://telegram-id-privatevpns@3.69.90.24:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
+trojan://telegram-id-privatevpns@3.73.228.198:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@51.20.215.157:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
-trojan://telegram-id-privatevpns@52.56.210.0:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
-trojan://wkmY1R4EcP@144.202.46.58:443?encryption=none&security=tls&type=tcp&headerType=none#⚡️@DeamNet+-+🔻🇺🇸United+States
 trojan://wkmY1R4EcP@45.32.148.182:443?security=tls&headerType=none&type=tcp&sni=z-v2-002805.kailib.com#@IRAN_V2RAY1+🇫🇷+MTN
 trojan://wkmY1R4EcP@45.76.130.173:443?security=tls&headerType=none&type=tcp&sni=z-v2-003289.kailib.com#🍓+@V2ray_Alpha+1
-trojan://wkmY1R4EcP@45.76.247.122:443?encryption=none&security=tls&type=tcp&headerType=none#⚡️@DeamNet+-+🔻🇺🇸United+States
 trojan://wkmY1R4EcP@66.42.84.121:443?security=tls&headerType=none&type=tcp&sni=z-v2-002797.kailib.com#Channel id: @ShadowProxy66
 trojan://wkmY1R4EcP@78.141.221.194:443?security=tls&headerType=none&type=tcp&sni=z-v2-002750.kailib.com#Channel id: @ShadowProxy66
