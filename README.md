@@ -42,5 +42,8 @@ This is a fork of TG-Proxy-Parser by ndsphonemy
     https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/socks
     ```
 
+# Stargazers
+[![Star History Chart](https://api.star-history.com/svg?repos=Surfboardv2ray/TGParse&type=Date)](https://star-history.com/#Surfboardv2ray/TGParse&Date)
+
 # Visitors
 ![Visitor's Count](https://profile-counter.glitch.me/Surfboardv2ray_TGParse/count.svg)
