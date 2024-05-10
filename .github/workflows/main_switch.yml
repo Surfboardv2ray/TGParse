@@ -141,6 +141,16 @@ jobs:
       run: |
           content=$(cat python/hy2 | base64| tr -d '\n')
             echo "$content" > splitted/hy2
+
+    - name: Convert hysteria to base64
+      run: |
+          content=$(cat python/hysteria | base64| tr -d '\n')
+            echo "$content" > splitted/hysteria
+
+    - name: Convert naive to base64
+      run: |
+          content=$(cat python/naive | base64| tr -d '\n')
+            echo "$content" > splitted/naive
        
     - name: Check for Base64 Changes
       id: changes64
