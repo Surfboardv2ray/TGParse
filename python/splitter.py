@@ -21,6 +21,8 @@ else:
     hysteria2 = [s for s in subscriptions if s.startswith('hysteria2://')]
     hy2 = [s for s in subscriptions if s.startswith('hy2://')]
     tuic = [s for s in subscriptions if s.startswith('tuic://')]
+    hysteria = [s for s in subscriptions if s.startswith('hysteria://')]
+    naive = [s for s in subscriptions if s.startswith('naive+')]
 
     # Write the results to separate files
     with open('python/vmess', 'w') as f:
@@ -39,6 +41,10 @@ else:
         f.write('\n'.join(hy2))
     with open('python/tuic', 'w') as f:
         f.write('\n'.join(tuic))
+    with open('python/hysteria', 'w') as f:
+        f.write('\n'.join(hysteria))
+    with open('python/naive', 'w') as f:
+        f.write('\n'.join(naive))
 
 
 
