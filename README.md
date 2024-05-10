@@ -22,12 +22,16 @@ This is a fork of [TG-Proxy-Parser](https://github.com/ndsphonemy/TG-Proxy-Parse
     ```bash
     https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/vmess
     ```
-- **Hysteria2**
+- **Hysterias**
     ```bash
     https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/hy2
     ```
      ```bash
     https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/hysteria2
+    ```
+
+     ```bash
+    https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/hysteria
     ```
 - **Trojan**
     ```bash
