@@ -56,7 +56,7 @@ jobs:
     - name: Run Parser
       env:
           THRD_PARS: '128'
-          PARS_DP: '1'
+          PARS_DP: '2'
           USE_INV_TC: 'n'
       run: |
         python tg-parser.py
