@@ -24,14 +24,14 @@ This is a fork of [TG-Proxy-Parser](https://github.com/ndsphonemy/TG-Proxy-Parse
     ```
 - **Hysterias**
     ```bash
-    https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/hy2
+    https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/python/hy2
     ```
      ```bash
-    https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/hysteria2
+    https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/python/hysteria2
     ```
 
      ```bash
-    https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/hysteria
+    https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/python/hysteria
     ```
 - **Trojan**
     ```bash
@@ -43,7 +43,7 @@ This is a fork of [TG-Proxy-Parser](https://github.com/ndsphonemy/TG-Proxy-Parse
     ```
 - **Socks5**
     ```bash
-    https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/socks
+    https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/python/socks
     ```
 
 # Stargazers
