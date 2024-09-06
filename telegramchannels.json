@@ -37,6 +37,7 @@
     "deragv2ray",
     "digiv2ray",
     "directvpn",
+    "dra_net",
     "drvpn_net",
     "electro_v2ray",
     "eliv2ray",
@@ -192,6 +193,7 @@
     "v2rayng_madam",
     "v2rayng_outline_vpn",
     "v2rayng_prime",
+    "v2rayng_vpn",
     "v2rayng_vpnn",
     "v2rayngcloud",
     "v2rayngraisi",
@@ -235,6 +237,7 @@
     "vpn_v2rang_box",
     "vpn_vip_nor",
     "vpnamohelp",
+    "vpnandroid2",
     "vpnazadland",
     "vpnconfignet",
     "vpnfail_v2ray",
@@ -256,5 +259,6 @@
     "xvproxy",
     "zede_filteri",
     "zedmodeonvpn",
+    "zibanabz",
     "zohalserver"
 ]
