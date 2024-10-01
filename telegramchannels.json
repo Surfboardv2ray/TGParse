@@ -10,7 +10,6 @@
     "archive_android",
     "arv2ray",
     "asak_vpn",
-    "asrnovin_ir",
     "astrovpn_official",
     "avra_vpn",
     "axproxy",
@@ -57,7 +56,6 @@
     "hajimamadvpn",
     "hamster_vpnn",
     "hatunnel_vpn",
-    "helix_servers",
     "hiveping",
     "hope_net",
     "hopev2ray",
@@ -170,10 +168,8 @@
     "v2rayng_madam",
     "v2rayng_outline_vpn",
     "v2rayng_prime",
-    "v2rayng_vpn",
     "v2rayng_vpnn",
     "v2rayngcloud",
-    "v2rayngn",
     "v2rayngraisi",
     "v2rayngv",
     "v2rayngvpnn",
@@ -231,6 +227,5 @@
     "xpnteam",
     "xvproxy",
     "zede_filteri",
-    "zibanabz",
     "zohalserver"
 ]
