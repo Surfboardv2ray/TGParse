@@ -1,4 +1,7 @@
 hysteria2://18a720415df07a92@[2400:8a20:113:36::]:64321?security=tls&insecure=1&sni=www.bing.com#Irancell-@V2ray_Alpha-8
+hysteria2://1f17cdf0578a2860@45.76.0.86:443?security=tls&obfs=salamander&obfs-password=4b817757&insecure=1&sni=45.76.0.86#⚙️ConfigV2RayNG
+hysteria2://81ea378b37931b23@77.221.158.52:7373?security=tls&obfs=salamander&obfs-password=7d9dff369a11f6e0&insecure=1&sni=www.google.com#⚡️+@ConfigV2RayNG+(Hysteria)
+hysteria2://9bb452b106ffc217@207.148.22.93:443?security=tls&obfs=salamander&obfs-password=cd29099d&insecure=1&sni=207.148.22.93#⚙️ConfigV2RayNG
 hysteria2://9bb452b106ffc217@[2001:19f0:1000:18b3:5400:5ff:fe19:3f6d]:443?security=tls&obfs=salamander&obfs-password=cd29099d&insecure=1&sni=2001:19f0:1000:18b3:5400:5ff:fe19:3f6d#Irancell-@V2ray_Alpha-9
 hysteria2://c5110090-c3a2-429e-b9b8-072b6535be1b@144.202.119.175:8080?security=tls&insecure=0&sni=jp2.trojanws.xyz#Irancell-@V2ray_Alpha-5
 hysteria2://c5110090-c3a2-429e-b9b8-072b6535be1b@149.28.71.141:8080?security=tls&insecure=0&sni=jp1.trojanws.xyz#Irancell-@V2ray_Alpha-6
