@@ -1,19 +1,12 @@
-hysteria2://1f17cdf0578a2860@45.76.0.86:443?security=tls&obfs=salamander&obfs-password=4b817757&insecure=1&sni=vkvd127.mycdn.me#🇺🇸+ConfigV2RayNG
-hysteria2://1f17cdf0578a2860@[2001:19f0:5:34a0:5400:5ff:fe19:3f6f]:443?security=tls&obfs=salamander&obfs-password=4b817757&insecure=1&sni=2001:19f0:5:34a0:5400:5ff:fe19:3f6f#🇺🇸+ConfigV2RayNG
 hysteria2://28c05d48e2f470d07a4c392c9bd43849@quran.mci.ai:443?security=tls&insecure=0#🇹🇷+Türkiye+(@EXPRESSVPN_420)+⚡
+hysteria2://28c05d48e2f470d07a4c392c9bd43849@quran.mci.ai:443?security=tls&insecure=0&sni=quran.mci.ai#🇹🇷+ConfigV2RayNG+⚡
+hysteria2://5454c787-fa89-4416-8d3f-0e56d8e0969c@128.204.223.42:28258?security=tls&insecure=1&sni=www.bing.com#⚙️64@ConfigV2RayNG
 hysteria2://6d853bb9@[2a0e:dc0:5:2264:a:b:220e:a5c9]:61631?security=tls&insecure=1&sni=2a0e:dc0:5:2264:a:b:220e:a5c9#IR-@V2ray_Alpha-01
 hysteria2://6d853bb9@[2a0e:dc0:5:2264:a:b:220e:a5c9]:61631?security=tls&insecure=1&sni=2a0e:dc0:5:2264:a:b:220e:a5c9#IR-@V2ray_Raha-01
 hysteria2://6d853bb9@[2a0e:dc0:5:2264:a:b:220e:a5c9]:61631?security=tls&insecure=1&sni=2a0e:dc0:5:2264:a:b:220e:a5c9#MCI-@V2ray_Alpha-02
 hysteria2://6d853bb9@[2a0e:dc0:5:2264:a:b:220e:a5c9]:61631?security=tls&insecure=1&sni=2a0e:dc0:5:2264:a:b:220e:a5c9#MCI-@V2ray_Raha-03
-hysteria2://7bcb0e26-eb0a-4658-abfc-b808c3744c9d@94.131.122.35:53040?security=tls&obfs=salamander&obfs-password=0pjlRGR3tjhXtMs&insecure=1&sni=myket.ir#@v2ryNG01+|🇺🇲+|
-hysteria2://7bcb0e26-eb0a-4658-abfc-b808c3744c9d@94.131.122.35:53040?security=tls&obfs=salamander&obfs-password=0pjlRGR3tjhXtMs&insecure=1&sni=myket.ir#🇬🇧ConfigV2RayNG
-hysteria2://7d417084-d308-4b35-96c8-99dfb2547ec2@us12.wish.ml:30102?security=tls&insecure=1&sni=us12.wish.ml#🇺🇸ConfigV2RayNG
-hysteria2://7d417084-d308-4b35-96c8-99dfb2547ec2@us13.wish.ml:30102?security=tls&insecure=1&sni=us13.wish.ml#🇺🇸ConfigV2RayNG
-hysteria2://a04705ec-afe0-47d7-99f9-856caaed6a96@45.8.147.250:53038?security=tls&obfs=salamander&obfs-password=0pjlRGR3tjhXtMs&insecure=1&sni=mobile.ir#🇸🇪ConfigV2RayNG
-hysteria2://a2d32294@[2407:cdc0:800b::41d9:914b]:20865?security=tls&insecure=1&sni=2407:cdc0:800b::41d9:914b#ConfigV2RayN
 hysteria2://c72ee44c@[2001:41d0:a:2a7a:a:b:df4e:2408]:35051?security=tls&insecure=1&sni=2001:41d0:a:2a7a:a:b:df4e:2408#MCI-@V2ray_Alpha-01
 hysteria2://c72ee44c@[2001:41d0:a:2a7a:a:b:df4e:2408]:35051?security=tls&insecure=1&sni=2001:41d0:a:2a7a:a:b:df4e:2408#MCI-@V2ray_Raha-02
-hysteria2://d9065207@[2407:cdc0:800b::c25c:7458]:34707?security=tls&insecure=1&sni=2407:cdc0:800b::c25c:7458#ConfigV2RayNG
 hysteria2://e169856c-7c19-4908-9bdf-448dc846163a@129.151.254.139:443?security=tls&insecure=1&sni=www.bing.com#IR-@V2ray_Alpha-1
 hysteria2://e169856c-7c19-4908-9bdf-448dc846163a@129.151.254.139:443?security=tls&insecure=1&sni=www.bing.com#IR-@V2ray_Raha-1
 hysteria2://e169856c-7c19-4908-9bdf-448dc846163a@130.162.250.164:443?security=tls&insecure=1&sni=www.bing.com#IR-@V2ray_Alpha-3
@@ -34,4 +27,3 @@ hysteria2://e169856c-7c19-4908-9bdf-448dc846163a@40.233.91.166:443?security=tls&
 hysteria2://e169856c-7c19-4908-9bdf-448dc846163a@40.233.91.166:443?security=tls&insecure=1&sni=www.bing.com#WiFi-@V2ray_Raha-3
 hysteria2://e169856c-7c19-4908-9bdf-448dc846163a@64.181.236.144:443?security=tls&insecure=1&sni=www.bing.com#MCI-@V2ray_Alpha-5
 hysteria2://e169856c-7c19-4908-9bdf-448dc846163a@64.181.236.144:443?security=tls&insecure=1&sni=www.bing.com#MCI-@V2ray_Raha-5
-hysteria2://f8b7a2af-7fae-4853-a91f-b430257648f0@85.209.154.74:53039?security=tls&obfs=salamander&obfs-password=0pjlRGR3tjhXtMs&insecure=1&sni=alibaba.ir#🇩🇪ConfigV2RayNG
