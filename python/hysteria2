@@ -1,4 +1,3 @@
-hysteria2://0d42717f@212.192.13.222:1995?security=tls&insecure=1&sni=www.bing.com#MCi-@V2ray_Alpha-8
 hysteria2://1f17cdf0578a2860@[2001:19f0:5:34a0:5400:5ff:fe19:3f6f]:443?security=tls&obfs=salamander&obfs-password=4b817757&insecure=1#MCI-@V2ray_Alpha-10
 hysteria2://1f17cdf0578a2860@[2001:19f0:5:34a0:5400:5ff:fe19:3f6f]:443?security=tls&obfs=salamander&obfs-password=4b817757&insecure=1#MCI-@V2ray_Raha-10
 hysteria2://2d347be7-909b-4410-af92-95a1abf7e531@129.151.220.170:35000?security=tls&insecure=1&sni=www.apple.com#All-@V2ray_Alpha-3
@@ -15,9 +14,6 @@ hysteria2://4453aa95-c236-46a1-8066-8145ab8ebee6@207.211.176.63:30102?security=t
 hysteria2://4453aa95-c236-46a1-8066-8145ab8ebee6@207.211.189.252:30102?security=tls&insecure=1&sni=us12.wish.ml#IR-@V2ray_Alpha-5
 hysteria2://4453aa95-c236-46a1-8066-8145ab8ebee6@us13.wish.ml:30102?security=tls&insecure=1&sni=us13.wish.ml#WiFi-@V2ray_Alpha-7
 hysteria2://4453aa95-c236-46a1-8066-8145ab8ebee6@us13.wish.ml:30102?security=tls&insecure=1&sni=us13.wish.ml#WiFi-@V2ray_Raha-7
-hysteria2://547e05a0-2e59-4712-b9f9-dedb10293d83@ae1.xiaoliyu.us:2056?security=tls&insecure=1&sni=ae1.xiaoliyu.us#MCi-@V2ray_Alpha-9
-hysteria2://547e05a0-2e59-4712-b9f9-dedb10293d83@bra1.xiaoliyu.us:2056?security=tls&insecure=1&sni=bra1.xiaoliyu.us#MCi-@V2ray_Alpha-10
-hysteria2://547e05a0-2e59-4712-b9f9-dedb10293d83@hk3.xiaoliyu.us:2052?security=tls&insecure=1&sni=hk3.xiaoliyu.us#MCi-@V2ray_Alpha-11
 hysteria2://547e05a0-2e59-4712-b9f9-dedb10293d83@in1.xiaoliyu.us:2052?security=tls&insecure=1&sni=in1.xiaoliyu.us#Ir-@@V2ray_Alpha-12
 hysteria2://547e05a0-2e59-4712-b9f9-dedb10293d83@uk1.xiaoliyu.us:2056?security=tls&insecure=1&sni=uk1.xiaoliyu.us#Ir-@@V2ray_Alpha-13
 hysteria2://59560185-e1e5-49a0-b2c6-1f8a60505e99@45.140.169.231:8080?security=tls&insecure=1&sni=www.bing.com#Mci-@V2ray_Alpha-05
@@ -42,9 +38,6 @@ hysteria2://7d417084-d308-4b35-96c8-99dfb2547ec2@207.211.178.161:30102?security=
 hysteria2://7d417084-d308-4b35-96c8-99dfb2547ec2@207.211.178.161:30102?security=tls&insecure=1&sni=us6.wish.ml#MCI-@V2ray_Raha-3
 hysteria2://7d417084-d308-4b35-96c8-99dfb2547ec2@40.233.76.38:30102?security=tls&insecure=1&sni=du.wish.ml#MCI-@V2ray_Alpha-8
 hysteria2://7d417084-d308-4b35-96c8-99dfb2547ec2@40.233.76.38:30102?security=tls&insecure=1&sni=du.wish.ml#MCI-@V2ray_Raha-8
-hysteria2://8ea05545-2dc7-4487-8005-b7d581169945@shy35.zqjc.cloud:55215?security=tls&insecure=1&sni=shy35.zqjc.cloud#@kingofilter
-hysteria2://9ca78a86-07bb-4eaf-a47d-1a7bb40928e3@205.185.125.20:443?security=tls&insecure=1&mport=50000-53000&sni=apps.apple.com#MCi-@V2ray_Alpha-19
-hysteria2://9ca78a86-07bb-4eaf-a47d-1a7bb40928e3@209.141.42.49:443?security=tls&insecure=1&mport=50000-53000&sni=www.bing.com#MCi-@V2ray_Alpha-21
 hysteria2://9ca78a86-07bb-4eaf-a47d-1a7bb40928e3@46.17.40.117:443?security=tls&insecure=1&mport=50000-53000&sni=music.apple.com#Ir-@@V2ray_Alpha-26
 hysteria2://9ca78a86-07bb-4eaf-a47d-1a7bb40928e3@91.149.203.119:443?security=tls&insecure=1&mport=50000-53000&sni=api.push.apple.com#Ir-@@V2ray_Alpha-25
 hysteria2://KevinZakarian@66.23.198.35:8443?security=tls&obfs=salamander&obfs-password=KevinZakarian&insecure=1&sni=kevin.serverv.net#IR-@V2ray_Alpha-4
@@ -54,7 +47,6 @@ hysteria2://bc97f674-c578-4940-9234-0a1da46041b9@188.68.234.53:24662?security=tl
 hysteria2://bc97f674-c578-4940-9234-0a1da46041b9@188.68.234.53:24662?security=tls&insecure=1&sni=www.bing.com#IR-@V2ray_Raha-3
 hysteria2://ksGeWd8r9Rz8@107.175.70.80:16424?security=tls&insecure=1&sni=www.bing.com#Mci-@V2ray_Alpha-06
 hysteria2://ksGeWd8r9Rz8@107.175.70.80:16424?security=tls&insecure=1&sni=www.bing.com#Mci-@V2ray_Raha-06
-hysteria2://sysadmin.12345678@192.227.247.92:2025?security=tls&insecure=1#MCi-@V2ray_Alpha-12
 hysteria2://sysadmin.sysadmin@104.168.102.17:443?security=tls&insecure=1#Ir-@@V2ray_Alpha-20
 hysteria2://sysadmin.sysadmin@104.168.102.17:443?security=tls&insecure=1#Ir-@@V2ray_Raha-4
 hysteria2://sysadmin.sysadmin@108.174.197.101:443?security=tls&insecure=1#Ir-@@V2ray_Alpha-19
@@ -64,16 +56,9 @@ hysteria2://sysadmin.sysadmin@142.171.194.167:443?security=tls&insecure=1#Ir-@@V
 hysteria2://sysadmin.sysadmin@148.135.36.71:56666?security=tls&insecure=1#Ir-@@V2ray_Alpha-16
 hysteria2://sysadmin.sysadmin@148.135.43.213:56666?security=tls&insecure=1#Ir-@@V2ray_Alpha-15
 hysteria2://sysadmin.sysadmin@148.135.43.253:446?security=tls&insecure=1&sni=ss.aslirico3212.nyc.mn#Ir-@@V2ray_Alpha-23
-hysteria2://sysadmin.sysadmin@148.135.59.9:446?security=tls&insecure=1#MCi-@V2ray_Alpha-18
 hysteria2://sysadmin.sysadmin@152.67.234.151:444?security=tls&insecure=1&sni=mg2.wtn.wang#Ir-@@V2ray_Alpha-22
-hysteria2://sysadmin.sysadmin@154.201.76.131:444?security=tls&insecure=1&sni=ss.wodeyumingliao.top#MCi-@V2ray_Alpha-16
 hysteria2://sysadmin.sysadmin@154.7.183.57:443?security=tls&insecure=1#Ir-@@V2ray_Alpha-17
 hysteria2://sysadmin.sysadmin@165.1.76.128:444?security=tls&insecure=1&sni=mg1.wtn.wang#Ir-@@V2ray_Alpha-24
 hysteria2://sysadmin.sysadmin@165.1.76.128:444?security=tls&insecure=1&sni=mg1.wtn.wang#Ir-@@V2ray_Raha-5
 hysteria2://sysadmin.sysadmin@192.210.235.104:10053?security=tls&insecure=1#Ir-@@V2ray_Alpha-14
-hysteria2://sysadmin.sysadmin@192.227.231.142:443?security=tls&insecure=1#MCi-@V2ray_Alpha-15
 hysteria2://sysadmin.sysadmin@194.36.209.54:443?security=tls&insecure=1#IR-@V2ray_Alpha-6
-hysteria2://sysadmin.sysadmin@206.237.0.170:443?security=tls&insecure=1#MCi-@V2ray_Alpha-20
-hysteria2://sysadmin.sysadmin@23.95.20.134:446?security=tls&insecure=1#MCi-@V2ray_Alpha-17
-hysteria2://sysadmin.sysadmin@45.130.146.21:443?security=tls&insecure=1#MCi-@V2ray_Alpha-14
-hysteria2://sysadmin.sysadmin@47.76.80.29:2023?security=tls&insecure=1#MCi-@V2ray_Alpha-13
