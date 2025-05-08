@@ -10,6 +10,9 @@ trojan://1c1aabf0-1234-11f0-bdf0-1239d0255272@uk1.test3.net:443?security=tls&hea
 trojan://1e63e585ab2fef3adcc9ea75a62abc23@104.251.227.182:443?security=tls&sni=hezijiasuqi.com&allowInsecure=1&type=tcp#@awlix_ir
 trojan://282084b0-1234-11f0-8b34-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💛
 trojan://2b641d50-29cd-11f0-a030-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💕
+trojan://2faaf996-d2b0-440d-8258-81f2b05dd0e4@104.26.12.31:443?path=/trojan-argo?ed=2560&security=tls&host=fwd-refuse-senators-brought.trycloudflare.com&type=ws&sni=fwd-refuse-senators-brought.trycloudflare.com#United States
+trojan://2faaf996-d2b0-440d-8258-81f2b05dd0e4@104.26.13.31:443?path=/trojan-argo?ed=2560&security=tls&host=fwd-refuse-senators-brought.trycloudflare.com&type=ws&sni=fwd-refuse-senators-brought.trycloudflare.com#United States
+trojan://2faaf996-d2b0-440d-8258-81f2b05dd0e4@172.67.75.172:443?path=/trojan-argo?ed=2560&security=tls&host=fwd-refuse-senators-brought.trycloudflare.com&type=ws&sni=fwd-refuse-senators-brought.trycloudflare.com#United States
 trojan://2ggAcGC8hJ@15.204.237.31:2083?security=tls&sni=USa-vp-31.MeTiKapps.Com&type=ws&host=USa-vp-31.MeTiKapps.Com&path=/linkws#@Golestan_VPN - JOIN
 trojan://33fa18c3-93ad-4bb6-9288-2dcf58a04bb3@183.240.116.235:10465?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#@Hope_Net-join-us-on-Telegram
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@chop-wrist-bud.stark-industries.solutions:443?security=tls&path=/vpnowl&headerType=none&type=tcp#فیلترشکن رایگان👈vpnowl@
@@ -30,9 +33,7 @@ trojan://5afd9e20-2133-11f0-8d56-1239d0255272@fr1.test3.net:443?security=tls&hea
 trojan://5de7ba00-1234-11f0-b66e-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp&sni=zula.ir#@hopev2ray💖
 trojan://61f7ce90-2132-11f0-ba75-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💝
 trojan://6518a1cf-a234-462d-9551-e02f95cc13eb@tr1-thcvpn.servehalflife.com:443?security=tls&headerType=none&type=tcp&sni=tr1.thcvpn.ip-ddns.com#@Pashmam_Vpn سرور های بیشتر
-trojan://683d29d7-a3b8-42c5-9a9b-e21812e5f8b6@45.146.232.171:34016?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#@Hope_Net-join-us-on-Telegram
 trojan://70017490-2132-11f0-bdf2-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💞
-trojan://75RmT4e0rUqi@tasnim.andishehnegariran.ir:2053?security=tls&sni=tasnim.andishehnegariran.ir&alpn=h3,h2,http/1.1&fp=chrome&type=ws&host=tasnim.andishehnegariran.ir&path=/🆔@M3HDIO1#🅼🅴🅷🅳🅸
 trojan://78ddda10-2132-11f0-89cb-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💙
 trojan://80e11690-29cc-11f0-bfc7-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💘
 trojan://819a1d30-1234-11f0-83e2-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💚
@@ -48,18 +49,12 @@ trojan://@NoForcedHeaven@NoForcedHeaven@NoForcedHeaven@NoForcedHeaven@NoForcedHe
 trojan://@NoForcedHeaven@NoForcedHeaven@NoForcedHeaven@NoForcedHeaven@NoForcedHeaven@ru2.asc-sam.ir:8443?type=tcp&path=/&host=ru2.asc-sam.ir&headerType=http&security=tls&fp=chrome&alpn=h3,h2,http/1.1&sni=ru2.asc-sam.ir#@NoForcedHeaven
 trojan://@NoForcedHeaven@NoForcedHeaven@NoForcedHeaven@ru2.asc-sam.ir:8443?type=tcp&path=/&host=ru2.asc-sam.ir&headerType=http&security=tls&fp=chrome&alpn=h3,h2,http/1.1&sni=ru2.asc-sam.ir#@NoForcedHeaven
 trojan://AXpQXM4vNh@141.227.160.167:1935?security=tls&alpn=h3,h2,http/1.1&headerType=none&type=tcp&sni=x2swe-ovh.devefun.net#@V2rayNG3
-trojan://Aimer@154.197.64.67:443?allowInsecure=0&sni=epccf.ambercc.filegear-sg.me#🟣🔥+کانال+سرور+رایگان+@FarahVPN
-trojan://B6ASqRIcNPVT@leader.andishehnegariran.ir:2087?security=tls&sni=leader.andishehnegariran.ir&alpn=h3,h2,http/1.1&fp=chrome&type=httpupgrade&host=leader.andishehnegariran.ir&path=/🆔@M3HDIO1#🅼🅴🅷🅳🅸
 trojan://Bc#??cut0k9l@188.114.97.1:2053?path=/trBO8dCAU3xSWEBOKo?ed=2560&security=tls&alpn=http/1.1&host=g7tau5zf41eqnf9fpwj8rmqy3sfyei4l.prx11.workers.dev&fp=chrome&type=ws&sni=G7tAu5Zf41EQNf9fpWJ8RmQy3SFyEi4l.prX11.WOrkers.DEV#🇨🇦+prx11+💖🔥🎉
 trojan://Bc#??cut0k9l@www.speedtest.net:2053?path=/trfoKzrMN87amrjlOx?ed=2560&security=tls&alpn=http/1.1&host=g7tau5zf41eqnf9fpwj8rmqy3sfyei4l.prx11.workers.dev&fp=chrome&type=ws&sni=G7tAU5ZF41eqnF9FpwJ8rmQY3SFYEI4l.PRX11.wORKeRS.dEV#🇨🇦+prx11+🌟🔥✨
 trojan://Bw5Mz7QkVp@70.34.206.32:443?security=tls&sni=z-v2-077787.kailib.com&allowInsecure=1&type=tcp#@awlix_ir
 trojan://Bw5Mz7QkVp@95.179.245.249:443?security=tls&sni=z-v2-080537.kailib.com&type=tcp#@awlix_ir
-trojan://DRSRSpF02rLB@tasnim.andishehnegariran.ir:2053?security=tls&sni=tasnim.andishehnegariran.ir&alpn=h3,h2,http/1.1&fp=chrome&type=ws&host=tasnim.andishehnegariran.ir&path=/🆔@M3HDIO1#🅼🅴🅷🅳🅸
-trojan://EUgKMlE1sx9Q@leader.andishehnegariran.ir:2087?security=tls&sni=leader.andishehnegariran.ir&alpn=h3,h2,http/1.1&fp=chrome&type=httpupgrade&host=leader.andishehnegariran.ir&path=/🆔@M3HDIO1#🅼🅴🅷🅳🅸
 trojan://FiSo7J6vfS@51.68.13.106:1935?security=tls&alpn=h3,h2,http/1.1&headerType=none&type=tcp&sni=x1fr-ovh.devefun.net#@V2rayNG3
 trojan://FiSo7J6vfS@51.68.13.106:1935?security=tls&alpn=h3,h2,http/1.1&headerType=none&type=tcp&sni=x1fr-ovh.devefun.net#🔰@fast_2ray 👈سرورهای‌بیشتر
-trojan://Kl639CFtLNnR@leader.andishehnegariran.ir:2087?security=tls&sni=leader.andishehnegariran.ir&alpn=h3,h2,http/1.1&fp=chrome&type=httpupgrade&host=leader.andishehnegariran.ir&path=/🆔@M3HDIO1#🅼🅴🅷🅳🅸
-trojan://LYFgUfCAGw0m@leader.andishehnegariran.ir:2087?security=tls&sni=leader.andishehnegariran.ir&alpn=h3,h2,http/1.1&fp=chrome&type=httpupgrade&host=leader.andishehnegariran.ir&path=/🆔@M3HDIO1#🅼🅴🅷🅳🅸
 trojan://OLq0FfOlp7@141.227.160.88:1935?security=tls&headerType=none&type=tcp&sni=x1-sweden-ovh-v2.devefun.net#@meli_proxyy
 trojan://OLq0FfOlp7@141.227.160.88:1935?type=tcp&security=tls&headerType=none&sni=x1-sweden-ovh-v2.devefun.net&alpn=h2,http/1.1#@VPN_VIP_NOR-1
 trojan://PAVnZfWL5W@p7.punchline.ir:41126?mode=auto&path=/v2raybluecrystal&security=reality&pbk=qaA6BpdW1CxRl0gF0i4Oi9P_KW0zdmpBt8bDT0JpUmU&fp=chrome&spx=/&type=xhttp&sni=www.microsoft.com&sid=86af557585b6#@NETMelliAnti
@@ -68,34 +63,30 @@ trojan://Pooria@104.17.148.22:443?path=/trPyOrWMfkHd15oxiI?ed=1520#FreeV2Alpha&s
 trojan://Pooria@104.17.148.22:443?path=/trPyOrWMfkHd15oxiI?ed=1520&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=chrome&type=ws&sni=301.pOORiAm.ir#@V2rayNG3
 trojan://Pooria@104.17.148.22:443?path=trPyOrWMfkHd15oxiI?ed=1520#@v2ray_alpha&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=chrome&type=ws&sni=301.pOORiAm.ir#@V2rayNG3
 trojan://Pooria@104.17.148.22:443?path=trPyOrWMfkHd15oxiI?ed=1520#@v2ray_alpha&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=chrome&type=ws&sni=301.pOORiAm.ir#@vmesskhodam
-trojan://QqFaA2nMysJN@leader.andishehnegariran.ir:2087?security=tls&sni=leader.andishehnegariran.ir&alpn=h3,h2,http/1.1&fp=chrome&type=httpupgrade&host=leader.andishehnegariran.ir&path=/🆔@M3HDIO1#🅼🅴🅷🅳🅸
-trojan://SBqPhvPW1KSn@leader.andishehnegariran.ir:2087?security=tls&sni=leader.andishehnegariran.ir&alpn=h3,h2,http/1.1&fp=chrome&type=httpupgrade&host=leader.andishehnegariran.ir&path=/🆔@M3HDIO1#🅼🅴🅷🅳🅸
-trojan://WAch8GvQKhy8@leader.andishehnegariran.ir:2087?security=tls&sni=leader.andishehnegariran.ir&alpn=h3,h2,http/1.1&fp=chrome&type=httpupgrade&host=leader.andishehnegariran.ir&path=/🆔@M3HDIO1#🅼🅴🅷🅳🅸
 trojan://ZqS3Lxamkh@ru2.asc-sam.ir:2087?type=grpc&serviceName=&authority=&security=tls&fp=&alpn=h3,h2,http/1.1&sni=ru2.asc-sam.ir#@NoForcedHeaven
 trojan://a0f73320-1af3-11f0-a56a-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray❤️
 trojan://a591a9b0-2132-11f0-9930-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray🩵
 trojan://a8664a30-29cc-11f0-92d4-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray🩵
-trojan://aTArbZ2F0E@cloudgetservice.mcloudservice.site:443?sni=uSa-vp-27.bLAzECLOUD.SITE&type=ws&host=uSa-vp-27.bLAzECLOUD.SITE&path=/linkvkws#telegram ⚡️ DailyV2ry
+trojan://aTArbZ2F0E@cloudgetservice.mcloudservice.site:443?sni=uSa-vp-27.bLAzECLOUD.SITE&type=ws&host=uSa-vp-27.bLAzECLOUD.SITE&path=/linkvkws#telegram 🎪 DailyV2ry
 trojan://aa0b5a20-1af3-11f0-b31b-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💙
 trojan://afd7d730-2132-11f0-af80-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💜
 trojan://amclubs@103.160.204.1:443?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&host=tran.amclubstest.nyc.mn&type=ws&sni=tran.amclubstest.nyc.mn#@V2rayNG3
 trojan://auto@172.67.174.252:443?security=tls&sni=esetsecuritylicense1.vowexa5791.workers.dev&type=ws&host=esetsecuritylicense1.vowexa5791.workers.dev&path=/#@Golestan_VPN - JOIN
 trojan://b22214b0-29cc-11f0-a493-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray🧡
-trojan://b6200af42ccadea353f5b5856dd20d70@120.233.128.68:39001?allowInsecure=0#@Hope_Net-join-us-on-Telegram
+trojan://b685610e-f160-4cee-9ee8-b3bd18e644ca@183.2.150.98:33506?allowInsecure=1&sni=q08m.vgraxiw73s.hasyaf.cn#@Hope_Net-join-us-on-Telegram
 trojan://ba2e2a70-2132-11f0-9456-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💛
 trojan://bb101390-29cc-11f0-936b-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💚
 trojan://bpb-trojan@104.21.30.195:443?security=tls&sni=403b3611-99BC-43B7-88D7-26eD5d0825a9-3.PagES.DEv&type=tcp#@awlix_ir
 trojan://bpb-trojan@162.159.152.227:443?security=tls&sni=cf.090227.xyz&allowInsecure=1&type=tcp#@awlix_ir
 trojan://bpb-trojan@23.227.60.8:443?security=tls&sni=403b3611-99bc-43b7-88D7-26Ed5D0825A9-3.paGeS.dev&type=tcp#@awlix_ir
-trojan://c4a7a5e1-b01d-4e5d-bed4-8fc8d5eafe3a@58.254.186.231:27103?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#@Hope_Net-join-us-on-Telegram
 trojan://c86b6670-1af3-11f0-b10c-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💚
 trojan://c8b9db60-2132-11f0-880d-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💖
 trojan://cb408610-29cc-11f0-8abf-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💛
 trojan://d8e9f5e0-1233-11f0-85ba-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray🤍
 trojan://dVqpmoYvWGuP@leader.andishehnegariran.ir:2087?security=tls&sni=leader.andishehnegariran.ir&alpn=h3,h2,http/1.1&fp=chrome&type=httpupgrade&host=leader.andishehnegariran.ir&path=/🆔@M3HDIO1#🅼🅴🅷
-trojan://dVqpmoYvWGuP@leader.andishehnegariran.ir:2087?security=tls&sni=leader.andishehnegariran.ir&alpn=h3,h2,http/1.1&fp=chrome&type=httpupgrade&host=leader.andishehnegariran.ir&path=/🆔@M3HDIO1#🅼🅴🅷🅳🅸
 trojan://da86c6b5-a130-4bb8-a6ef-00b77b85b9e7@94.131.122.157:8443?mode=gun&security=tls&type=grpc&serviceName=grpc&sni=uk2.safecdn.site#@V2rayNG3
 trojan://dca7cc60-1234-11f0-8a3f-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray🔥
+trojan://e6a2e741-0fce-440b-910c-b81325e2263a@94.131.20.3:443?security=tls&headerType=&type=tcp&sni=cache-giver-wife.stark-industries.solutions#United States
 trojan://e6a2e741-0fce-440b-910c-b81325e2263a@bats-paper-chump.stark-industries.solutions:443?security=tls&path=/vpnowl&headerType=none&type=tcp#فیلترشکن رایگان👈vpnowl@
 trojan://e6a2e741-0fce-440b-910c-b81325e2263a@bring-glove-shine.stark-industries.solutions:443?security=tls&path=/vpnowl&headerType=none&type=tcp#فیلترشکن رایگان👈vpnowl@
 trojan://e6a2e741-0fce-440b-910c-b81325e2263a@cache-giver-wife.stark-industries.solutions:443?security=tls&path=/vpnowl&headerType=none&type=tcp&sni=cache-giver-wife.stark-industries.solutions#فیلترشکن رایگان👈vpnowl@
@@ -112,8 +103,6 @@ trojan://fc5d25b0-1234-11f0-a7e5-1239d0255272@fr1.test3.net:443?security=tls&hea
 trojan://hZ7JkYVAfB@141.227.138.29:1935?security=tls&alpn=h3,h2,http/1.1&headerType=none&type=tcp&sni=x1ch-ovh.devefun.net#@Golestan_VPN -  🇫🇷
 trojan://hZ7JkYVAfB@141.227.138.29:1935?security=tls&alpn=h3,h2,http/1.1&headerType=none&type=tcp&sni=x1ch-ovh.devefun.net#@V2rayNG3
 trojan://hZ7JkYVAfB@141.227.138.29:1935?security=tls&alpn=h3,h2,http/1.1&headerType=none&type=tcp&sni=x1ch-ovh.devefun.net#🔰@fast_2ray 👈سرورهای‌بیشتر
-trojan://hjP43nBQU3Z6@tasnim.andishehnegariran.ir:2053?security=tls&sni=tasnim.andishehnegariran.ir&alpn=h3,h2,http/1.1&fp=chrome&type=ws&host=tasnim.andishehnegariran.ir&path=/🆔@M3HDIO1#🅼🅴🅷🅳🅸
-trojan://jDKFDrSrnDCM@leader.andishehnegariran.ir:2087?security=tls&sni=leader.andishehnegariran.ir&alpn=h3,h2,http/1.1&fp=chrome&type=httpupgrade&host=leader.andishehnegariran.ir&path=/🆔@M3HDIO1#🅼🅴🅷🅳🅸
 trojan://juzi@104.19.57.183:2096?security=tls&sni=juzi8186-sr1.pages.dev&type=tcp#@awlix_ir
 trojan://juzi@3.76.154.119:443?security=tls&sni=juzi8186-sr1.pages.dev&type=tcp#@awlix_ir
 trojan://klZqKyxq0H@57.128.165.173:1935?security=tls&alpn=h2,http/1.1&headerType=none&type=tcp&sni=x1-england-ovh-v2.devefun.net#خرید @Orange_support
@@ -125,7 +114,6 @@ trojan://pqlnPNu423@57.129.89.172:1935?security=tls&host=x1-germany-ovh-v2.devef
 trojan://pqlnPNu423@57.129.89.172:1935?type=tcp&security=tls&headerType=none&sni=x1-germany-ovh-v2.devefun.net&alpn=h2,http/1.1#@VPN_VIP_NOR_3
 trojan://psycho@104.21.112.1:443?path=/trv9KENu5FqbFAtPFq?ed=2560&security=tls&alpn=http/1.1&host=psycho.suex12.ir&fp=chrome&type=ws&sni=pSYcho.sUeX12.IR#@Vpn_Tehran+🔥+کانفیگ+ویژه+در+تلگرام
 trojan://psycho@104.21.48.1:443?path=/tr7m9KE73yqd6Htr2E?ed=2560&security=tls&alpn=http/1.1&host=psycho.suex12.ir&fp=chrome&type=ws&sni=pSychO.sueX12.IR#🔰@fast_2ray 👈سرورهای‌بیشتر
-trojan://redfree8@104.17.147.22:443?path=/trre5IzbZ9IZZMddtw?ed=2560&security=tls&host=ipsychO.SUEx12.Ir&type=ws&sni=ipsychO.SUEx12.Ir
 trojan://redfree8@104.17.148.22:443?path=/trre5IzbZ9IZZMddtw?ed=2560&security=tls&alpn=h2,http/1.1&host=ipsycho.suex12.ir&fp=chrome&type=ws&sni=ipsychO.SUEx12.Ir#@vpnAzadland🪽
 trojan://redfree8@104.17.148.22:443?security=tls&sni=ipsychO.SUEx12.Ir&alpn=h2,http/1.1&fp=chrome&type=ws&host=ipsycho.suex12.ir&path=/trre5IzbZ9IZZMddtw?ed=2560#@Golestan_VPN - JOIN
 trojan://redfree8@104.17.148.22:80?path=/trLwW5jwrnymnOdqki?ed=2560&security=none&host=redfree8-p1.pooriashop.ir&type=ws#
