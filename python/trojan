@@ -1,11 +1,19 @@
 trojan://2ad5f69a-0d8f-4e33-af04-6b82d0acc672@node11.starnode.online:8080?security=tls&headerType=none&type=tcp&sni=node5.servernode.store#@meli_proxyy
 trojan://3b9f06bc-83ae-4df8-98ca-0cea043b3369@node10.iamservernode.site:6000?security=tls&headerType=none&type=tcp&sni=node1.servernode.store# https://t.me/ConfigX2ray
 trojan://3b9f06bc-83ae-4df8-98ca-0cea043b3369@node10.upperboundnode.click:443?security=tls&headerType=none&type=tcp&sni=node9.servernode.store# https://t.me/ConfigX2ray
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@183.240.139.234:2053?security=tls&sni=official.tokyometropolis.kharkov.ua&allowInsecure=1#[🏁]t.me/ConfigsHub
-trojan://Aimer@154.29.150.2:8080?sni=agepl.ambercc.filegear-sg.me&allowInsecure=0#[🇺🇸]t.me/ConfigsHub
-trojan://SDYlNZ6z5DA8TZqz33YnN4lzpp88YBZOyXC5we8AZBqn6YXwI0gISyalXjIOyNwCaDpDORKSyDCSg9S@154.17.10.32:28333?security=tls&sni=rolling.homeofbrave.net#[🇺🇸]t.me/ConfigsHub
+trojan://Aimer@59.9.154.15:21300?sni=agepl.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇰🇷®️South Korea©️Dogok-dong🅿️ping:297.4ms
+trojan://Aimer@duke.ns.cloudflare.com:443?allowInsecure=0&sni=agepj.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.72ms
+trojan://Aimer@ignacio.ns.cloudflare.com:443?allowInsecure=0&sni=agepj.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Los Angeles🅿️ping:8.76ms
+trojan://Pooria@104.17.148.22:443?security=tls&sni=301.pOORiAm.ir&type=ws&host=301.pooriam.ir&path=trPyOrWMfkHd15oxiI?ed=1520#@v2ray_alpha&fp=chrome&alpn=h2,http/1.1#[🇨🇦]t.me/ConfigsHub
+trojan://Pooria@104.17.148.22:443?security=tls&sni=301.pOORiAm.ir&type=ws&host=301.pooriam.ir&path=trPyOrWMfkHd15oxiI?ed=1520#@v2ray_alpha&fp=chrome&alpn=h2,http/1.1#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.33ms
 trojan://a96cb093-b164-4bc6-bd27-deb0e385de07@oooooooooooooo.999864.xyz:443?path=/CNLtVWdiKPpIlRig3qizHXb&security=tls&alpn=http/1.1&host=oooooooooooooo.999864.xyz&fp=chrome&type=ws&sni=OOooooOOOoOoOO.999864.XYz#🔥سرور بیشتر بیا کانال@vpnfast202
+trojan://ba6b9e44-3ea3-405d-a9eb-d5fcda84fdda@104.21.71.205:443?allowInsecure=0&sni=XC.890603.pP.uA&ws=1&wspath=/KXc8P40jGtEKiqQASULQ4Era5IOo#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.63ms
 trojan://bpb-trojan@japan.com:443?path=/tr?ed=2560&security=tls&host=zamim340.ggff.net&type=ws&sni=zamim340.ggff.net#🌈@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻تلگرام
-trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@ae1.pptv-tv.store:17720?allowInsecure=0#👉🆔@v2ray_configs_pool📡🇷🇴®️Romania©️Lisaura🅿️ping:143.81ms
+trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@gb1.pptv-tv.store:17756?allowInsecure=0#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️London🅿️ping:35.0ms
 trojan://e6a2e741-0fce-440b-910c-b81325e2263a@strut-brisk-scope.stark-industries.solutions:443?security=tls&headerType=none&type=tcp&sni=strut-brisk-scope.stark-industries.solutions#@AZARBAYJAB1
+trojan://f43d30ee-7a5d-408f-a32e-b74935eeb7d7@14.152.45.234:40037?sni=ld.tw01.yuiuingkig.icu&allowInsecure=1#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@18.233.85.37:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@18.132.251.252:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇬🇧]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@35.178.131.63:22222?sni=trojan.burgerip.co.uk&allowInsecure=0#@DALTON_PING🪽
+trojan://telegram-id-privatevpns@35.178.131.63:22222?sni=trojan.burgerip.co.uk&allowInsecure=0#[🇬🇧]t.me/ConfigsHub
 trojan://zsu4Mq3A9J@51.195.254.75:8443?type=tcp&headerType=none&security=tls&sni=uk-02.allhubb.info#@AZARBAYJAB1
