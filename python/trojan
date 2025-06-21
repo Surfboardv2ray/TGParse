@@ -1,12 +1,13 @@
 trojan://2ad5f69a-0d8f-4e33-af04-6b82d0acc672@node11.starnode.online:8080?security=tls&headerType=none&type=tcp&sni=node5.servernode.store#@meli_proxyy
 trojan://3b9f06bc-83ae-4df8-98ca-0cea043b3369@node10.iamservernode.site:6000?security=tls&headerType=none&type=tcp&sni=node1.servernode.store# https://t.me/ConfigX2ray
 trojan://3b9f06bc-83ae-4df8-98ca-0cea043b3369@node10.upperboundnode.click:443?security=tls&headerType=none&type=tcp&sni=node9.servernode.store# https://t.me/ConfigX2ray
+trojan://576c81b6-4976-4fe3-b1a9-05a9c302e98e@192.3.130.103:443?allowInsecure=0&sni=us10-01zl.huangshang.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
+trojan://Z9LNB8WzJa@104.21.15.33:2087?security=tls&sni=support.sabapardaziran.ir&type=grpc&serviceName=/🆔@M3HDIO1&fp=chrome#[🇨🇦]t.me/ConfigsHub
+trojan://Z9LNB8WzJa@104.21.15.33:2087?security=tls&sni=support.sabapardaziran.ir&type=grpc&serviceName=/🆔@M3HDIO1&fp=chrome#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:8.4ms
 trojan://a96cb093-b164-4bc6-bd27-deb0e385de07@oooooooooooooo.999864.xyz:443?path=/CNLtVWdiKPpIlRig3qizHXb&security=tls&alpn=http/1.1&host=oooooooooooooo.999864.xyz&fp=chrome&type=ws&sni=OOooooOOOoOoOO.999864.XYz#🔥سرور بیشتر بیا کانال@vpnfast202
 trojan://bpb-trojan@japan.com:443?path=/tr?ed=2560&security=tls&host=zamim340.ggff.net&type=ws&sni=zamim340.ggff.net#🌈@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻تلگرام
 trojan://e6a2e741-0fce-440b-910c-b81325e2263a@strut-brisk-scope.stark-industries.solutions:443?security=tls&headerType=none&type=tcp&sni=strut-brisk-scope.stark-industries.solutions#@AZARBAYJAB1
-trojan://telegram-id-directvpn@15.236.173.146:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:34.3ms
-trojan://telegram-id-privatevpns@15.236.173.146:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:34.45ms
+trojan://telegram-id-directvpn@18.134.54.61:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇬🇧]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@3.251.235.8:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇮🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@3.9.150.130:22222?security=tls&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
-trojan://telegram-id-v2rayvpnchannel@15.236.173.146:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:34.3ms
 trojan://zsu4Mq3A9J@51.195.254.75:8443?type=tcp&headerType=none&security=tls&sni=uk-02.allhubb.info#@AZARBAYJAB1
