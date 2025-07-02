@@ -30,6 +30,7 @@
     "dalton_ping",
     "darkline_vpn",
     "deamnet_proxy",
+    "edtunnel",
     "elfv2ray",
     "entrynet",
     "eternal_connect",
@@ -123,5 +124,6 @@
     "vpnv2rayngv",
     "wolf_cayberi",
     "worldwar_clan",
-    "xpnteam"
+    "xpnteam",
+    "zede_filteri"
 ]
