@@ -2,4 +2,5 @@ tuic://2f77527e-678c-4af6-9a0a-30823885bd53:2f77527e-678c-4af6-9a0a-30823885bd53
 tuic://abc123-4567-8901-2345-6789abcdef12@172.67.131.245:9443?congestion_control=bbr&alpn=h3#@Filter_breaker | 🇺🇸 US
 tuic://abc456-7890-1234-5678-9012abcdef56@172.67.131.246:9443?congestion_control=bbr&alpn=h3#@Filter_breaker | 🇺🇸 US
 tuic://abc789-0123-4567-8901-2345abcdef78@rayan-config.ir:9443?congestion_control=bbr&alpn=h3#@Filter_breaker | 🏴‍☠️ NA
+tuic://abc901-2345-6789-0123-4567abcdef89@rayan-config.ir:9443?congestion_control=bbr&alpn=h3#@Filter_breaker | 🏴‍☠️ NA
 tuic://def456-7890-1234-5678-9012abcdef34@172.67.131.245:9443?congestion_control=bbr&alpn=h3#@Filter_breaker | 🇺🇸 US
