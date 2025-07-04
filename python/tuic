@@ -6,3 +6,4 @@ tuic://abc789-0123-4567-8901-2345abcdef78@rayan-config.ir:9443?congestion_contro
 tuic://abc901-2345-6789-0123-4567abcdef89@rayan-config.ir:9443?congestion_control=bbr&alpn=h3#@Filter_breaker | 🏴‍☠️ NA
 tuic://def456-7890-0123-4567-8901abcdef45@rayan-config.ir:9443?congestion_control=bbr&alpn=h3#@Filter_breaker | 🏴‍☠️ NA
 tuic://def456-7890-1234-5678-9012abcdef34@172.67.131.245:9443?congestion_control=bbr&alpn=h3#@Filter_breaker | 🇺🇸 US
+tuic://m3n4o5p6-7890-4abc-1def-23456789abcd@185.146.173.150:8888?congestion_control=bbr&alpn=h3#@Filter_breaker | Finland
