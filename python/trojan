@@ -19,9 +19,6 @@ trojan://3774827088566296576@more-tomcat.insect388.motorcycles:443?allowInsecure
 trojan://40ea99d6-b2f2-4a00-8f61-c8d8fdaa25b9@104.21.38.163:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp&headerType=none#🍓@xixv2ray | 🌐 104.21.38.163 | US
 trojan://40ea99d6-b2f2-4a00-8f61-c8d8fdaa25b9@172.67.136.117:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp&headerType=none#🍓@xixv2ray | 🌐 172.67.136.117 | US
 trojan://4174b95d-115e-4d39-add6-1f8db95bb860@172.67.153.179:443?alpn=http/1.1&security=tls&sni=qqqqqqqqqqa.www890604.dpdns.org&type=ws#@v2Source🇨🇦
-trojan://4174b95d-115e-4d39-add6-1f8db95bb860@172.67.153.179:443?alpn=http/1.1&security=tls&sni=qqqqqqqqqqa.www890604.dpdns.org&type=ws#[🇨🇦]t.me/ConfigsHub
-trojan://4174b95d-115e-4d39-add6-1f8db95bb860@172.67.153.179:443?alpn=http/1.1&security=tls&sni=qqqqqqqqqqa.www890604.dpdns.org&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:1.38ms
-trojan://4174b95d-115e-4d39-add6-1f8db95bb860@172.67.153.179:443?path=/uzJNzgkkYWRWGxgFnoFPw1&security=tls&alpn=http/1.1&host=qqqqqqqqqqa.www890604.dpdns.org&fp=chrome&type=ws&sni=qqqqqqqqqqa.www890604.dpdns.org#@v2Source🇨🇦
 trojan://4174b95d-115e-4d39-add6-1f8db95bb860@172.67.153.179:443?path=/uzJNzgkkYWRWGxgFnoFPw1&security=tls&alpn=http/1.1&host=qqqqqqqqqqa.www890604.dpdns.org&fp=chrome&type=ws&sni=qqqqqqqqqqa.www890604.dpdns.org#Channel id: @ShadowProxy66 🇺🇸
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.192:443?security=tls&sni=trus.moonfree.top&type=tcp&headerType=none#🍓@xixv2ray | 🌐 185.107.56.192 | NL
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.52:443?security=tls&sni=trus.moonfree.top&type=tcp&headerType=none#🍓@xixv2ray | 🌐 185.107.56.52 | NL
@@ -174,9 +171,8 @@ trojan://telegram-id-directvpn@54.93.187.124:22223?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@63.177.25.243:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@63.177.35.173:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@63.178.136.212:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-trojan://telegram-id-privatevpns@13.53.224.93:22222?sni=trojan.burgerip.co.uk&allowInsecure=0#[🇸🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@3.78.65.240:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#🟣🔥+کانال+سرور+رایگان+@FarahVPN
-trojan://telegram-id-privatevpns@52.47.92.41:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@54.220.133.195:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇮🇪]t.me/ConfigsHub
 trojan://telegram-id-v2rayvpnchannel@52.47.156.57:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🟣🔥+کانال+سرور+رایگان+@FarahVPN
 trojan://telegram-id-v2rayvpnchannel@52.60.91.153:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🟣🔥+کانال+سرور+رایگان+@FarahVPN
 trojan://trojan@www.digitalocean.com:443?path=/?ed=2560&security=tls&host=a.azadnet001.ddns-ip.net&fp=chrome&type=ws&sni=a.azadnet001.ddns-ip.net#azadnet001
