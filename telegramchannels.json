@@ -104,7 +104,6 @@
     "svnteam",
     "tehranargo",
     "telpj",
-    "tinynetvpn",
     "tokavpn",
     "uciranir",
     "ultrasurf_12",
@@ -118,6 +117,7 @@
     "v2ray_ng",
     "v2ray_vmess_free",
     "v2rayargon",
+    "v2rayepro",
     "v2rayfast_7",
     "v2raymarket",
     "v2rayn5",
@@ -138,6 +138,7 @@
     "vpn_parsi",
     "vpn_proxy_custom",
     "vpnandroid2",
+    "vpnjey",
     "vpnowl",
     "vpnpacket",
     "vpnplusee_free",
@@ -147,5 +148,6 @@
     "vpntwitt",
     "vpnv2rayngv",
     "xixv2ray",
-    "xpnteam"
+    "xpnteam",
+    "z_v2ray"
 ]
