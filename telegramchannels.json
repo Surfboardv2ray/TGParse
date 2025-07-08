@@ -88,7 +88,9 @@
     "icv2ray",
     "ineronix",
     "injastvpn",
+    "ip6proxy",
     "ip_cf",
+    "iproxy_channel",
     "itsproxy",
     "itz_vpns",
     "itzvpn",
@@ -162,6 +164,7 @@
     "v2ray_configs_pool",
     "v2ray_configs_pools",
     "v2ray_god",
+    "v2ray_hiddify10",
     "v2ray_ng",
     "v2ray_vmess_free",
     "v2rayargon",
@@ -181,7 +184,6 @@
     "v2ryng01",
     "v2source",
     "v2witt",
-    "v2wray",
     "v2xay",
     "vipnman",
     "vistav2ray",
@@ -207,5 +209,6 @@
     "xpnteam",
     "yamyamproxy",
     "yejoriconfig",
+    "z_v2ray",
     "zdyz2"
 ]
