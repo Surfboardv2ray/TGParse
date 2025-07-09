@@ -10,10 +10,9 @@ trojan://15c33952@152.67.228.132:443?security=tls&type=tcp&sni=sj.5216818.xyz#�
 trojan://2ee85121-31de-4581-a492-eb00f606e392@15.204.248.103:443?security=tls&headerType=none&type=tcp&sni=rs3.freeguard.org#@MuX_VPN 🚀
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&headerType=none&type=tcp&sni=rc6.freeguard.org#@MuX_VPN 🚀
 trojan://2ee85121-31de-4581-a492-eb00f606e392@23.95.14.5:443?security=tls&headerType=none&type=tcp&sni=rc9.freeguard.org#@MuX_VPN 🚀
-trojan://2ee85121-31de-4581-a492-eb00f606e392@23.95.14.5:443?security=tls&sni=rc9.freeguard.org&allowInsecure=1&type=tcp&headerType=none#✨ @NamiraNet | 🛡️ | 🌐 23.95.14.5 | 🇺🇸
-trojan://2ee85121-31de-4581-a492-eb00f606e392@23.95.14.5:443?security=tls&sni=rc9.freeguard.org&allowInsecure=1&type=tcp&headerType=none#🔷🆔@v2ray_configs_pool🔷
+trojan://2ee85121-31de-4581-a492-eb00f606e392@23.95.14.5:443?security=tls&sni=rc9.freeguard.org&fp=chrome&allowInsecure=1&type=tcp&headerType=none#✨ @NamiraNet | 🛡️ | 🌐 23.95.14.5 | 🇺🇸
+trojan://2ee85121-31de-4581-a492-eb00f606e392@23.95.14.5:443?security=tls&sni=rc9.freeguard.org&fp=chrome&allowInsecure=1&type=tcp&headerType=none#🔷🆔@v2ray_configs_pool🔷
 trojan://2ee85121-31de-4581-a492-eb00f606e392@23.95.14.5:443?security=tls&sni=rc9.freeguard.org&type=tcp&headerType=none#✨ @NamiraNet | 🛡️ | 🌐 23.95.14.5 | 🇺🇸
-trojan://2ee85121-31de-4581-a492-eb00f606e392@23.95.14.5:443?security=tls&sni=rc9.freeguard.org&type=tcp&headerType=none#🔷🆔@v2ray_configs_pool🔷
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=nacho-rerun-crepe.stark-industries.solutions#FNET00
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=nacho-rerun-crepe.stark-industries.solutions#⚜️Telegram: @IP_CF 🇸🇰
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?type=tcp&headerType=none&host=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&sni=nacho-rerun-crepe.stark-industries.solutions#2🇩🇪➣@EVAY_VPN
@@ -47,13 +46,12 @@ trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&type=tcp&sni=
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#🇩🇪Germany-Trojan-@Filter_breaker
 trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&allowInsecure=1&type=tcp&headerType=none#@Sezar_sec
 trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&allowInsecure=1&type=tcp&headerType=none#✨ @NamiraNet | 🛡️ | 🌐 155.117.228.70 | 🇭🇰
-trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&allowInsecure=1&type=tcp&headerType=none#🔷🆔@v2ray_configs_pool🔷
+trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&fp=chrome&allowInsecure=1&type=tcp&headerType=none#✨ @NamiraNet | 🛡️ | 🌐 155.117.228.70 | 🇭🇰
+trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&fp=chrome&allowInsecure=1&type=tcp&headerType=none#🔷🆔@v2ray_configs_pool🔷
 trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&headerType=none&type=tcp#@AblNet7 🇭🇰 香港
 trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&headerType=none&type=tcp#@ShadowProxy66 🇭🇰
 trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&headerType=none&type=tcp#@v2ray_configs_pools🕳️
-trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&headerType=none&type=tcp#@vpnv2r4y🕳️
 trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&headerType=none&type=tcp#🇭🇰 @v2ray_configs_pools وصل شو✔️
-trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&headerType=none&type=tcp#🇭🇰 @vpnv2r4y وصل شو✔️
 trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?type=tcp&headerType=none&security=tls#@MuX_VPN 🚀
 trojan://77G4g4apO0@x8-sweden-amazon-v2-cf9yw.devefun.org:1935?security=tls&headerType=none&type=tcp&sni=x8-sweden-amazon-v2-cf9yw.devefun.org#.
 trojan://7fec5d9d-4a06-377f-9fc3-6c1fef6a7f4b@111.47.212.170:20139/?type=tcp&security=tls&sni=z139.hongkongnode.top#🄵🄺 🇯🇵 日本•高速139•铂金
@@ -70,21 +68,13 @@ trojan://AdPYCBfMUM@ru2.asc-sam.ir:443?security=reality&pbk=f_av3K6BFEs9abRaFgPJ
 trojan://Aimer@103.116.7.133:2083/?type=ws&host=epmk.ambercc.filegear-sg.me&path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&sni=epmk.ambercc.filegear-sg.me#Channel id: @ShadowProxy66 🇺🇸
 trojan://Aimer@103.116.7.133:2083?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epmk.ambercc.filegear-sg.me&type=ws&sni=epmk.ambercc.filegear-sg.me#@sockss_http 1460
 trojan://Aimer@103.116.7.133:2083?security=tls&sni=epmk.ambercc.filegear-sg.me&type=ws&host=epmk.ambercc.filegear-sg.me&path=/?ed=2560&proxyip=ts.hpc.tw#Channel id: @mobilesignal 🇺🇸
-trojan://Aimer@103.234.53.133:443?allowInsecure=1&sni=ngepy.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
-trojan://Aimer@104.18.123.117:2053?allowInsecure=1&sni=ngepz.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
-trojan://Aimer@104.19.103.190:2096?allowInsecure=1&sni=ngepy.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
 trojan://Aimer@118.38.162.153:16002?allowInsecure=1&sni=ngepy.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
-trojan://Aimer@121.145.134.131:50000?allowInsecure=1&sni=ngepz.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
 trojan://Aimer@135.84.74.254:2083?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epmk.ambercc.filegear-sg.me&type=ws&sni=epmk.ambercc.filegear-sg.me#🇦🇹AZARBAYJAB1
 trojan://Aimer@154.197.64.206:443/?type=ws&host=epml.ambercc.filegear-sg.me&path=/&security=tls&sni=epml.ambercc.filegear-sg.me#Telegram:@Darkline_vpn
 trojan://Aimer@154.21.93.3:44729?allowInsecure=1&sni=ngepz.ambercc.filegear-sg.me#🟣🔥+کانال+سرور+رایگان+@FarahVPN
 trojan://Aimer@154.211.8.150:2096?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🟣🔥+کانال+سرور+رایگان+@FarahVPN
-trojan://Aimer@156.225.72.246:2087?allowInsecure=1&sni=ngepy.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
-trojan://Aimer@172.64.34.52:2096?allowInsecure=1&sni=ngepy.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
 trojan://Aimer@172.67.65.113:2083?allowInsecure=1&sni=ngepz.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
 trojan://Aimer@173.245.59.203:443?sni=ngepx.ambercc.filegear-sg.me#🟣🔥+کانال+سرور+رایگان+@FarahVPN
-trojan://Aimer@178.128.198.120:8443?allowInsecure=1&sni=ngepy.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
-trojan://Aimer@199.34.228.71:8443?allowInsecure=1&sni=ngepy.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
 trojan://Aimer@202.181.26.189:443?allowInsecure=1&sni=ngepz.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
 trojan://Aimer@206.238.236.90:2087?allowInsecure=1&sni=ngepy.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
 trojan://Aimer@220.126.185.107:30019?allowInsecure=1&sni=ngepz.ambercc.filegear-sg.me#🟣🔥+کانال+سرور+رایگان+@FarahVPN
@@ -96,7 +86,6 @@ trojan://Aimer@45.80.209.25:81?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&
 trojan://Aimer@46.254.92.142:2087?sni=ngepx.ambercc.filegear-sg.me#🟣🔥+کانال+سرور+رایگان+@FarahVPN
 trojan://Aimer@47.79.38.77:9527?allowInsecure=1&sni=ngepy.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
 trojan://Aimer@5.182.84.229:2087?allowInsecure=1&sni=ngepy.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
-trojan://Aimer@52.220.205.101:9997?allowInsecure=1&sni=ngepy.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
 trojan://Aimer@ignacio.ns.cloudflare.com:443?allowInsecure=1&sni=ngepz.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
 trojan://Aimer@theo.ns.cloudflare.com:443?allowInsecure=1&sni=ngepz.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Telegram
 trojan://CjqK8GFZ),D?@172.67.149.210:443?security=tls&sni=7xVB-b9Ws5Zjp6cYjvW89zRKU9GMuPW6.maryAFArhUnI.WORkers.dEv&alpn=http/1.1&fp=chrome&type=ws&host=7xvb-b9ws5zjp6cyjvw89zrku9gmupw6.maryafarhuni.workers.dev&path=/trU3kEraImU22Jv6vo?ed=2560#@Golestan_VPN - JOIN
@@ -108,8 +97,6 @@ trojan://IM4e0ZQNPU@176.32.39.29:443?security=reality&pbk=f_av3K6BFEs9abRaFgPJMK
 trojan://IM4e0ZQNPU@176.32.39.29:443?security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&host=/JOKERRVPNTELEGRAM----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN&headerType=none&fp=chrome&spx=/yethePcHjaf/JOKERRVPNBIA_CHANEL@JOKERRVPN&type=tcp&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b# https://t.me/ConfigX2ray
 trojan://IM4e0ZQNPU@176.32.39.29:443?security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&host=/JOKERRVPNTELEGRAM----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN&headerType=none&fp=chrome&spx=/yethePcHjaf/JOKERRVPNBIA_CHANEL@JOKERRVPN&type=tcp&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b#ᴬᴸᴸ²🇩🇪➣@JOKERRVPN
 trojan://IM4e0ZQNPU@176.32.39.29:443?security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&host=/JOKERRVPNTELEGRAM----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN&headerType=none&fp=chrome&spx=/yethePcHjaf/JOKERRVPNBIA_CHANEL@JOKERRVPN&type=tcp&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b#𝗝𝗼𝗶𝗻 ➠ @NormanV2ray | کانال ما 🛸
-trojan://IM4e0ZQNPU@176.32.39.29:443?security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&sid=109cb5faeb6b&spx=/yethePcHjaf/JOKERRVPNBIA_CHANEL@JOKERRVPN&type=tcp&headerType=none&host=/JOKERRVPNTELEGRAM----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN#🔷🆔@v2ray_configs_pool🔷
-trojan://IM4e0ZQNPU@176.32.39.29:443?security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&sid=109cb5faeb6b&type=tcp&headerType=none#🔷🆔@v2ray_configs_pool🔷
 trojan://IM4e0ZQNPU@ru2.asc-sam.ir:443?security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&headerType=none&fp=chrome&spx=/yethePcHjaf&type=tcp&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b#𝗝𝗼𝗶𝗻 ➠ @vpns_land | کانال ما 🛸
 trojan://IM4e0ZQNPU@ru2.asc-sam.ir:443?security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&sid=109cb5faeb6b&spx=/yethePcHjaf&type=tcp&headerType=none#@Golestan_VPN - JOIN
 trojan://KyqsjrNMzgg3atKW06dcJQ@194.145.119.224:3060?security=none&type=tcp&headerType=http&path=/&host=fast.com#Telegram:@Darkline_vpn
@@ -135,7 +122,6 @@ trojan://aababcc-acab-baac-dbac-bcaaababbccc@127.0.0.1:8080?security=tls&type=tc
 trojan://aabcbac-baca-abca-bcda-baacabcabbcc@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 trojan://aacbacb-baca-acab-adcb-bacacabbcbac@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 trojan://aacbacb-baca-acab-adcb-bacacabbcbac@127.0.0.1:8080?security=tls&type=tcp#t.me/entryNET/config=1837208837734761
-trojan://aacbacb-baca-acab-adcb-bacacabbcbac@127.0.0.1:8080?security=tls&type=tcp#👉🆔@v2ray_configs_pool📡🤷‍♀️®️🤷‍♀©️🤷‍♀🅿️ping:4.05ms
 trojan://aaccbba-bcaa-abca-cbad-cbaaacbbccba@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 trojan://aaccbba-bcaa-abca-cbad-cbaaacbbccba@127.0.0.1:8080?security=tls&type=tcp#t.me/entryNET/config=1837206132766790
 trojan://acbbaac-aacb-acab-dcab-acabbccabbca@127.0.0.1:2080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
@@ -353,7 +339,6 @@ trojan://vip@104.18.42.163:443?path=/?ed=2560&security=tls&host=heihu880.pages.d
 trojan://vip@104.18.42.163:443?path=/?ed=2560&security=tls&host=heihu880.pages.dev&type=ws&sni=heihu880.pages.dev#@meli_proxyy
 trojan://vip@104.18.42.163:443?path=/?ed=2560&security=tls&host=heihu880.pages.dev&type=ws&sni=heihu880.pages.dev#@vipV2rayNGnp
 trojan://vip@104.18.42.163:443?path=/?ed=2560&security=tls&host=heihu880.pages.dev&type=ws&sni=heihu880.pages.dev#@vpnaloo
-trojan://vip@104.18.42.163:443?path=/?ed=2560&security=tls&host=heihu880.pages.dev&type=ws&sni=heihu880.pages.dev#@vpnv2r4y🟡 وصل شو✔️
 trojan://vip@104.18.42.163:443?path=/?ed=2560&security=tls&host=heihu880.pages.dev&type=ws&sni=heihu880.pages.dev#@vpnv2rayNGv
 trojan://vip@104.18.42.163:443?path=/?ed=2560&security=tls&host=heihu880.pages.dev&type=ws&sni=heihu880.pages.dev#Dr.s+8
 trojan://vip@104.18.42.163:443?path=/?ed=2560&security=tls&host=heihu880.pages.dev&type=ws&sni=heihu880.pages.dev#✅ @vistav2ray  👈👈کانال ما
@@ -369,7 +354,6 @@ trojan://vmRtExJrt6@51.195.255.103:8443?security=tls&alpn=h2,http/1.1&headerType
 trojan://vpn@109.120.132.80:2025?type=ws&path=/&security=none#Config🇸🇪@Do_itforyou
 trojan://vpn@46.29.234.154:2025?security=tls&type=ws&host=dns.google.com&path=/#| 🍓@xixv2ray 🇱🇹 LT-46.29.234.154:2025
 trojan://wPslQ6KBJN@wivip.dtsazino.com:443?security=tls&headerType=none&type=tcp&sni=wivip.dtsazino.com#.
-trojan://wb6368@103.116.7.103:2083?allowInsecure=1&sni=hsdgbuys.pages.dev#@Hope_Net-join-us-on-Telegram
 trojan://x2y3z4a5-1234-5bcd-6abc-7890abcdef78@104.21.25.370:443?type=ws&host=trojan.workers.dev&path=/trojan#@Filter_breaker | United States
 trojan://xjN4xcuPGg@f.522226.xyz:45601?security=tls&headerType=none&type=tcp#@V2rayNG3
 trojan://y9z0a1b2-5678-9abc-def0-1234567890ab@104.21.25.540:443?type=ws&host=trojan.workers.dev&path=/trojan#@Filter_breaker | United States
