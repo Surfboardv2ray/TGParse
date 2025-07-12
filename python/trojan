@@ -148,7 +148,6 @@ trojan://NewUser@154.197.64.241:8443/?type=tcp&security=tls&sni=ngepx2.ambercc.f
 trojan://Ng35283528@104.16.83.176:443?allowInsecure=1&sni=c2.validbv3528.eu.org#🔥Join+Telegram:@Farah_VPN🟣
 trojan://Ng35283528@104.16.83.176:443?path=/?ed&security=tls&host=c2.validbv3528.eu.org&type=ws&sni=c2.validbv3528.eu.org#فرانسه 🇫🇷 @V2xay
 trojan://OmqcThZWp1@91.107.163.173:27596?security=tls&allowInsecure=1&type=tcp&headerType=none#@orangevpns_bot خرید
-trojan://OmqcThZWp1@91.107.163.173:27596?type=tcp&security=none#@Free_configurator_bot
 trojan://Pooria@104.17.148.22:443?path=/trPyOrWMfkHd15oxiI?ed=1520#FreeV2Alpha&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=chrome&type=ws&sni=301.pOORiAm.ir#@V2rayNG3
 trojan://Pooria@104.17.148.22:443?path=/trPyOrWMfkHd15oxiI?ed=1520&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=chrome&type=ws&sni=301.pOORiAm.ir#@V2rayNG3
 trojan://Pooria@104.17.148.22:443?path=trPyOrWMfkHd15oxiI?ed=1520#@v2ray_alpha&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=chrome&type=ws&sni=301.pOORiAm.ir#@V2rayNG3
@@ -180,6 +179,8 @@ trojan://b6f0c135-043a-40e3-863a-08fba589034c@109.230.91.202:443?mode=gun&securi
 trojan://b6f0c135-043a-40e3-863a-08fba589034c@109.230.91.202:443?mode=gun&security=tls&type=grpc&serviceName=gr1.grtj.sulindac.top&sni=gr1.grtj.sulindac.top#Join To @IRAN_V2RAY1
 trojan://b6f0c135-043a-40e3-863a-08fba589034c@109.230.91.202:443?mode=gun&security=tls&type=grpc&serviceName=gr1.grtj.sulindac.top&sni=gr1.grtj.sulindac.top#🇩🇪All³ | @BigSmoke_Config
 trojan://baccbaa-abca-acba-cbda-ccabaaacbcbb@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+trojan://bbaacac-acba-caab-dacb-baabacbcbacc@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
+trojan://bbaacac-acba-caab-dacb-baabacbcbacc@127.0.0.1:1080?security=tls&type=tcp#t.me/entryNET/config=1837475847305479
 trojan://bcbaaac-abac-abca-dcba-bcaabcbbccaa@127.0.0.1:8080?security=tls&headerType=&type=tcp#@proNG14
 trojan://bcbaaac-abac-abca-dcba-bcaabcbbccaa@127.0.0.1:8080?security=tls&headerType=&type=tcp#meli_proxyy
 trojan://bpb-trojan@104.18.34.21:2053?path=/trEjWhhuRjwiMwSbDN/ZGUucmFkaWNhbGx5LnBybw==&security=tls&alpn=http/1.1&host=bpb-worker-panel1-e4p.pages.dev&fp=chrome&type=ws&sni=bpB-worKER-paneL1-e4p.pAGes.dEV#@V2rayNG3
@@ -234,7 +235,6 @@ trojan://n2o3p4q5-3456-7bcd-8abc-9012abcdef56@104.21.25.310:443?type=ws&host=tro
 trojan://n8o9p0q1-9012-3bcd-4abc-5678abcdef56@104.21.25.470:443?type=ws&host=trojan.workers.dev&path=/trojan#@Filter_breaker | United States
 trojan://o9p0q1r2-3456-7bcd-8abc-9012abcdef56@104.21.25.480:443?type=ws&host=trojan.workers.dev&path=/trojan#@Filter_breaker | United States
 trojan://o9p0q1r2-3456-7bcd-8abc-9012abcdef56@104.21.25.480:443?type=ws&host=trojan.workers.dev&path=/trojan#@Filter_breaker_104.21.25.480
-trojan://o9p0q1r2-3456-7bcd-8abc-9012abcdef56@104.21.25.480:443?type=ws&host=trojan.workers.dev&path=/trojan#@vpnv2rayNGv
 trojan://pChLk4O2J8@91.107.141.97:50255?type=tcp&security=none#یک ماهه تعداد کاربر و حجم نامحدود | @free_config_456-ywxg5r0u
 trojan://q1r2s3t4-3456-7bcd-8abc-9012abcdef12@104.21.25.490:443?type=ws&host=trojan.workers.dev&path=/trojan#@Filter_breaker | United States
 trojan://r2s3t4u5-5678-9abc-def0-1234567890ab@185.146.173.3150:443?type=ws&host=trojan.de.vpnfree.org&path=/trojan#@Filter_breaker | Germany
@@ -345,6 +345,7 @@ trojan://trojan@www.digitalocean.com:443?path=/?ed=2560&security=tls&host=azadne
 trojan://trojan@www.digitalocean.com:443?path=/?ed=2560&security=tls&host=azadnet-9ya.pages.dev&fp=chrome&type=ws&sni=azadnet-9ya.pages.dev#Telegram : @siigmavpn
 trojan://trojan@www.digitalocean.com:443?path=/?ed=2560&security=tls&host=azadnet-9ya.pages.dev&fp=chrome&type=ws&sni=azadnet-9ya.pages.dev#t.me/iProxy_Channel 7
 trojan://trojan@www.digitalocean.com:443?path=/?ed=2560&security=tls&host=azadnet-9ya.pages.dev&fp=chrome&type=ws&sni=azadnet-9ya.pages.dev#❤️ 𝗝𝗼𝗶𝗻 ➠ @Cook_Vpn| کانال ما 🛸 گروه من شما را همیشه متصل نگه‌ میدارم
+trojan://trojan@www.digitalocean.com:443?path=/?ed=2560&security=tls&host=azadnet-9ya.pages.dev&fp=chrome&type=ws&sni=azadnet-9ya.pages.dev#🌟 @server_free2 🌟
 trojan://trojan@www.digitalocean.com:443?path=/?ed=2560&security=tls&host=azadnet-9ya.pages.dev&fp=chrome&type=ws&sni=azadnet-9ya.pages.dev#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
 trojan://ttfang@47.245.91.197:9000?path=/&security=tls&host=ttfang.fange.me&type=ws&sni=ttfang.fange.me#Join To @Iran_v2ray1
 trojan://u5v6w7x8-9012-3bcd-4abc-5678abcdef78@104.21.25.520:443?type=ws&host=trojan.workers.dev&path=/trojan#@Filter_breaker | United States
