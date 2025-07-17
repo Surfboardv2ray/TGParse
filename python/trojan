@@ -62,13 +62,6 @@ trojan://5a5d1112-4ae7-431f-bdde-0d008fb473dd@172.67.207.27:443?path=/685uFbiRrg
 trojan://5a5d1112-4ae7-431f-bdde-0d008fb473dd@172.67.207.27:443?path=/685uFbiRrgAsHzTP8d&security=tls&alpn=http/1.1&host=90.taipei108.dpdns.org&fp=chrome&type=ws&sni=90.tAIpEI108.dpDnS.orG#@V2ray1_Ng
 trojan://61605c66-6d41-4b9d-a496-b9898f3f95d0@jp-h1.sshub.xyz:443/?type=tcp&security=tls#✅@v2ray_configs_pools
 trojan://6927305290f4e972cdd3575433bbc5f1@36.151.251.24:32765/?type=tcp&security=tls&sni=www.baidu.com&allowInsecure=1#新加坡
-trojan://6a60356a-0875-40d9-81f3-3ef82cede767@tr.node1link.xyz:23002?allowInsecure=0&sni=76.yuanul.com#✅@v2ray_configs_pools
-trojan://6a60356a-0875-40d9-81f3-3ef82cede767@tr.node1link.xyz:23003?allowInsecure=0&sni=sni.eos-suzhou-4.cmecloud.cn#✅@v2ray_configs_pools
-trojan://6a60356a-0875-40d9-81f3-3ef82cede767@tr.node1link.xyz:23005?allowInsecure=0&sni=sni.eos-suzhou-4.cmecloud.cn#✅@v2ray_configs_pools
-trojan://6a60356a-0875-40d9-81f3-3ef82cede767@tr.node1link.xyz:23008?allowInsecure=0&sni=sni.eos-suzhou-4.cmecloud.cn#✅@v2ray_configs_pools
-trojan://6a60356a-0875-40d9-81f3-3ef82cede767@tr.node1link.xyz:23012?allowInsecure=0&sni=97.yuanul.com#✅@v2ray_configs_pools
-trojan://6a60356a-0875-40d9-81f3-3ef82cede767@tr.node1link.xyz:23015?allowInsecure=0&sni=102.yuanul.com#✅@v2ray_configs_pools
-trojan://6a60356a-0875-40d9-81f3-3ef82cede767@tr.node1link.xyz:23020?allowInsecure=0&sni=168.yuanul.com#✅@v2ray_configs_pools
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a10.taipeicitygovernment.kyiv.ua:3462/?type=tcp&security=tls&sni=45.32.28.232#✅@v2ray_configs_pools
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@my.singaporenodeserverone.kyiv.ua:443/?type=tcp&security=tls&sni=45.32.28.232#✅@v2ray_configs_pools
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#@Moft_Vpn کانال
@@ -259,7 +252,6 @@ trojan://telegram-id-directvpn@52.47.136.181:22223?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@52.47.142.216:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@52.47.166.182:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@52.47.64.164:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-trojan://telegram-id-directvpn@52.47.64.164:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1837920592402398
 trojan://telegram-id-directvpn@52.47.68.103:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@52.47.84.87:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@52.58.208.200:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
@@ -277,7 +269,6 @@ trojan://telegram-id-privatevpns@35.181.18.225:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@35.181.18.225:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@varn_Net
 trojan://telegram-id-privatevpns@51.21.59.141:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#@awlix_ir
 trojan://telegram-id-privatevpns@51.44.36.244:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@varn_Net
-trojan://telegram-id-privatevpns@52.47.64.164:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1837920717462245
 trojan://telegram-id-privatevpns@63.176.181.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[46932] - Telegram : @v2ray_configs_pools
 trojan://telegram-id-privatevpns@63.177.166.9:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🛡️ @FreakConfig
 trojan://telegram-id-privatevpns@63.178.209.45:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🛡️ @FreakConfig
