@@ -114,7 +114,6 @@ trojan://NewUser3@154.197.64.242:8443/?type=tcp&security=tls&sni=ngepx3.ambercc.
 trojan://NewUser4@104.248.18.3:1935/?type=tcp&security=tls&sni=x3-germany-digitalocean-v2.devefun.org#@Filter_breaker | Germany
 trojan://NewUser@154.197.64.241:8443/?type=tcp&security=tls&sni=ngepx2.ambercc.filegear-sg.me#@Filter_breaker | Singapore
 trojan://Ng35283528@104.16.83.176:443?path=/?ed&security=tls&host=c2.validbv3528.eu.org&type=ws&sni=c2.validbv3528.eu.org#فرانسه 🇫🇷 @V2xay
-trojan://OmqcThZWp1@91.107.163.173:27596?type=tcp&security=none#@Free_configurator_bot
 trojan://OsIAlYkky0@Net.1lagvpn13.cfd:8443?mode=gun&security=tls&alpn=http/1.1,h2&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#@L_AGVPN13+trojan-h65ly4g0
 trojan://PavClLIvFd@Net.1lagvpn13.cfd:8443?mode=gun&security=tls&alpn=http/1.1,h2&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#@L_AGVPN13+trojan-bq9n8ql8
 trojan://Pooria@104.17.148.22:443?path=/trPyOrWMfkHd15oxiI?ed=1520#FreeV2Alpha&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=chrome&type=ws&sni=301.pOORiAm.ir#@V2rayNG3
@@ -192,7 +191,6 @@ trojan://mZMgM1vKw5@85.255.9.247:1935?security=tls&headerType=none&type=tcp&sni=
 trojan://n8o9p0q1-9012-3bcd-4abc-5678abcdef56@104.21.25.470:443?type=ws&host=trojan.workers.dev&path=/trojan#@Filter_breaker | United States
 trojan://o9p0q1r2-3456-7bcd-8abc-9012abcdef56@104.21.25.480:443?type=ws&host=trojan.workers.dev&path=/trojan#@Filter_breaker | United States
 trojan://o9p0q1r2-3456-7bcd-8abc-9012abcdef56@104.21.25.480:443?type=ws&host=trojan.workers.dev&path=/trojan#@Filter_breaker_104.21.25.480
-trojan://pChLk4O2J8@91.107.141.97:50255?type=tcp&security=none#یک ماهه تعداد کاربر و حجم نامحدود | @free_config_456-ywxg5r0u
 trojan://ptM0AjehKC@x7-sweden-amazon-v2-ku4u8.devefun.org:1935?security=tls&headerType=none&type=tcp&sni=x7-sweden-amazon-v2-ku4u8.devefun.org#@CaV2ray ⚡️
 trojan://q1r2s3t4-3456-7bcd-8abc-9012abcdef12@104.21.25.490:443?type=ws&host=trojan.workers.dev&path=/trojan#@Filter_breaker | United States
 trojan://r2s3t4u5-5678-9abc-def0-1234567890ab@185.146.173.3150:443?type=ws&host=trojan.de.vpnfree.org&path=/trojan#@Filter_breaker | Germany
@@ -264,6 +262,7 @@ trojan://telegram-id-directvpn@63.178.209.45:22223?security=tls&sni=trojan.burge
 trojan://telegram-id-directvpn@63.179.32.181:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@63.180.0.166:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-privatevpns@13.42.217.95:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#@awlix_ir
+trojan://telegram-id-privatevpns@13.43.233.130:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1837940981251540
 trojan://telegram-id-privatevpns@18.199.233.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🛡️ @FreakConfig
 trojan://telegram-id-privatevpns@35.181.18.225:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@MoneySeae عضو شو
 trojan://telegram-id-privatevpns@35.181.18.225:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@varn_Net
