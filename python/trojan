@@ -131,12 +131,15 @@ trojan://amclubs@103.160.204.1:443?path=/Telegram@V2ray_Alpha/?ed=2560&security=
 trojan://auto@104.20.19.168:2083?path=/&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#@V2rayNG3
 trojan://b6c7d8e9-9012-3bcd-4abc-5678abcdef56@185.146.173.2400:443?type=ws&host=trojan.de.vpnfree.org&path=/trojan#@Filter_breaker | Germany
 trojan://b6f0c135-043a-40e3-863a-08fba589034c@109.230.91.202:443?mode=gun&security=tls&type=grpc&serviceName=gr1.grtj.sulindac.top&sni=gr1.grtj.sulindac.top#28 | @ConfigFast 🇮🇷💔 عضو بشید تلگرام و ایتا
+trojan://blue2024@104.16.219.82:443?allowInsecure=1&sni=ta.promote.icu#t.me/entryNET/config=1838247462760672
 trojan://blue2024@104.16.99.204:443?sni=ta.promote.icu#t.me/entryNET/config=1838241205468944
 trojan://blue2024@104.18.35.253:443?sni=ta.promote.icu#t.me/entryNET/config=1838238008957476
 trojan://blue2024@104.19.156.145:443?sni=ta.promote.icu#Telegram:@config_proxy 💦
 trojan://blue2024@108.162.198.150:443?sni=td.promote.icu#t.me/entryNET/config=1838242418939956
 trojan://blue2024@172.64.201.25:443?security=tls&sni=tb.promote.icu&type=ws&host=tb.promote.icu&path=/#t.me/entryNET/config=1838241267415933
+trojan://blue2024@172.64.229.171:443?allowInsecure=1&sni=ta.promote.icu#t.me/entryNET/config=1838246183188457
 trojan://blue2024@172.66.45.162:443?sni=ta.promote.icu#t.me/entryNET/config=1838237332403628
+trojan://blue2024@94.242.228.212:443?allowInsecure=1&sni=ta.promote.icu#t.me/entryNET/config=1838247058693683
 trojan://bpb-trojan@104.18.34.21:2053?path=/trEjWhhuRjwiMwSbDN/ZGUucmFkaWNhbGx5LnBybw==&security=tls&alpn=http/1.1&host=bpb-worker-panel1-e4p.pages.dev&fp=chrome&type=ws&sni=bpB-worKER-paneL1-e4p.pAGes.dEV#@V2rayNG3
 trojan://bpb-trojan@104.21.30.195:443?security=tls&sni=403b3611-99BC-43B7-88D7-26eD5d0825a9-3.PagES.DEv&type=tcp#@awlix_ir
 trojan://bpb-trojan@104.26.4.60:443?path=/tr?ed=2560&security=tls&host=zamim340.ggff.net&type=ws&sni=zamim340.ggff.net#Channel id: @ShadowProxy66 🇨🇦
@@ -211,7 +214,6 @@ trojan://telegram-id-directvpn@63.178.209.45:22223?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@13.42.217.95:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#@awlix_ir
 trojan://telegram-id-privatevpns@13.49.211.6:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#⚜️Telegram@V2NET_IRAN
 trojan://telegram-id-privatevpns@13.50.149.216:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#👉🆔+@V2NET_IRAN
-trojan://telegram-id-privatevpns@15.237.230.200:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#t.me/entryNET/config=1838236702665067
 trojan://telegram-id-privatevpns@18.199.233.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🛡️ @FreakConfig
 trojan://telegram-id-privatevpns@35.181.120.43:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk @Confing_chanel
 trojan://telegram-id-privatevpns@35.181.18.225:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@MoneySeae عضو شو
