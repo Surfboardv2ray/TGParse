@@ -111,6 +111,7 @@ trojan://NewUser3@154.197.64.242:8443/?type=tcp&security=tls&sni=ngepx3.ambercc.
 trojan://NewUser4@104.248.18.3:1935/?type=tcp&security=tls&sni=x3-germany-digitalocean-v2.devefun.org#@Filter_breaker | Germany
 trojan://NewUser@154.197.64.241:8443/?type=tcp&security=tls&sni=ngepx2.ambercc.filegear-sg.me#@Filter_breaker | Singapore
 trojan://Ng35283528@104.16.83.176:443?path=/?ed&security=tls&host=c2.validbv3528.eu.org&type=ws&sni=c2.validbv3528.eu.org#فرانسه 🇫🇷 @V2xay
+trojan://OJ21H15gPh@65.109.209.53:38296?security=none&headerType=&type=tcp#t.me/entryNET/config=1838299398931901
 trojan://OsIAlYkky0@Net.1lagvpn13.cfd:8443?mode=gun&security=tls&alpn=http/1.1,h2&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#@L_AGVPN13+trojan-h65ly4g0
 trojan://PavClLIvFd@Net.1lagvpn13.cfd:8443?mode=gun&security=tls&alpn=http/1.1,h2&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#@L_AGVPN13+trojan-bq9n8ql8
 trojan://Pooria@104.17.148.22:443?path=/trPyOrWMfkHd15oxiI?ed=1520#FreeV2Alpha&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=chrome&type=ws&sni=301.pOORiAm.ir#@V2rayNG3
@@ -136,7 +137,6 @@ trojan://blue2024@104.19.156.145:443?sni=ta.promote.icu#Telegram:@config_proxy �
 trojan://blue2024@104.24.92.234:443?security=tls&type=ws&sni=td.promote.icu&path=/?ed=2560&host=td.promote.icu#t.me/entryNET/config=1838297390125152
 trojan://blue2024@104.25.235.162:443?type=ws&sni=hb.lii2010.us.kg&host=hb.lii2010.us.kg#t.me/entryNET/config=1838291031458066
 trojan://blue2024@162.159.44.159:443?security=tls&type=ws&sni=hb.lii2010.us.kg&host=hb.lii2010.us.kg#t.me/entryNET/config=1838296189842988
-trojan://blue2024@172.67.179.208:443?sni=tb.promote.icu#t.me/entryNET/config=1838290279067904
 trojan://bpb-trojan@104.18.34.21:2053?path=/trEjWhhuRjwiMwSbDN/ZGUucmFkaWNhbGx5LnBybw==&security=tls&alpn=http/1.1&host=bpb-worker-panel1-e4p.pages.dev&fp=chrome&type=ws&sni=bpB-worKER-paneL1-e4p.pAGes.dEV#@V2rayNG3
 trojan://bpb-trojan@104.21.30.195:443?security=tls&sni=403b3611-99BC-43B7-88D7-26eD5d0825a9-3.PagES.DEv&type=tcp#@awlix_ir
 trojan://bpb-trojan@104.26.4.60:443?path=/tr?ed=2560&security=tls&host=zamim340.ggff.net&type=ws&sni=zamim340.ggff.net#Channel id: @ShadowProxy66 🇨🇦
@@ -192,6 +192,7 @@ trojan://mZMgM1vKw5@85.255.9.247:1935?security=tls&headerType=none&type=tcp&sni=
 trojan://n8o9p0q1-9012-3bcd-4abc-5678abcdef56@104.21.25.470:443?type=ws&host=trojan.workers.dev&path=/trojan#@Filter_breaker | United States
 trojan://o9p0q1r2-3456-7bcd-8abc-9012abcdef56@104.21.25.480:443?type=ws&host=trojan.workers.dev&path=/trojan#@Filter_breaker | United States
 trojan://o9p0q1r2-3456-7bcd-8abc-9012abcdef56@104.21.25.480:443?type=ws&host=trojan.workers.dev&path=/trojan#@Filter_breaker_104.21.25.480
+trojan://ouo@152.70.101.24:16800?allowInsecure=1&sni=tr.koiok.us.kg&type=ws&host=tr.koiok.us.kg&path=//?ed=2560#t.me/entryNET/config=1838299021702788
 trojan://ouo@152.70.101.24:16800?sni=tr.koiok.us.kg&type=ws&host=tr.koiok.us.kg&path=/?ed=2560#t.me/entryNET/config=1838297828122452
 trojan://ptM0AjehKC@x7-sweden-amazon-v2-ku4u8.devefun.org:1935?security=tls&headerType=none&type=tcp&sni=x7-sweden-amazon-v2-ku4u8.devefun.org#@CaV2ray ⚡️
 trojan://q1r2s3t4-3456-7bcd-8abc-9012abcdef12@104.21.25.490:443?type=ws&host=trojan.workers.dev&path=/trojan#@Filter_breaker | United States
