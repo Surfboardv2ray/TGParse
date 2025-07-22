@@ -55,7 +55,6 @@ trojan://7fec5d9d-4a06-377f-9fc3-6c1fef6a7f4b@111.47.212.170:63985/?type=tcp&sec
 trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@13.76.251.170:443?security=tls&headerType=none&type=tcp&sni=jp.iamnotagoodman.com#@AZARBAYJAB1
 trojan://8kQaUakMBb@Net.1lagvpn13.cfd:8443?mode=gun&security=tls&alpn=http/1.1,h2&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#@L_AGVPN13+trojan-rpm37orb
 trojan://8r<[9'l6hAO#8ZQi@172.66.47.26:8443?path=/tro8sFW1S91B6sZrM1?ed=2560&security=tls&alpn=h2,http/1.1&host=koma-yt.pages.dev&fp=chrome&type=ws&sni=Koma-YT.PAGeS.Dev#✸ @Viturey ✸
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.chernigov.ua:2053?security=tls&fp=chrome&type=tcp&allowInsecure=1#t.me/entryNET/config=1838345766657395
 trojan://9c3c38d0-8637-4c94-a790-61f3202a943a@f10011.flyflylflyflysbs.sbs:10187/?type=tcp&security=tls&sni=hk04.ckcloud.info&allowInsecure=1&fp=chrome#HK
 trojan://9c3c38d0-8637-4c94-a790-61f3202a943a@f10011.flyflylflyflysbs.sbs:19013/?type=tcp&security=tls&sni=sg02.ckcloud.info&allowInsecure=1&fp=chrome#SG
 trojan://9c3c38d0-8637-4c94-a790-61f3202a943a@f10011.flyflylflyflysbs.sbs:19949/?type=tcp&security=tls&sni=tw01.ckcloud.info&allowInsecure=1&fp=chrome#TW
@@ -66,6 +65,7 @@ trojan://@bored_vpn@bored_vpn@bored_vpn@bored_vpn@bored_vpn@bored_vpn@62.60.176.
 trojan://@bored_vpn@bored_vpn@bored_vpn@bored_vpn@bored_vpn@bored_vpn@62.60.176.240:36557?type=tcp&path=/&host=zula.ir&headerType=http&security=none#@icv2ray
 trojan://@bored_vpn@bored_vpn@bored_vpn@bored_vpn@bored_vpn@bored_vpn@62.60.176.240:36557?type=tcp&path=/&host=zula.ir&headerType=http&security=none#fft7ukhi
 trojan://AQYZMBIoZd@104.25.197.102:8443?path=/?ed=2048&security=tls&alpn=h3,h2,http/1.1&host=cdn65667.boshrachoice.ir&fp=chrome&type=ws&sni=cdn65667.boshrachoice.ir#@HIBYEVPNN
+trojan://AQYZMBIoZd@104.25.197.102:8443?type=ws&path=/?ed=2048&host=cdn65667.boshrachoice.ir&security=tls&fp=chrome&alpn=h3,h2,http/1.1&sni=cdn65667.boshrachoice.ir#@v2ray_market11
 trojan://AXpQXM4vNh@141.227.160.167:1935?security=tls&alpn=h3,h2,http/1.1&headerType=none&type=tcp&sni=x2swe-ovh.devefun.net#@V2rayNG3
 trojan://Aimer@103.116.7.133:2083?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epmk.ambercc.filegear-sg.me&type=ws&sni=epmk.ambercc.filegear-sg.me#💯T.me/Asak_Vpn💯
 trojan://Aimer@135.84.74.254:2083?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epmk.ambercc.filegear-sg.me&type=ws&sni=epmk.ambercc.filegear-sg.me#🇦🇹AZARBAYJAB1
@@ -86,10 +86,8 @@ trojan://IM4e0ZQNPU@176.32.39.29:443?security=reality&pbk=f_av3K6BFEs9abRaFgPJMK
 trojan://K7N8flfyok@www.chatgameone.ir:36557?security=none&host=zula.ir/?JOKERRVPN_JOKERRVPN_JOKERRVPN&headerType=http&type=tcp @Confing_chanel
 trojan://K7N8flfyok@www.chatgameone.ir:36557?type=tcp&path=/&host=zula.ir&headerType=http&security=none#@icv2ray
 trojan://KhMXaEsWE0@lion.diacotowhidian.com.tr:80?mode=gun&security=tls&alpn=h3,h2,http/1.1&fp=chrome&type=grpc&sni=lion.diacotowhidian.com.tr#آلمان 🇩🇪 @𝗩𝟮𝘅𝗮𝘆
-trojan://NISHIKUITAN111@104.18.144.43:443?#t.me/entryNET/config=1838346333164144
-trojan://NISHIKUITAN111@104.20.76.165:443?#t.me/entryNET/config=1838346521789883
-trojan://NISHIKUITAN111@172.67.133.80:443?#t.me/entryNET/config=1838346463655204
-trojan://NISHIKUITAN111@172.67.133.80:443?#t.me/entryNET/config=1838346463658782
+trojan://NISHIKUITAN111@104.21.26.75:443?#t.me/entryNET/config=1838354515050657
+trojan://NISHIKUITAN111@104.24.70.239:443?#t.me/entryNET/config=1838355144364582
 trojan://NISHIKUITAN111@198.41.212.233:443?#t.me/entryNET/config=1838350296875266
 trojan://NISHIKUITAN222@104.21.221.251:443?#t.me/entryNET/config=1838350111308346
 trojan://NewUser2@104.248.18.2:1935/?type=tcp&security=tls&sni=x2-germany-digitalocean-v2.devefun.org#@Filter_breaker | Germany
@@ -112,6 +110,8 @@ trojan://ZU)0ryc$VSrG@104.17.148.22:443?path=/trg2dhGAnG15ULOP7i?ed=2560&securit
 trojan://ZU)0ryc$VSrG@104.17.148.22:443?path=/trg2dhGAnG15ULOP7i?ed=2560&security=tls&alpn=http/1.1&host=uk2wbo0ikx3iyi4i9wjdyu6y-o28et7o.pages.dev&fp=chrome&type=ws&sni=uk2WbO0iKx3IyI4i9WjdYU6Y-O28ET7o.pagEs.DeV#آلمان 🇩🇪 @V2xay
 trojan://ZU)0ryc$VSrG@104.17.148.22:443?path=/trg2dhGAnG15ULOP7i?ed=2560&security=tls&alpn=http/1.1&host=uk2wbo0ikx3iyi4i9wjdyu6y-o28et7o.pages.dev&fp=chrome&type=ws&sni=uk2WbO0iKx3IyI4i9WjdYU6Y-O28ET7o.pagEs.DeV#🛡️ @FreakConfig
 trojan://a7b22c05-27fd-4a76-8896-2aebaf4cf3a1@172.67.173.64:443?sni=TttTtTYU.2032.PP.UA&fp=chrome&host=ttttttyu.2032.pp.ua&alpn=http/1.1&type=ws&security=tls&path=/mXG7Hx4Y37nTr2Hdmy903WCeD85F1b#@shadoowvpnn🇺🇸✅
+trojan://a94fafdb-10d6-46c2-be8a-5c2e8358fbb0@104.21.78.243:443/?type=ws&host=ssssssssddddddddfffffffg.7282728.xyz&path=/xa846InEcmjyiKVby2Lp&security=tls&sni=SSSSsssSDDDdDdddFfffFFFG.7282728.XyZ&alpn=http/1.1&fp=chrome#ssssssssddddddddfffffffg.7282728.xyz tls WS CDN trojan § 443 32
+trojan://a94fafdb-10d6-46c2-be8a-5c2e8358fbb0@104.21.78.243:443/?type=ws&host=ssssssssddddddddfffffffg.7282728.xyz&path=/xa846InEcmjyiKVby2Lp&security=tls&sni=SSSSsssSDDDdDdddFfffFFFG.7282728.XyZ&alpn=http/1.1&fp=chrome#t.me/entryNET/config=1838355204224664
 trojan://amclubs@103.160.204.1:443?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&host=tran.amclubstest.nyc.mn&type=ws&sni=tran.amclubstest.nyc.mn#@V2rayNG3
 trojan://auto@104.20.18.119:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#t.me/entryNET/config=1838352627557417
 trojan://auto@104.20.19.168:2083?path=/&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#@V2rayNG3
@@ -123,7 +123,6 @@ trojan://blue2024@104.17.250.47:443?sni=hb.lii2010.us.kg#t.me/entryNET/config=18
 trojan://blue2024@104.17.49.15:443?sni=ha.lii2010.us.kg#t.me/entryNET/config=1838347339872062
 trojan://blue2024@104.19.185.248:443?sni=td.promote.icu#t.me/entryNET/config=1838350740183865
 trojan://blue2024@104.19.214.179:443?allowInsecure=1&sni=td.promote.icu&ws=1&wspath=/?ed=2560#[🇨🇦]ae_proxy
-trojan://blue2024@190.93.244.61:443?sni=td.promote.icu#t.me/entryNET/config=1838346336857731
 trojan://blue2024@198.41.221.124:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu&path=/?ed=2560#t.me/entryNET/config=1838348223898704
 trojan://bpb-trojan@104.18.34.21:2053?path=/trEjWhhuRjwiMwSbDN/ZGUucmFkaWNhbGx5LnBybw==&security=tls&alpn=http/1.1&host=bpb-worker-panel1-e4p.pages.dev&fp=chrome&type=ws&sni=bpB-worKER-paneL1-e4p.pAGes.dEV#@V2rayNG3
 trojan://bpb-trojan@104.21.30.195:443?security=tls&sni=403b3611-99BC-43B7-88D7-26eD5d0825a9-3.PagES.DEv&type=tcp#@awlix_ir
