@@ -36,7 +36,6 @@ trojan://3774827088566296576@13.213.142.42:443?security=tls&sni=exotic-bengal.tr
 trojan://3817daf8-0f2b-412f-b87b-3efa585423e8@us2.vpn.ong:443?security=tls&headerType=none&type=tcp#@V2rayNG3
 trojan://3r372@91.195.240.94:443?security=tls&sni=tj786.37927.online&type=tcp#@awlix_ir
 trojan://4b33b482-25bc-49e4-b866-878c914d945a@104.21.32.242:443/?type=ws&host=xxxxxxx.890604.dpdns.org&path=/kzefUfBUzMsQY6zyyQCjn8kmnN0ehd&security=tls&sni=xXXxxXX.890604.dPDNs.oRG&alpn=http/1.1&fp=chrome#xxxxxxx.890604.dpdns.org tls WS CDN trojan § 443 16
-trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@103.168.56.77:443?security=tls&fp=chrome&type=tcp&allowInsecure=1#Telegram:@config_proxy 💦
 trojan://5a5d1112-4ae7-431f-bdde-0d008fb473dd@172.67.207.27:443?path=/685uFbiRrgAsHzTP8d&security=tls&alpn=http/1.1&host=90.taipei108.dpdns.org&fp=chrome&type=ws&sni=90.tAIpEI108.dpDnS.orG#@CaV2ray ⚡️
 trojan://6927305290f4e972cdd3575433bbc5f1@36.151.251.24:32765/?type=tcp&security=tls&sni=www.baidu.com&allowInsecure=1#新加坡
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#@V2RAYNG_1378
@@ -48,10 +47,10 @@ trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&
 trojan://74260628090146500@stirring-parakeet.shiner427.skin:443/?type=tcp&security=tls#🇬🇧英国
 trojan://7fec5d9d-4a06-377f-9fc3-6c1fef6a7f4b@111.47.212.170:20139/?type=tcp&security=tls&sni=z139.hongkongnode.top#🄵🄺 🇯🇵 日本•高速139•铂金
 trojan://7fec5d9d-4a06-377f-9fc3-6c1fef6a7f4b@111.47.212.170:63985/?type=tcp&security=tls&sni=x74.flybar.work&alpn=h2#🄵🄺 gy.58n.net:63985
-trojan://86484d9e-c2ac-4d67-af6e-31dc1f98619c@45.79.115.118:4438?security=tls&type=tcp&sni=us1.vpn.ong#t.me/entryNET/config=1838336270452738
 trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@13.76.251.170:443?security=tls&headerType=none&type=tcp&sni=jp.iamnotagoodman.com#@AZARBAYJAB1
 trojan://8kQaUakMBb@Net.1lagvpn13.cfd:8443?mode=gun&security=tls&alpn=http/1.1,h2&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#@L_AGVPN13+trojan-rpm37orb
 trojan://8r<[9'l6hAO#8ZQi@172.66.47.26:8443?path=/tro8sFW1S91B6sZrM1?ed=2560&security=tls&alpn=h2,http/1.1&host=koma-yt.pages.dev&fp=chrome&type=ws&sni=Koma-YT.PAGeS.Dev#✸ @Viturey ✸
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.chernigov.ua:2053?security=tls&fp=chrome&type=tcp&allowInsecure=1#t.me/entryNET/config=1838345766657395
 trojan://9c3c38d0-8637-4c94-a790-61f3202a943a@f10011.flyflylflyflysbs.sbs:10187/?type=tcp&security=tls&sni=hk04.ckcloud.info&allowInsecure=1&fp=chrome#HK
 trojan://9c3c38d0-8637-4c94-a790-61f3202a943a@f10011.flyflylflyflysbs.sbs:19013/?type=tcp&security=tls&sni=sg02.ckcloud.info&allowInsecure=1&fp=chrome#SG
 trojan://9c3c38d0-8637-4c94-a790-61f3202a943a@f10011.flyflylflyflysbs.sbs:19949/?type=tcp&security=tls&sni=tw01.ckcloud.info&allowInsecure=1&fp=chrome#TW
@@ -82,9 +81,13 @@ trojan://IM4e0ZQNPU@176.32.39.29:443?security=reality&pbk=f_av3K6BFEs9abRaFgPJMK
 trojan://K7N8flfyok@www.chatgameone.ir:36557?security=none&host=zula.ir/?JOKERRVPN_JOKERRVPN_JOKERRVPN&headerType=http&type=tcp @Confing_chanel
 trojan://K7N8flfyok@www.chatgameone.ir:36557?type=tcp&path=/&host=zula.ir&headerType=http&security=none#@icv2ray
 trojan://KhMXaEsWE0@lion.diacotowhidian.com.tr:80?mode=gun&security=tls&alpn=h3,h2,http/1.1&fp=chrome&type=grpc&sni=lion.diacotowhidian.com.tr#آلمان 🇩🇪 @𝗩𝟮𝘅𝗮𝘆
-trojan://NISHIKUITAN111@104.129.164.50:443?security=tls&type=ws&sni=zb.ylks.xyz&path=/&host=zb.ylks.xyz#t.me/entryNET/config=1838336898929087
+trojan://NISHIKUITAN111@104.18.144.43:443?#t.me/entryNET/config=1838346333164144
 trojan://NISHIKUITAN111@104.20.17.65:443?#t.me/entryNET/config=1838341677541048
+trojan://NISHIKUITAN111@104.20.76.165:443?#t.me/entryNET/config=1838346521789883
+trojan://NISHIKUITAN111@172.67.133.80:443?#t.me/entryNET/config=1838346463655204
+trojan://NISHIKUITAN111@172.67.133.80:443?#t.me/entryNET/config=1838346463658782
 trojan://NISHIKUITAN111@172.67.234.222:443?#t.me/entryNET/config=1838338157430232
+trojan://NISHIKUITAN111@172.67.67.8:443?#t.me/entryNET/config=1838345389689680
 trojan://NISHIKUITAN111@188.114.96.86:443?#t.me/entryNET/config=1838343190336560
 trojan://NewUser2@104.248.18.2:1935/?type=tcp&security=tls&sni=x2-germany-digitalocean-v2.devefun.org#@Filter_breaker | Germany
 trojan://NewUser3@154.197.64.242:8443/?type=tcp&security=tls&sni=ngepx3.ambercc.filegear-sg.me#@Filter_breaker | Singapore
@@ -113,9 +116,9 @@ trojan://bf7e1009-1574-44f7-86df-6cbecd338477@172.66.47.106:443?security=tls&typ
 trojan://blue2024@104.16.113.194:443?sni=td.promote.icu#[🇨🇦]t.me/original_pound
 trojan://blue2024@104.19.214.179:443?allowInsecure=1&sni=td.promote.icu&ws=1&wspath=/?ed=2560#[🇨🇦]ae_proxy
 trojan://blue2024@104.20.159.193:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu&path=/?ed=2560#t.me/entryNET/config=1838340673896637
-trojan://blue2024@104.20.18.113:443?allowInsecure=1&sni=td.promote.icu&ws=1&wspath=/?ed=2560#t.me/entryNET/config=1838335197362983
 trojan://blue2024@108.162.195.203:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu&path=/?ed=2560#t.me/entryNET/config=1838339349263322
 trojan://blue2024@188.114.97.105:443?allowInsecure=1&sni=td.promote.icu&ws=1&wspath=/?ed=2560#t.me/entryNET/config=1838344634135764
+trojan://blue2024@190.93.244.61:443?sni=td.promote.icu#t.me/entryNET/config=1838346336857731
 trojan://blue2024@190.93.246.21:443?sni=hb.lii2010.us.kg#t.me/entryNET/config=1838344448911668
 trojan://bpb-trojan@104.18.34.21:2053?path=/trEjWhhuRjwiMwSbDN/ZGUucmFkaWNhbGx5LnBybw==&security=tls&alpn=http/1.1&host=bpb-worker-panel1-e4p.pages.dev&fp=chrome&type=ws&sni=bpB-worKER-paneL1-e4p.pAGes.dEV#@V2rayNG3
 trojan://bpb-trojan@104.21.30.195:443?security=tls&sni=403b3611-99BC-43B7-88D7-26eD5d0825a9-3.PagES.DEv&type=tcp#@awlix_ir
