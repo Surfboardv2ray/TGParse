@@ -101,8 +101,6 @@ trojan://KhMXaEsWE0@lion.diacotowhidian.com.tr:80?mode=gun&security=tls&alpn=h3,
 trojan://NISHIKUITAN111@104.24.250.232:443?#t.me/entryNET/config=1838316137568416
 trojan://NISHIKUITAN111@104.25.124.93:443?#t.me/entryNET/config=1838315064529899
 trojan://NISHIKUITAN111@104.26.9.255:443?#t.me/entryNET/config=1838315003716110
-trojan://NISHIKUITAN111@155.46.213.156:443?security=tls&type=ws&sni=zb.ylks.xyz&path=/&host=zb.ylks.xyz#t.me/entryNET/config=1838311228696806
-trojan://NISHIKUITAN111@172.67.121.40:443?#t.me/entryNET/config=1838311289728600
 trojan://NISHIKUITAN111@173.245.58.6:443?#t.me/entryNET/config=1838313116153306
 trojan://NISHIKUITAN111@188.114.99.126:443?#t.me/entryNET/config=1838312547741060
 trojan://NISHIKUITAN111@198.41.204.50:443?#t.me/entryNET/config=1838316008794300
@@ -130,19 +128,23 @@ trojan://a7b22c05-27fd-4a76-8896-2aebaf4cf3a1@172.67.173.64:443?sni=TttTtTYU.203
 trojan://amclubs@103.160.204.1:443?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&host=tran.amclubstest.nyc.mn&type=ws&sni=tran.amclubstest.nyc.mn#@V2rayNG3
 trojan://auto@104.20.19.168:2083?path=/&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#@V2rayNG3
 trojan://b697183d-288b-40ab-98ae-8e3eb85f371c@185.146.173.69:443?security=tls&sni=uk1.trojanvpn.xyz&type=ws&host=uk1.trojanvpn.xyz&path=/#t.me/entryNET/config=1838319282978581
-trojan://b697183d-288b-40ab-98ae-8e3eb85f371c@185.146.173.69:443?security=tls&type=ws&sni=uk1.trojanvpn.xyz&path=/&host=uk1.trojanvpn.xyz#t.me/entryNET/config=1838312171208374
 trojan://b6c7d8e9-9012-3bcd-4abc-5678abcdef56@185.146.173.2400:443?type=ws&host=trojan.de.vpnfree.org&path=/trojan#@Filter_breaker | Germany
 trojan://b6f0c135-043a-40e3-863a-08fba589034c@109.230.91.202:443?mode=gun&security=tls&type=grpc&serviceName=gr1.grtj.sulindac.top&sni=gr1.grtj.sulindac.top#28 | @ConfigFast 🇮🇷💔 عضو بشید تلگرام و ایتا
 trojan://baacbac-baac-acba-cbad-cbacbcbaaabc@127.0.0.1:1080?security=tls&type=tcp#t.me/entryNET/config=1838312172355093
+trojan://blue2024@104.16.113.194:443?allowInsecure=1&sni=td.promote.icu&ws=1&wspath=/?ed=2560#t.me/entryNET/config=1838324501497865
 trojan://blue2024@104.16.113.194:443?sni=td.promote.icu#[🇨🇦]t.me/original_pound
+trojan://blue2024@104.17.215.231:443?allowInsecure=1&sni=td.promote.icu&ws=1&wspath=/?ed=2560#t.me/entryNET/config=1838324440718977
 trojan://blue2024@104.17.83.149:443?sni=td.promote.icu#t.me/entryNET/config=1838314058738532
 trojan://blue2024@104.18.106.229:443?sni=td.promote.icu#t.me/entryNET/config=1838312297868746
 trojan://blue2024@104.19.204.38:443?allowInsecure=1&sni=td.promote.icu&ws=1&wspath=/?ed=2560#t.me/entryNET/config=1838322428809405
 trojan://blue2024@104.19.216.63:443?sni=td.promote.icu#t.me/entryNET/config=1838318839451368
+trojan://blue2024@104.19.217.93:443?allowInsecure=1&sni=td.promote.icu&ws=1&wspath=/?ed=2560#t.me/entryNET/config=1838323558292279
 trojan://blue2024@104.19.234.198:443?security=tls&type=ws&sni=ha.lii2010.us.kg&path=/?ed&host=ha.lii2010.us.kg#t.me/entryNET/config=1838316891089949
 trojan://blue2024@104.19.234.198:443?security=tls&type=ws&sni=ha.lii2010.us.kg&path=/?ed&host=ha.lii2010.us.kg#t.me/entryNET/config=1838316891107019
 trojan://blue2024@104.27.206.92:443?sni=tb.promote.icu#t.me/entryNET/config=1838315444124795
+trojan://blue2024@108.162.198.117:443?allowInsecure=1&sni=td.promote.icu&ws=1&wspath=/?ed=2560#t.me/entryNET/config=1838324315504839
 trojan://blue2024@162.159.44.192:443?type=ws&sni=tb.promote.icu&host=tb.promote.icu#t.me/entryNET/config=1838316766095475
+trojan://blue2024@172.67.176.104:443?allowInsecure=1&sni=td.promote.icu&ws=1&wspath=/?ed=2560#t.me/entryNET/config=1838323057240315
 trojan://blue2024@198.41.209.124:443?sni=td.promote.icu#t.me/entryNET/config=1838312927057989
 trojan://bpb-trojan@104.17.116.87:443?security=tls&sni=bpb.my79801.com&type=ws&host=bpb.my79801.com&path=/tr?ed=2560&fp=chrome&alpn=h3&allowInsecure=1#t.me/entryNET/config=1838319913290084
 trojan://bpb-trojan@104.18.34.21:2053?path=/trEjWhhuRjwiMwSbDN/ZGUucmFkaWNhbGx5LnBybw==&security=tls&alpn=http/1.1&host=bpb-worker-panel1-e4p.pages.dev&fp=chrome&type=ws&sni=bpB-worKER-paneL1-e4p.pAGes.dEV#@V2rayNG3
