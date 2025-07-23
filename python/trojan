@@ -54,6 +54,7 @@ trojan://7fec5d9d-4a06-377f-9fc3-6c1fef6a7f4b@111.47.212.170:63985/?type=tcp&sec
 trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@13.76.251.170:443?security=tls&headerType=none&type=tcp&sni=jp.iamnotagoodman.com#@AZARBAYJAB1
 trojan://8kQaUakMBb@Net.1lagvpn13.cfd:8443?mode=gun&security=tls&alpn=http/1.1,h2&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#@L_AGVPN13+trojan-rpm37orb
 trojan://8r<[9'l6hAO#8ZQi@172.66.47.26:8443?path=/tro8sFW1S91B6sZrM1?ed=2560&security=tls&alpn=h2,http/1.1&host=koma-yt.pages.dev&fp=chrome&type=ws&sni=Koma-YT.PAGeS.Dev#✸ @Viturey ✸
+trojan://8r<[9'l6hAO#8ZQi@koma-yt.pages.dev:8443?security=tls&sni=Koma-YT.PAGeS.Dev&alpn=h2,http/1.1&fp=chrome&type=ws&host=koma-yt.pages.dev&path=/tro8sFW1S91B6sZrM1?ed=2560#t.me/entryNET/config=1838412079050295
 trojan://9c3c38d0-8637-4c94-a790-61f3202a943a@f10011.flyflylflyflysbs.sbs:10187/?type=tcp&security=tls&sni=hk04.ckcloud.info&allowInsecure=1&fp=chrome#HK
 trojan://9c3c38d0-8637-4c94-a790-61f3202a943a@f10011.flyflylflyflysbs.sbs:19013/?type=tcp&security=tls&sni=sg02.ckcloud.info&allowInsecure=1&fp=chrome#SG
 trojan://9c3c38d0-8637-4c94-a790-61f3202a943a@f10011.flyflylflyflysbs.sbs:19949/?type=tcp&security=tls&sni=tw01.ckcloud.info&allowInsecure=1&fp=chrome#TW
@@ -117,7 +118,6 @@ trojan://amclubs@103.160.204.1:443?path=/Telegram@V2ray_Alpha/?ed=2560&security=
 trojan://auto@104.20.19.168:2083?path=/&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#@V2rayNG3
 trojan://b6c7d8e9-9012-3bcd-4abc-5678abcdef56@185.146.173.2400:443?type=ws&host=trojan.de.vpnfree.org&path=/trojan#@Filter_breaker | Germany
 trojan://b6f0c135-043a-40e3-863a-08fba589034c@109.230.91.202:443?mode=gun&security=tls&type=grpc&serviceName=gr1.grtj.sulindac.top&sni=gr1.grtj.sulindac.top#28 | @ConfigFast 🇮🇷💔 عضو بشید تلگرام و ایتا
-trojan://blue2024@104.16.113.194:443?sni=td.promote.icu#[🇨🇦]t.me/original_pound
 trojan://blue2024@104.16.179.237:443?allowInsecure=1&sni=td.promote.icu#t.me/entryNET/config=1838387041122249
 trojan://blue2024@104.16.183.141:443?allowInsecure=1&sni=td.promote.icu#t.me/entryNET/config=1838393770761546
 trojan://blue2024@104.16.223.123:443?allowInsecure=1&sni=td.promote.icu#t.me/entryNET/config=1838390058497012
@@ -127,13 +127,13 @@ trojan://blue2024@104.17.225.125:443?allowInsecure=1&sni=td.promote.icu#t.me/ent
 trojan://blue2024@104.17.83.149:443?allowInsecure=1&sni=td.promote.icu#t.me/entryNET/config=1838405850342076
 trojan://blue2024@104.18.106.229:443?allowInsecure=1&sni=td.promote.icu#t.me/entryNET/config=1838386975959545
 trojan://blue2024@104.18.121.158:443?allowInsecure=1&sni=td.promote.icu#t.me/entryNET/config=1838393833462779
-trojan://blue2024@104.18.153.27:443?allowInsecure=1&sni=td.promote.icu#t.me/entryNET/config=1838386109824774
 trojan://blue2024@104.19.162.122:443?allowInsecure=1&sni=td.promote.icu#t.me/entryNET/config=1838397607803877
 trojan://blue2024@104.19.163.145:443?allowInsecure=1&sni=td.promote.icu#t.me/entryNET/config=1838389884517971
 trojan://blue2024@104.19.183.241:443?allowInsecure=1&sni=td.promote.icu#t.me/entryNET/config=1838401383208695
 trojan://blue2024@104.19.214.179:443?allowInsecure=1&sni=td.promote.icu&ws=1&wspath=/?ed=2560#[🇨🇦]ae_proxy
 trojan://blue2024@108.162.195.203:443?allowInsecure=1&sni=td.promote.icu#t.me/entryNET/config=1838409625282147
 trojan://blue2024@188.114.96.186:443?allowInsecure=1&sni=td.promote.icu#t.me/entryNET/config=1838397545482397
+trojan://bpb-trojan@104.16.143.191:443?allowInsecure=1&sni=bpb.my79801.com#t.me/entryNET/config=1838412532060438
 trojan://bpb-trojan@104.18.34.21:2053?path=/trEjWhhuRjwiMwSbDN/ZGUucmFkaWNhbGx5LnBybw==&security=tls&alpn=http/1.1&host=bpb-worker-panel1-e4p.pages.dev&fp=chrome&type=ws&sni=bpB-worKER-paneL1-e4p.pAGes.dEV#@V2rayNG3
 trojan://bpb-trojan@104.21.30.195:443?security=tls&sni=403b3611-99BC-43B7-88D7-26eD5d0825a9-3.PagES.DEv&type=tcp#@awlix_ir
 trojan://bpb-trojan@104.26.4.60:443?path=/tr?ed=2560&security=tls&host=zamim340.ggff.net&type=ws&sni=zamim340.ggff.net#@AZARBAYJAB1 🇨🇦
