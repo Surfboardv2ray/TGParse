@@ -99,8 +99,6 @@ trojan://FiSo7J6vfS@51.68.13.106:1935?security=tls&alpn=h3,h2,http/1.1&headerTyp
 trojan://IM4e0ZQNPU@ru2.asc-sam.ir:443?security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&headerType=none&fp=chrome&spx=/yethePcHjaf&type=tcp&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b#@V2RAY_VMESS_free
 trojan://K7N8flfyok@www.chatgameone.ir:36557?type=tcp&path=/&host=zula.ir&headerType=http&security=none#@icv2ray
 trojan://KhMXaEsWE0@lion.diacotowhidian.com.tr:80?mode=gun&security=tls&alpn=h3,h2,http/1.1&fp=chrome&type=grpc&sni=lion.diacotowhidian.com.tr#آلمان 🇩🇪 @𝗩𝟮𝘅𝗮𝘆
-trojan://NISHIKUITAN111@104.17.44.80:443?#@SaghiVpnX[🇨🇦]
-trojan://NISHIKUITAN111@192.65.217.110:443?#@SaghiVpnX[🇦🇺]
 trojan://NISHIKUITAN111@204.93.210.216:443?#t.me/entryNET/config=1838608877620658
 trojan://NewUser2@104.248.18.2:1935/?type=tcp&security=tls&sni=x2-germany-digitalocean-v2.devefun.org#@Filter_breaker | Germany
 trojan://NewUser3@154.197.64.242:8443/?type=tcp&security=tls&sni=ngepx3.ambercc.filegear-sg.me#@Filter_breaker | Singapore
@@ -130,15 +128,15 @@ trojan://auto@104.20.19.168:2083?path=/&security=tls&host=e9464f45.trauma-2r4.pa
 trojan://b6c7d8e9-9012-3bcd-4abc-5678abcdef56@185.146.173.2400:443?type=ws&host=trojan.de.vpnfree.org&path=/trojan#@Filter_breaker | Germany
 trojan://b6f0c135-043a-40e3-863a-08fba589034c@109.230.91.202:443?mode=gun&security=tls&type=grpc&serviceName=gr1.grtj.sulindac.top&sni=gr1.grtj.sulindac.top#28 | @ConfigFast 🇮🇷💔 عضو بشید تلگرام و ایتا
 trojan://blue2024@104.19.214.179:443?allowInsecure=1&sni=td.promote.icu&ws=1&wspath=/?ed=2560#[🇨🇦]ae_proxy
-trojan://blue2024@190.93.247.138:443?type=ws&sni=hb.lii2010.us.kg&host=hb.lii2010.us.kg#@SaghiVpnX[🇨🇷]
 trojan://bpb-trojan@104.18.34.21:2053?path=/trEjWhhuRjwiMwSbDN/ZGUucmFkaWNhbGx5LnBybw==&security=tls&alpn=http/1.1&host=bpb-worker-panel1-e4p.pages.dev&fp=chrome&type=ws&sni=bpB-worKER-paneL1-e4p.pAGes.dEV#@V2rayNG3
 trojan://bpb-trojan@104.21.30.195:443?security=tls&sni=403b3611-99BC-43B7-88D7-26eD5d0825a9-3.PagES.DEv&type=tcp#@awlix_ir
 trojan://bpb-trojan@104.26.4.60:443?path=/tr?ed=2560&security=tls&host=zamim340.ggff.net&type=ws&sni=zamim340.ggff.net#@AZARBAYJAB1 🇨🇦
-trojan://bpb-trojan@104.26.4.60:443?path=/tr?ed=2560&security=tls&host=zamim340.ggff.net&type=ws&sni=zamim340.ggff.net#@SaghiVpnX[🇨🇦]
 trojan://bpb-trojan@104.26.4.60:443?path=/tr?ed=2560&security=tls&host=zamim340.ggff.net&type=ws&sni=zamim340.ggff.net#@ShadowProxy66 🇨🇦
 trojan://bpb-trojan@104.26.4.60:443?path=/tr?ed=2560&security=tls&host=zamim340.ggff.net&type=ws&sni=zamim340.ggff.net#🛡️ @FreakConfig
 trojan://bpb-trojan@104.26.4.60:443?security=tls&sni=zamim340.ggff.net&type=ws&path=/tr?ed=2560&host=zamim340.ggff.net#MCI @NetAccount
+trojan://bpb-trojan@104.36.195.61:443?type=ws&sni=bpb.my79801.com&path=/tr&host=bpb.my79801.com#t.me/entryNET/config=1838612653644031
 trojan://bpb-trojan@162.159.152.227:443?security=tls&sni=cf.090227.xyz&allowInsecure=1&type=tcp#@awlix_ir
+trojan://bpb-trojan@190.93.245.69:443?security=tls&type=ws&sni=fcspring.ggff.net&path=/tr?ed&host=fcspring.ggff.net#@SaghiVpnX[🇨🇷]
 trojan://bpb-trojan@23.227.60.8:443?security=tls&sni=403b3611-99bc-43b7-88D7-26Ed5D0825A9-3.paGeS.dev&type=tcp#@awlix_ir
 trojan://bpb-trojan@www.vpslook.com:443?path=/tr?ed=2560&security=tls&alpn=h3&host=bpb-hd.aaronchin.xyz&fp=chrome&type=ws&sni=bpb-hd.aaronchin.xyz#@V2rayNG3
 trojan://d8e9f0g1-1234-5bcd-6abc-7890abcdef56@104.21.25.390:443?type=ws&host=trojan.workers.dev&path=/trojan#@Filter_breaker | United States
@@ -229,6 +227,9 @@ trojan://trojan@109.234.211.66:8443?path=/&security=tls&host=store.timimi.dpdns.
 trojan://trojan@109.234.211.66:8443?path=/&security=tls&host=store.timimi.dpdns.org&type=ws&sni=store.timimi.dpdns.org#Bya To : @Iran_V2ray1
 trojan://trojan@109.234.211.66:8443?path=/&security=tls&host=store.timimi.dpdns.org&type=ws&sni=store.timimi.dpdns.org#💯T.me/Asak_Vpn💯
 trojan://trojan@www.digitalocean.com:443?path=/?ed=2560&security=tls&host=azadnet-9ya.pages.dev&fp=chrome&type=ws&sni=azadnet-9ya.pages.dev#@Viturey 🌱
+trojan://tunnel-astro@pl-1.stunnel.cc:8441?path=AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official&security=tls&alpn=http/1.1&host=pl-1.stunnel.cc&headerType=none&type=tcp&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev#AstroVPN_Official🇵🇱(ALL)
+trojan://tunnel-astrovpn_official@fr-2.stunnel.cc:8441?path=AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official&security=tls&alpn=http/1.1&host=fr-2.stunnel.cc&headerType=none&type=tcp&sni=Zula.ir.AstroVPN-official.AstroVPN-official.workers.dev#AstroVPN_Official🇫🇷(ALL)
+trojan://tunnel-astrovpn_official_de@de-1.stunnel.cc:8441?path=AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official&security=tls&alpn=http/1.1&host=de-1.stunnel.cc&headerType=none&type=tcp&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev#AstroVPN_Official🇩🇪(ALL)
 trojan://u5v6w7x8-9012-3bcd-4abc-5678abcdef78@104.21.25.520:443?type=ws&host=trojan.workers.dev&path=/trojan#@Filter_breaker | United States
 trojan://ujTdl1LNb7@p5.punchline.ir:24883?type=xhttp&mode=auto&path=/v2raybluecrystal&security=reality&fp=chrome&sni=www.microsoft.com&pbk=bfo1AdofjSr34t-tP-ZzBrDXeMG_V59Mo1Pdjr7h-wc&sid=9009&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#3🇳🇱➣@EVAY_VPN
 trojan://utF6JLQd2x@141.227.128.69:1935?security=tls&alpn=h3,h2,http/1.1&headerType=none&type=tcp&sni=x1es-ovh.devefun.net#@V2rayNG3
