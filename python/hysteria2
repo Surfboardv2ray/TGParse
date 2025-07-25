@@ -47,7 +47,6 @@ hysteria2://b5c1b004cd051ef2f6ffedda2e47d538@206.71.158.40:33331?sni=jnir-1.pich
 hysteria2://bd3e3f61-242a-42ae-8598-fc0821f29104@153.121.42.218:50000/?insecure=1&sni=www.microsoft.com&mport=50000-55000#🇯🇵 @Filter_breaker
 hysteria2://bd3e3f61-242a-42ae-8598-fc0821f29104@45.11.1.62:50000/?insecure=1&sni=www.microsoft.com&mport=50000-55000#🇯🇵 @Filter_breaker
 hysteria2://bd3e3f61-242a-42ae-8598-fc0821f29104@87.254.23.104:50000/?insecure=1&sni=www.microsoft.com&mport=50000-55000#🇺🇸 @Filter_breaker
-hysteria2://c7d8e9f0-1234-5bcd-6abc-7890abcdef12@104.21.25.390:443?insecure=0&sni=hysteria.workers.dev#@Filter_breaker | United States
 hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@150.230.30.237:45979?security=tls&insecure=1&sni=www.bing.com#Telegram@vmessorg
 hysteria2://dac2d4dd-9a4d-4eb0-92a6-028532caed52@107.174.41.101:45000?insecure=1&sni=www.apple.com&mport=45000-55000#美国10 付费推荐：https://dafei.de
 hysteria2://dbe172973c29534833c6fae3d706d9e7@91.217.119.51:443/?sni=www.google.com&obfs=salamander&obfs-password=VpnHubMarKeT&insecure=1#🇹🇷¹ @VpnHubMarKeT
@@ -60,14 +59,6 @@ hysteria2://dongtaiwang.com@45.129.2.108:50850?security=tls&insecure=1&sni=www.b
 hysteria2://dongtaiwang.com@46.17.41.189:50717?security=tls&insecure=1&sni=www.bing.com#@V2rayNG3
 hysteria2://dongtaiwang.com@46.17.41.217:30033?security=tls&insecure=1&sni=www.bing.com#روسیه 🇷🇺 @V2xay
 hysteria2://dongtaiwang.com@51.159.111.32:31180?sni=apple.com&insecure=1&security=tls#@shadoowvpnn🇫🇷
-hysteria2://e9f0g1h2-3456-7bcd-8abc-9012abcdef34@185.146.173.2450:443?insecure=0&sni=hysteria.de.vpnfree.org#@Filter_breaker | Germany
-hysteria2://ecb6728b-70e5-4b01-8cc1-19d6ffc84858@caca.yinheyz.cfd:33756?protocol=udp&insecure=1&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#🇨🇦 @Filter_breaker | CA-مونترال
-hysteria2://ecb6728b-70e5-4b01-8cc1-19d6ffc84858@frfr.yinheyz.cfd:33426?protocol=udp&insecure=1&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#🇫🇷 @Filter_breaker | FR-پاریس
-hysteria2://ecb6728b-70e5-4b01-8cc1-19d6ffc84858@gbgb.yinheyz.cfd:33996?protocol=udp&insecure=1&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#🇬🇧 @Filter_breaker | GB-لندن
-hysteria2://ecb6728b-70e5-4b01-8cc1-19d6ffc84858@inin.yinheyz.cfd:33756?protocol=udp&insecure=1&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#🇮🇳 @Filter_breaker | IN-بنگالور
-hysteria2://ecb6728b-70e5-4b01-8cc1-19d6ffc84858@nlnl.yinheyz.cfd:33856?protocol=udp&insecure=1&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#🇳🇱 @Filter_breaker | NL-
-hysteria2://ecb6728b-70e5-4b01-8cc1-19d6ffc84858@sgsg.yinheyz.cfd:33686?protocol=udp&insecure=1&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#🇸🇬 @Filter_breaker | SG-سنگاپور
-hysteria2://ecb6728b-70e5-4b01-8cc1-19d6ffc84858@usus.yinheyz.cfd:33856?protocol=udp&insecure=1&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#🇺🇸 @Filter_breaker | US-نیویورک
 hysteria2://f39a270d-c46e-4a39-a998-b33660291e7e@nexiadg.688997.xyz:20557?security=tls&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==&insecure=1&sni=nexiadg.688997.xyz#آلمان 🇩🇪 @V2xay
 hysteria2://f8e40931bbb827df@62.60.231.189:12123?security=tls&obfs=salamander&obfs-password=dbc688df29e582d3&insecure=1&sni=www.google.com#@V2rayNG3
 hysteria2://o9p0q1r2-9012-3bcd-4abc-5678abcdef12@185.146.173.2900:443?insecure=0&sni=hysteria.de.vpnfree.org#@Filter_breaker | Germany
