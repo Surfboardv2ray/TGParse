@@ -151,10 +151,10 @@ trojan://NISHIKUITAN111@104.25.31.240:443?allowInsecure=0#t.me/entryNET/config=1
 trojan://NISHIKUITAN111@104.25.39.144:443?allowInsecure=0#t.me/entryNET/config=1838729737321651
 trojan://NISHIKUITAN111@154.92.9.71:443?allowInsecure=0#t.me/entryNET/config=1838733572285119
 trojan://NISHIKUITAN111@162.159.20.17:443?allowInsecure=0#@SaghiVpnX[🇨🇦]
+trojan://NISHIKUITAN111@172.67.29.0:443?allowInsecure=0#t.me/entryNET/config=1838737410066732
 trojan://NISHIKUITAN111@173.245.49.43:443?allowInsecure=0#t.me/entryNET/config=1838726966970740
 trojan://NISHIKUITAN111@173.245.59.30:443?allowInsecure=0#t.me/entryNET/config=1838733512810609
 trojan://NISHIKUITAN111@185.176.26.131:443?allowInsecure=0#@SaghiVpnX[🇰🇿]
-trojan://NISHIKUITAN111@31.22.116.123:443?allowInsecure=0#t.me/entryNET/config=1838725962778603
 trojan://NewUser2@104.248.18.2:1935/?type=tcp&security=tls&sni=x2-germany-digitalocean-v2.devefun.org#@Filter_breaker | Germany
 trojan://NewUser3@154.197.64.242:8443/?type=tcp&security=tls&sni=ngepx3.ambercc.filegear-sg.me#@Filter_breaker | Singapore
 trojan://NewUser4@104.248.18.3:1935/?type=tcp&security=tls&sni=x3-germany-digitalocean-v2.devefun.org#@Filter_breaker | Germany
@@ -201,7 +201,9 @@ trojan://bpb-trojan@104.26.4.60:443?path=/tr?ed=2560&security=tls&host=zamim340.
 trojan://bpb-trojan@104.26.4.60:443?path=/tr?ed=2560&security=tls&host=zamim340.ggff.net&type=ws&sni=zamim340.ggff.net#🛡️ @FreakConfig
 trojan://bpb-trojan@104.26.4.60:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net&path=/tr?ed=2560#@Daily_Configs
 trojan://bpb-trojan@162.159.152.227:443?security=tls&sni=cf.090227.xyz&allowInsecure=1&type=tcp#@awlix_ir
+trojan://bpb-trojan@172.67.246.161:443?allowInsecure=0&sni=bpb.my79801.com#t.me/entryNET/config=1838737286911927
 trojan://bpb-trojan@23.227.60.8:443?security=tls&sni=403b3611-99bc-43b7-88D7-26Ed5D0825A9-3.paGeS.dev&type=tcp#@awlix_ir
+trojan://bpb-trojan@89.116.250.94:443?allowInsecure=0&sni=bpb.my79801.com#t.me/entryNET/config=1838737221413977
 trojan://bpb-trojan@www.vpslook.com:443?path=/tr?ed=2560&security=tls&alpn=h3&host=bpb-hd.aaronchin.xyz&fp=chrome&type=ws&sni=bpb-hd.aaronchin.xyz#@V2rayNG3
 trojan://c0b08970-489c-11f0-8e92-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp&sni=fr1.test3.net#@hopev2ra🩵
 trojan://c25c4610-489e-11f0-bd10-1239d0255272@sg4.6n6.net:443?security=tls&headerType=none&type=tcp#@hopev2ray🤍
