@@ -1,5 +1,6 @@
 [
     "ablnet7",
+    "abrivpn",
     "academi_vpn",
     "ae_proxy",
     "ai_duet",
@@ -73,7 +74,6 @@
     "fnet00",
     "foxnt",
     "freakconfig",
-    "free1_vpn",
     "free_vpn02",
     "freeconnection_vpn",
     "freedom_config",
@@ -90,7 +90,6 @@
     "hibyevpnn",
     "hookvpn_cisco",
     "hopev2ray",
-    "i10vpn",
     "ip_cf",
     "ipv2ray",
     "iran_v2ray1",
@@ -208,6 +207,5 @@
     "wedbaztel",
     "xnxv2ray",
     "xpnteam",
-    "zdyz2",
-    "zedbaz_vpn"
+    "zdyz2"
 ]
