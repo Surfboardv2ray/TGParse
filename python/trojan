@@ -37,7 +37,6 @@ trojan://2775b350-34de-11f0-9c89-1239d0255272@fr1.test3.net:443?security=tls&hea
 trojan://288124da-0d68-42f4-9f48-70dc4dcc55a6@172.67.200.11:443?security=tls&sni=rRfGty6.890606.XYz&type=ws&path=/raChT39pjLFYRA5HdHEIupMZeK&host=rRfGty6.890606.XYz#@Filter_breaker🇺🇸
 trojan://2NZOyeag5BS0jCwzwOAEnplZ8gDpYjSSe53lY8uIp6Rcq3alOBSYA8CeFDAZS3R3Ky39D@154.21.88.69:28332?security=tls&headerType=none&type=tcp&sni=flashlight.homeofbrave.net#@Venom_Servers 🔺کانفیگ رایگان🔺
 trojan://2b641d50-29cd-11f0-a030-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💕
-trojan://2df56fd0-d1b7-4793-b877-acd356d960f7@172.67.204.84:443?security=tls&type=ws&sni=pages.dev&path=/Telegram@V2ray_Alpha/?ed=8080&host=download-93w.pages.dev#t.me/entryNET/config=1838790321720604
 trojan://3058cb40-34de-11f0-92d9-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray🥰
 trojan://3123deb0-4684-11f0-8fc7-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💗
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=nacho-rerun-crepe.stark-industries.solutions#FNET00
@@ -119,7 +118,6 @@ trojan://DHvyBZAYmM@x5-france-scaleway-v2.devefun.org:1935?security=tls&headerTy
 trojan://FiSo7J6vfS@51.68.13.106:1935?security=tls&alpn=h3,h2,http/1.1&headerType=none&type=tcp&sni=x1fr-ovh.devefun.net#@V2rayNG3
 trojan://IM4e0ZQNPU@ru2.asc-sam.ir:443?security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&headerType=none&fp=chrome&spx=/yethePcHjaf&type=tcp&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b#@V2RAY_VMESS_free
 trojan://KhMXaEsWE0@lion.diacotowhidian.com.tr:80?mode=gun&security=tls&alpn=h3,h2,http/1.1&fp=chrome&type=grpc&sni=lion.diacotowhidian.com.tr#آلمان 🇩🇪 @𝗩𝟮𝘅𝗮𝘆
-trojan://NISHIKUITAN111@104.24.177.24:443?allowInsecure=0#@SaghiVpnX[🇨🇦]
 trojan://NewUser2@104.248.18.2:1935/?type=tcp&security=tls&sni=x2-germany-digitalocean-v2.devefun.org#@Filter_breaker | Germany
 trojan://NewUser3@154.197.64.242:8443/?type=tcp&security=tls&sni=ngepx3.ambercc.filegear-sg.me#@Filter_breaker | Singapore
 trojan://NewUser4@104.248.18.3:1935/?type=tcp&security=tls&sni=x3-germany-digitalocean-v2.devefun.org#@Filter_breaker | Germany
@@ -156,6 +154,7 @@ trojan://auto@104.21.48.61:443?security=tls&sni=nameless-term-9c25.vpnconnect202
 trojan://auto@104.21.72.108:443?security=tls&sni=esetsecuritylicense1.cxlrazo.workers.dev&fp=chrome&allowInsecure=1&type=ws&host=esetsecuritylicense1.cxlrazo.workers.dev&path=/#🔷🆔@v2ray_configs_pool🔷
 trojan://auto@172.67.213.48:443?security=tls&sni=esetsecuritylicense2.wawafec355.workers.dev&fp=chrome&allowInsecure=1&type=ws&host=esetsecuritylicense2.wawafec355.workers.dev&path=/#🔷🆔@v2ray_configs_pool🔷
 trojan://auto@172.67.213.48:443?security=tls&sni=esetsecuritylicense2.wawafec355.workers.dev&fp=chrome&allowInsecure=1&type=ws&host=esetsecuritylicense2.wawafec355.workers.dev&path=/Telegram-@V2ray_Alpha/?ed=2560#🔷🆔@v2ray_configs_pool🔷
+trojan://auto@188.114.99.81:443?security=tls&sni=mazq100za43.962dael.workers.dev&fp=chrome&allowInsecure=1&type=ws&host=mazq100za43.962dael.workers.dev&path=/#t.me/entryNET/config=1838796614666217
 trojan://auto@188.114.99.81:443?security=tls&sni=mazq100za43.962dael.workers.dev&fp=chrome&allowInsecure=1&type=ws&host=mazq100za43.962dael.workers.dev&path=/#🔷🆔@v2ray_configs_pool🔷
 trojan://b22214b0-29cc-11f0-a493-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray🧡
 trojan://b33b11d0-3f0f-11f0-a423-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💯
@@ -230,11 +229,9 @@ trojan://f2ab1dd0-3f0f-11f0-a0bc-1239d0255272@fr1.test3.net:443?security=tls&hea
 trojan://fbd3aa90-3f0f-11f0-b8ff-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💙
 trojan://fd17fd03-844b-4c4b-9551-27f2b055d4f8@51.158.243.62:443?security=reality&encryption=none&pbk=1gKloUYtea1EJfBcatiTkmJVdCbb6SfVrnL6Lz-RYj0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=42#[🇳🇱]ae_proxy
 trojan://fed92b60-489d-11f0-8257-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💛
-trojan://g1h2i3j4-1234-5bcd-6abc-7890abcdef12@104.21.25.400:443?type=ws&host=trojan.workers.dev&path=/trojan#@Filter_breaker | United States
 trojan://gDFMs8QUem@62.60.176.240:36557?type=tcp&path=/&host=zula.ir&headerType=http&security=none#@BORED_VPN
 trojan://h2i3j4k5-9012-3bcd-4abc-5678abcdef12@104.21.25.420:443?type=ws&host=trojan.workers.dev&path=/trojan#@Filter_breaker | United States
 trojan://hZ7JkYVAfB@141.227.138.29:1935?security=tls&alpn=h3,h2,http/1.1&headerType=none&type=tcp&sni=x1ch-ovh.devefun.net#@V2rayNG3
-trojan://i3j4k5l6-3456-7bcd-8abc-9012abcdef34@185.146.173.2550:443?type=ws&host=trojan.de.vpnfree.org&path=/trojan#@Filter_breaker | Germany
 trojan://j4k5l6m7-3456-7bcd-8abc-9012abcdef90@185.146.173.2700:443?type=ws&host=trojan.de.vpnfree.org&path=/trojan#@Filter_breaker | German
 trojan://juzi@104.19.57.183:2096?security=tls&sni=juzi8186-sr1.pages.dev&type=tcp#@awlix_ir
 trojan://juzi@3.76.154.119:443?security=tls&sni=juzi8186-sr1.pages.dev&type=tcp#@awlix_ir
@@ -294,7 +291,6 @@ trojan://tunnel-astrovpn_official_ae@ae-1.stunnel.cc:8441?path=AstroVPN_Official
 trojan://tunnel-astrovpn_official_de@de-1.stunnel.cc:8441?path=AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official&security=tls&alpn=http/1.1&host=de-1.stunnel.cc&headerType=none&type=tcp&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev#AstroVPN_Official🇩🇪(ALL)
 trojan://tunnel-astrovpn_official_nl@nl-1.stunnel.cc:8441?path=AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official&security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=nl-1.stunnel.cc#AstroVPN_Official 🇳🇱
 trojan://tunnel-astrovpn_official_tr@tr-1.stunnel.cc:8441?path=AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official&security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=tr-1.stunnel.cc#AstroVPN_Official 🇹🇷
-trojan://tunnel-astrovpn_official_tr@tr-1.stunnel.cc:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=tr-1.stunnel.cc#🔷🆔@v2ray_configs_pool🔷
 trojan://u5v6w7x8-9012-3bcd-4abc-5678abcdef78@104.21.25.520:443?type=ws&host=trojan.workers.dev&path=/trojan#@Filter_breaker | United States
 trojan://ujTdl1LNb7@p5.punchline.ir:24883?type=xhttp&mode=auto&path=/v2raybluecrystal&security=reality&fp=chrome&sni=www.microsoft.com&pbk=bfo1AdofjSr34t-tP-ZzBrDXeMG_V59Mo1Pdjr7h-wc&sid=9009&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#3🇳🇱➣@EVAY_VPN
 trojan://utF6JLQd2x@141.227.128.69:1935?security=tls&alpn=h3,h2,http/1.1&headerType=none&type=tcp&sni=x1es-ovh.devefun.net#@V2rayNG3
