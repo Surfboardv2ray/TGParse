@@ -48,7 +48,6 @@ trojan://39b9e540-4684-11f0-b86f-1239d0255272@uk1.test3.net:443?security=tls&hea
 trojan://3a792860-34de-11f0-a992-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray
 trojan://3d558620-48a3-11f0-a79b-1239d0255272@sg3.6n6.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💟
 trojan://3e5cb4f5-8dcf-492a-b4c8-06bc06f158bb@18.163.113.42:44560?security=tls&sni=jp12.bilibili.com&type=tcp&allowInsecure=1#t.me/entryNET/config=1838869971045002
-trojan://3e5cb4f5-8dcf-492a-b4c8-06bc06f158bb@18.167.172.191:45051?security=tls&sni=us1.bilibili.com&type=tcp&allowInsecure=1#t.me/entryNET/config=1838848579860146
 trojan://3e5cb4f5-8dcf-492a-b4c8-06bc06f158bb@43.199.144.229:40091?security=tls&sni=hk12.bilibili.com&type=tcp&allowInsecure=1#t.me/entryNET/config=1838858394564205
 trojan://3e8adda0-29cd-11f0-915a-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray🤎
 trojan://3r372@91.195.240.94:443?security=tls&sni=tj786.37927.online&type=tcp#@awlix_ir
@@ -181,10 +180,8 @@ trojan://b22214b0-29cc-11f0-a493-1239d0255272@fr1.test3.net:443?security=tls&hea
 trojan://b33b11d0-3f0f-11f0-a423-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💯
 trojan://b6f0c135-043a-40e3-863a-08fba589034c@109.230.91.202:443?mode=gun&security=tls&type=grpc&serviceName=gr1.grtj.sulindac.top&sni=gr1.grtj.sulindac.top#28 | @ConfigFast 🇮🇷💔 عضو بشید تلگرام و ایتا
 trojan://b75d3dc0-4213-11f0-bb32-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💘
-trojan://bacabac-caab-caab-adcb-acbabbbcccaa@127.0.0.1:8080?security=tls&type=tcp#t.me/entryNET/config=1838855312509996
 trojan://bb101390-29cc-11f0-936b-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💚
 trojan://bce0c7cb-08d1-46a7-b77b-7bff8b46252f@104.21.91.180:443?security=tls&sni=XXXXxxXxXc.666461.xyZ&type=ws&path=/x9F83IcyjcEyBXZBROjL3Q5vTymr&host=xxxxxxxxxc.666461.xyz#@Filter_breaker🇺🇸
-trojan://blue2024@104.17.142.12:443?type=ws&sni=tb.promote.icu&host=tb.promote.icu#t.me/entryNET/config=1838842917589397
 trojan://blue2024@104.19.214.179:443?allowInsecure=1&sni=td.promote.icu&ws=1&wspath=/?ed=2560#[🇨🇦]ae_proxy
 trojan://bpb-trojan@104.18.34.21:2053?path=/trEjWhhuRjwiMwSbDN/ZGUucmFkaWNhbGx5LnBybw==&security=tls&alpn=http/1.1&host=bpb-worker-panel1-e4p.pages.dev&fp=chrome&type=ws&sni=bpB-worKER-paneL1-e4p.pAGes.dEV#@V2rayNG3
 trojan://bpb-trojan@104.21.30.195:443?security=tls&sni=403b3611-99BC-43B7-88D7-26eD5d0825a9-3.PagES.DEv&type=tcp#@awlix_ir
@@ -197,7 +194,6 @@ trojan://bpb-trojan@104.26.4.60:443?security=tls&sni=zamim340.ggff.net&type=ws&h
 trojan://bpb-trojan@141.11.202.133:443?allowInsecure=1&sni=bpb.my79801.com&type=ws&host=bpb.my79801.com&path=/tr#t.me/entryNET/config=1838856129447566
 trojan://bpb-trojan@162.159.152.227:443?security=tls&sni=cf.090227.xyz&allowInsecure=1&type=tcp#@awlix_ir
 trojan://bpb-trojan@172.67.70.92:443?path=/tr?ed=2560&security=tls&host=zamim340.ggff.net&type=ws&sni=zamim340.ggff.net#🇺🇸US | @NetLume
-trojan://bpb-trojan@198.41.202.175:443?allowInsecure=0&sni=bpb.my79801.com#t.me/entryNET/config=1838850467114711
 trojan://bpb-trojan@23.227.60.8:443?security=tls&sni=403b3611-99bc-43b7-88D7-26Ed5D0825A9-3.paGeS.dev&type=tcp#@awlix_ir
 trojan://bpb-trojan@www.vpslook.com:443?path=/tr?ed=2560&security=tls&alpn=h3&host=bpb-hd.aaronchin.xyz&fp=chrome&type=ws&sni=bpb-hd.aaronchin.xyz#@V2rayNG3
 trojan://c0b08970-489c-11f0-8e92-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp&sni=fr1.test3.net#@hopev2ra🩵
@@ -250,6 +246,7 @@ trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sn
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sni=vpn.stupidworld.web.id&fp=chrome&type=ws&host=vpn.stupidworld.web.id&path=/Tel-V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS#🔷🆔@v2ray_configs_pool🔷
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sni=vpn.stupidworld.web.id&type=ws&host=vpn.stupidworld.web.id&path=/Stupid-World/103.106.228.126-2053#🔷🆔@v2ray_configs_pool🔷
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sni=vpn.stupidworld.web.id&type=ws&host=vpn.stupidworld.web.id&path=/Tel-@V2ray_Alpha#🔷🆔@v2ray_configs_pool🔷
+trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:443?security=tls&sni=aio.zipzap.biz.id&type=ws&host=aio.zipzap.biz.id&path=/aioproxybot/129.150.49.58-18650#Telegram:@config_proxy 💦
 trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:443?security=tls&sni=aio.zipzap.biz.id&type=ws&host=aio.zipzap.biz.id&path=/aioproxybot/129.150.49.58-18650#🔷🆔@v2ray_configs_pool🔷
 trojan://f2ab1dd0-3f0f-11f0-a0bc-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💛
 trojan://fbd3aa90-3f0f-11f0-b8ff-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💙
@@ -319,7 +316,6 @@ trojan://u5v6w7x8-9012-3bcd-4abc-5678abcdef78@104.21.25.520:443?type=ws&host=tro
 trojan://ujTdl1LNb7@p5.punchline.ir:24883?type=xhttp&mode=auto&path=/v2raybluecrystal&security=reality&fp=chrome&sni=www.microsoft.com&pbk=bfo1AdofjSr34t-tP-ZzBrDXeMG_V59Mo1Pdjr7h-wc&sid=9009&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#3🇳🇱➣@EVAY_VPN
 trojan://utF6JLQd2x@141.227.128.69:1935?security=tls&alpn=h3,h2,http/1.1&headerType=none&type=tcp&sni=x1es-ovh.devefun.net#@V2rayNG3
 trojan://v6w7x8y9-3456-7bcd-8abc-9012abcdef12@104.21.25.530:443?type=ws&host=trojan.workers.dev&path=/trojan#@Filter_breaker | United States
-trojan://vip@russia.com:443?encryption=none&security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=/?ed=2560#t.me/entryNET/config=1838837570028613
 trojan://vip@www.pcmag.com:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=/#@Golestan_VPN - JOIN
 trojan://vmRtExJrt6@51.195.255.103:8443?security=tls&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=uk-03.allhubb.info#2@v2rayngsupbot
 trojan://wPslQ6KBJN@wivip.dtsazino.com:443?security=tls&headerType=none&type=tcp&sni=wivip.dtsazino.com#.
