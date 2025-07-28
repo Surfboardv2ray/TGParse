@@ -3,8 +3,6 @@ hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@172.252.236.213:56704?security=
 hysteria2://123456@192.3.85.237:443?security=tls&insecure=1&sni=bing.com#@V2rayNG3
 hysteria2://15R8i80exo@185.45.193.163:11001?obfs=salamander&obfs-password=KevinZakarian&insecure=1#🔷🆔@v2ray_configs_pool🔷
 hysteria2://15cca331-9e92-449d-93b0-25f82203595f@gb.gomeow.online:20309?security=tls&insecure=0&sni=gb.gomeow.online#@V2rayNG3
-hysteria2://196d331c-9a7d-4a8a-990e-f8babff27412@jpcn286.s2fjeyeeyafe.bond:35789?security=tls&insecure=1&sni=jpcn286.s2fjeyeeyafe.bond#@ᴅᴀɪʟʏ_ᴄᴏɴꜰɪɢꜱ
-hysteria2://196d331c-9a7d-4a8a-990e-f8babff27412@us10.s2fjeyeeyafe.bond:35789?security=tls&insecure=1&sni=us10.s2fjeyeeyafe.bond#@ᴅᴀɪʟʏ_ᴄᴏɴꜰɪɢꜱ
 hysteria2://203d1d64-3313-11ed-bb74-f23c9164ca5d@107.167.18.102:8443?sni=0e1462f1-sum4g0-t8ro7t-1ey07.hy2.gotochinatown.net&insecure=0#🔷🆔@v2ray_configs_pool🔷
 hysteria2://203d1d64-3313-11ed-bb74-f23c9164ca5d@107.167.18.102:8443?sni=d7b8355e-suk9s0-t8ro7t-1ey07.hy2.gotochinatown.net&insecure=0#🔷🆔@v2ray_configs_pool🔷
 hysteria2://22f2c759db51b3d0@109.120.135.123:12122?security=tls&obfs=salamander&obfs-password=de8287cd33b05fa3&insecure=1&sni=www.google.com#@V2rayNG3
