@@ -1,6 +1,5 @@
 hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@172.252.236.213:56704?security=tls&insecure=0&sni=dxobg4azmk.gafnode.sbs#@CanfigVip+🍕
 hysteria2://123456@192.3.85.237:443?security=tls&insecure=1&sni=bing.com#@V2rayNG3
-hysteria2://15R8i80exo@185.45.193.163:11001?obfs=salamander&obfs-password=KevinZakarian&insecure=1#🔷🆔@v2ray_configs_pool🔷
 hysteria2://15cca331-9e92-449d-93b0-25f82203595f@gb.gomeow.online:20309?security=tls&insecure=0&sni=gb.gomeow.online#@V2rayNG3
 hysteria2://22f2c759db51b3d0@109.120.135.123:12122?security=tls&obfs=salamander&obfs-password=de8287cd33b05fa3&insecure=1&sni=www.google.com#@V2rayNG3
 hysteria2://27e473f8-d610-4b04-bdf7-d0c39b47c897@23.80.81.213:45000?insecure=1&sni=www.apple.com&mport=45000-55000#美国10 付费推荐：https://dafei.de
@@ -24,8 +23,7 @@ hysteria2://65a43b6e-19c5-4fab-b960-d110a07d66a4@209.141.47.127:3234?security=tl
 hysteria2://67828a6e-0144-4e57-8169-2447a3dd2e61@23.80.81.213:45000?insecure=1&sni=www.apple.com&mport=45000-55000#美国10 付费推荐：https://dafei.de
 hysteria2://75577117-ABCD-DCBA-AAAA-CC777775577B@s15.serv00.com:7777?security=tls&insecure=1&sni=www.bing.com#@V2rayNG3
 hysteria2://8a104bc2-a8d1-4f38-8c29-17176a68b7d5@23.80.81.213:45000?insecure=1&sni=www.apple.com&mport=45000-55000#美国10 付费推荐：https://dafei.de
-hysteria2://917pnfE203@185.45.193.163:11001?obfs=salamander&obfs-password=KevinZakarian&insecure=1#🔷🆔@v2ray_configs_pool🔷
-hysteria2://96ccaa92-f487-4673-b8f5-a6ee167d6f39@yume-se.legeth.xyz:11948?insecure=0#🔷🆔@v2ray_configs_pool🔷
+hysteria2://8b583ccc-8323-42fb-9538-6e950dfcb553@nexiateq.688997.xyz:20957?security=GOLD_VPN8tls&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==&insecure=1&sni=nexiateq.688997.xyz#@SaghiVpnX[🇹🇷]
 hysteria2://@JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=pichondan.com#🛡️ @FreakConfig
 hysteria2://@JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=pichondan.com#🇵🇾telegram ➠ @v2rayNG_Matsuri
 hysteria2://@JavidnamanIran-Javid-SHAH-KingRezaPahlavi@77.90.52.69:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=pichondan.com#آلمان 🇩🇪 @V2xay
@@ -61,6 +59,16 @@ hysteria2://dongtaiwang.com@45.129.2.108:50850?security=tls&insecure=1&sni=www.b
 hysteria2://dongtaiwang.com@46.17.41.189:50717?security=tls&insecure=1&sni=www.bing.com#@V2rayNG3
 hysteria2://dongtaiwang.com@46.17.41.217:30033?security=tls&insecure=1&sni=www.bing.com#روسیه 🇷🇺 @V2xay
 hysteria2://dongtaiwang.com@51.159.111.32:31180?security=tls&insecure=1&sni=apple.com#FR 2 🇫🇷 | @v2xay
+hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flydg.flylink.cyou:35230/?insecure=1&sni=flydg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw==#🇩🇪 Germany_flydg_35230 | @Filter_breaker
+hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flyels.flylink.cyou:35270/?insecure=1&sni=flyels.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw==#🇷🇺 Russia_flyels_35270 | @Filter_breaker
+hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flyhg.flylink.cyou:35310/?insecure=1&sni=flyhg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw==#🇰🇷 Korea_flyhg_35310 | @Filter_breaker
+hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flyhl.flylink.cyou:35250/?insecure=1&sni=flyhl.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw==#🇳🇱 Netherlands_flyhl_35250 | @Filter_breaker
+hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flyjnd.flylink.cyou:35280/?insecure=1&sni=flyjnd.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw==#🇨🇦 Canada_flyjnd_35280 | @Filter_breaker
+hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flymg.flylink.cyou:35210/?insecure=1&sni=flymg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw==#🇺🇸 USA_flymg_35210 | @Filter_breaker
+hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flyrb.flylink.cyou:35300/?insecure=1&sni=flyxg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw==#🇯🇵 Japan_flyrb_35300 | @Filter_breaker
+hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flyxg.flylink.cyou:35290/?insecure=1&sni=flyxg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw==#🇭🇰 HongKong_flyxg_35290 | @Filter_breaker
+hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flyxghy.flylink.cyou:35260/?insecure=1&sni=flyxghy.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw==#🇭🇰 HongKong_flyxghy_35260 | @Filter_breaker
+hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flyyg.flylink.cyou:35240/?insecure=1&sni=flyyg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw==#🇬🇧 UK_flyyg_35240 | @Filter_breaker
 hysteria2://e2QEtNgU9v@5.133.102.59:13222?fastopen=0&insecure=1&obfs=salamander&obfs-password=xfvg@FFG#v2raybluecrystal4-tur
 hysteria2://e2QEtNgU9v@5.133.102.59:28958?fastopen=0&insecure=1&obfs=salamander&obfs-password=FF#@GVgg#v2raybluecrystal3-tur
 hysteria2://e2QEtNgU9v@5.133.102.59:30062?fastopen=0&insecure=1&obfs=salamander&obfs-password=xfvgb@ssV#v2raybluecrystal-tur
