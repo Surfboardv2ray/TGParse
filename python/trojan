@@ -264,6 +264,7 @@ trojan://telegram-ISVvpn@49.13.142.155:2060?type=tcp&path=/telegram-@ISVvpn-tele
 trojan://telegram-id-directvpn@18.199.233.194:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🛡️ @FreakConfig
 trojan://telegram-id-directvpn@3.124.230.127:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@meli_proxyy
 trojan://telegram-id-directvpn@3.77.162.60:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@confing_chanel
+trojan://telegram-id-directvpn@51.44.54.149:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1839068405623975
 trojan://telegram-id-directvpn@63.177.166.9:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🛡️ @FreakConfig
 trojan://telegram-id-directvpn@63.178.209.45:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🛡️ @FreakConfig
 trojan://telegram-id-privatevpns@13.42.217.95:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#@awlix_ir
@@ -273,6 +274,7 @@ trojan://telegram-id-privatevpns@3.121.254.201:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@3.68.1.93:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🛡️ @FreakConfig
 trojan://telegram-id-privatevpns@3.77.162.60:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# @confing_chanel
 trojan://telegram-id-privatevpns@51.21.59.141:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#@awlix_ir
+trojan://telegram-id-privatevpns@51.44.54.149:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1839068214857237
 trojan://telegram-id-privatevpns@63.176.186.43:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇩🇪]ae_proxy
 trojan://telegram-id-privatevpns@63.177.166.9:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🛡️ @FreakConfig
 trojan://telegram-id-privatevpns@63.178.209.45:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🛡️ @FreakConfig
