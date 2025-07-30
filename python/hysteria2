@@ -1,8 +1,6 @@
 hysteria2://123456@192.3.85.237:443?security=tls&insecure=1&sni=bing.com#@V2rayNG3
 hysteria2://15cca331-9e92-449d-93b0-25f82203595f@gb.gomeow.online:20309?security=tls&insecure=0&sni=gb.gomeow.online#@V2rayNG3
-hysteria2://1b9c460e-f026-11ef-b737-f23c91cfbbc9@2e7bc2e9-sw04g0-swsmkh-1s0a7.hy2.gotochinatown.net:8443?sni=2e7bc2e9-sw04g0-swsmkh-1s0a7.hy2.gotochinatown.net&insecure=0#🔷🆔@v2ray_configs_pool🔷
 hysteria2://22f2c759db51b3d0@109.120.135.123:12122?security=tls&obfs=salamander&obfs-password=de8287cd33b05fa3&insecure=1&sni=www.google.com#@V2rayNG3
-hysteria2://262100bd-a0c7-4412-a62d-a07d01f11a6a@87.254.23.104:443?sni=www.microsoft.com&insecure=1&mport=50000-55000#🔷🆔@v2ray_configs_pool🔷
 hysteria2://27e473f8-d610-4b04-bdf7-d0c39b47c897@23.80.81.213:45000?insecure=1&sni=www.apple.com&mport=45000-55000#美国10 付费推荐：https://dafei.de
 hysteria2://2ec58858-976b-11ea-82ef-f23c9164ca5d@6150e203-svy9s0-sx4b2t-tng5.hy2.gotochinatown.net:8443?security=tls&insecure=0&sni=6150e203-svy9s0-sx4b2t-tng5.hy2.gotochinatown.net#🇮🇷 🇺🇸 Telegram @v2rayng_fars
 hysteria2://4VDmo53kWX@185.219.81.33:18865?fastopen=0&insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#v2raybluecrystal2
@@ -50,7 +48,6 @@ hysteria2://b5c1b004cd051ef2f6ffedda2e47d538@206.71.158.40:33331?sni=jnir-1.pich
 hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@150.230.30.237:45979?security=tls&insecure=1&sni=www.bing.com#Telegram@vmessorg
 hysteria2://d3b8fcfb-4f76-476e-9c7d-ce43a1d32267@nexiaxg.688997.xyz:20057?security=tls&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==&insecure=1&sni=nexiaxg.688997.xyz#@SaghiVpnX[🇭🇰]
 hysteria2://dac2d4dd-9a4d-4eb0-92a6-028532caed52@107.174.41.101:45000?insecure=1&sni=www.apple.com&mport=45000-55000#美国10 付费推荐：https://dafei.de
-hysteria2://dongtaiwang.com@108.181.5.130:63015?sni=apple.com&insecure=1#🔷🆔@v2ray_configs_pool🔷
 hysteria2://dongtaiwang.com@45.129.2.108:50850?security=tls&insecure=1&sni=www.bing.com#@V2RAYNG_1378
 hysteria2://dongtaiwang.com@45.129.2.108:50850?security=tls&insecure=1&sni=www.bing.com#@V2ray1_Ng
 hysteria2://dongtaiwang.com@45.129.2.108:50850?security=tls&insecure=1&sni=www.bing.com#@V2ray_cartel
@@ -73,8 +70,6 @@ hysteria2://e2QEtNgU9v@5.133.102.59:13222?fastopen=0&insecure=1&obfs=salamander&
 hysteria2://e2QEtNgU9v@5.133.102.59:28958?fastopen=0&insecure=1&obfs=salamander&obfs-password=FF#@GVgg#v2raybluecrystal3-tur
 hysteria2://e2QEtNgU9v@5.133.102.59:30062?fastopen=0&insecure=1&obfs=salamander&obfs-password=xfvgb@ssV#v2raybluecrystal-tur
 hysteria2://e2QEtNgU9v@5.133.102.59:41250?fastopen=0&insecure=1&obfs=salamander&obfs-password=vbn@ffFF#v2raybluecrystal2-tur
-hysteria2://e3975a05-b89e-11ec-a50d-f23c91cfbbc9@d5d8af9a-svlb40-sxf56z-1f596.hy2.gotochinatown.net:8443?sni=d5d8af9a-svlb40-sxf56z-1f596.hy2.gotochinatown.net&insecure=0#🔷🆔@v2ray_configs_pool🔷
-hysteria2://e8a960d8-14f5-11ec-a0fc-f23c913c8d2b@ed8e1d3b-sw3ts0-szt6ky-1bonh.hy2.gotochinatown.net:8443?sni=ed8e1d3b-sw3ts0-szt6ky-1bonh.hy2.gotochinatown.net&insecure=0#🔷🆔@v2ray_configs_pool🔷
 hysteria2://f39a270d-c46e-4a39-a998-b33660291e7e@nexiadg.688997.xyz:20557?security=tls&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==&insecure=1&sni=nexiadg.688997.xyz#آلمان 🇩🇪 @V2xay
 hysteria2://f8e40931bbb827df@62.60.231.189:12123?security=tls&obfs=salamander&obfs-password=dbc688df29e582d3&insecure=1&sni=www.google.com#@V2rayNG3
 hysteria2://fzgdaH0cJ7@160.191.183.244:11282?fastopen=0&insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#v2raybluecrystal-ind
