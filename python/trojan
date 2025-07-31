@@ -149,6 +149,7 @@ trojan://NISHIKUITAN111@103.21.244.139:443?allowInsecure=1&ws=1&wspath=/#t.me/en
 trojan://NISHIKUITAN111@162.159.20.17:443?allowInsecure=1&ws=1&wspath=/#t.me/entryNET/config=1839149122841554
 trojan://NISHIKUITAN111@172.64.168.18:443?allowInsecure=1&ws=1&wspath=/#t.me/entryNET/config=1839152898710274
 trojan://NISHIKUITAN111@185.148.107.11:443?allowInsecure=1&ws=1&wspath=/#t.me/entryNET/config=1839152897773241
+trojan://NISHIKUITAN111@46.254.92.27:443?allowInsecure=1&ws=1&wspath=/#t.me/entryNET/config=1839156672702515
 trojan://NewUser2@104.248.18.2:1935/?type=tcp&security=tls&sni=x2-germany-digitalocean-v2.devefun.org#@Filter_breaker | Germany
 trojan://NewUser3@154.197.64.242:8443/?type=tcp&security=tls&sni=ngepx3.ambercc.filegear-sg.me#@Filter_breaker | Singapore
 trojan://NewUser4@104.248.18.3:1935/?type=tcp&security=tls&sni=x3-germany-digitalocean-v2.devefun.org#@Filter_breaker | Germany
@@ -186,6 +187,7 @@ trojan://bpb-trojan@104.26.4.60:443?path=/tr?ed=2560&security=tls&host=zamim340.
 trojan://bpb-trojan@104.26.4.60:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net&path=/tr?ed=2560#@Daily_Configs
 trojan://bpb-trojan@141.11.202.133:443?allowInsecure=1&sni=bpb.my79801.com&ws=1&wspath=/tr?ed=2560#t.me/entryNET/config=1839152962375255
 trojan://bpb-trojan@162.159.152.227:443?security=tls&sni=cf.090227.xyz&allowInsecure=1&type=tcp#@awlix_ir
+trojan://bpb-trojan@198.41.215.216:443?allowInsecure=1&sni=bpb.my79801.com&ws=1&wspath=/tr?ed=2560#t.me/entryNET/config=1839156736337714
 trojan://bpb-trojan@23.227.60.8:443?security=tls&sni=403b3611-99bc-43b7-88D7-26Ed5D0825A9-3.paGeS.dev&type=tcp#@awlix_ir
 trojan://bpb-trojan@www.vpslook.com:443?path=/tr?ed=2560&security=tls&alpn=h3&host=bpb-hd.aaronchin.xyz&fp=chrome&type=ws&sni=bpb-hd.aaronchin.xyz#@V2rayNG3
 trojan://c0b08970-489c-11f0-8e92-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp&sni=fr1.test3.net#@hopev2ra🩵
