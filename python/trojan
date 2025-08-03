@@ -123,7 +123,6 @@ trojan://NISHIKUITAN111@104.20.152.246:443?allowInsecure=1#t.me/entryNET/config=
 trojan://NISHIKUITAN111@162.159.2.69:443?allowInsecure=1#t.me/entryNET/config=1839439788255277
 trojan://NISHIKUITAN111@185.176.26.131:443?allowInsecure=1#t.me/entryNET/config=1839447154714951
 trojan://NISHIKUITAN111@188.114.96.153:443?allowInsecure=1#t.me/entryNET/config=1839443379673214
-trojan://NISHIKUITAN111@92.53.190.87:443?allowInsecure=1#t.me/entryNET/config=1839432131292358
 trojan://Pooria@104.17.148.22:443?path=/trPyOrWMfkHd15oxiI?ed=1520#FreeV2Alpha&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=chrome&type=ws&sni=301.pOORiAm.ir#@V2rayNG3
 trojan://Pooria@104.17.148.22:443?path=/trPyOrWMfkHd15oxiI?ed=1520&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=chrome&type=ws&sni=301.pOORiAm.ir#@V2rayNG3
 trojan://Pooria@104.17.148.22:443?path=trPyOrWMfkHd15oxiI?ed=1520#@v2ray_alpha&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=chrome&type=ws&sni=301.pOORiAm.ir#@V2rayNG3
@@ -165,6 +164,7 @@ trojan://cf6c3e40-4213-11f0-bc31-1239d0255272@uk1.test3.net:443?security=tls&hea
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@157.230.32.243:443?security=tls&sni=www.baidu.com&allowInsecure=1&type=tcp&headerType=none#@v2ray_configs_pool
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@174.138.85.53:443?security=tls&headerType=none&type=tcp&sni=www.baidu.com#US 🇺🇲 | @v2xay
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@58.152.30.37:443?security=tls&sni=www.baidu.com&allowInsecure=1&type=tcp&headerType=none#@v2ray_configs_pool
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@58.152.30.37:443?security=tls&sni=www.baidu.com&allowInsecure=1&type=tcp&headerType=none#t.me/entryNET/config=1839447652981470
 trojan://d6dd83c0-3f0f-11f0-9e9e-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray🩶
 trojan://d9aa8760-4945-11f0-84b7-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp&sni=www.speedtest.net#@hopev2ray💖
 trojan://da86c6b5-a130-4bb8-a6ef-00b77b85b9e7@94.131.122.157:8443?mode=gun&security=tls&type=grpc&serviceName=grpc&sni=uk2.safecdn.site#@V2rayNG3
@@ -254,8 +254,8 @@ trojan://redfree8@104.17.148.22:80?path=/trLwW5jwrnymnOdqki?ed=2560&security=non
 trojan://tKGE5Wyjae@justdoit.broken-dreams.ir:25971?security=reality&sni=stackoverflow.com&fp=chrome&pbk=dOmK8SOK91QXx1vmWCwB58Eg3xyfEhQkaZywPCgjbh0&sid=83d1664feeec&spx=/&type=grpc&authority=&serviceName=DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs?ed=2560&mode=gun#@Daily_Configs
 trojan://telegram-ISVvpn@49.13.142.155:2060?type=tcp&path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn&host=eset.com&headerType=http&security=none#telegram-@ISVvpn
 trojan://telegram-id-directvpn@18.199.233.194:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🛡️ @FreakConfig
+trojan://telegram-id-directvpn@3.123.233.149:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1839449225495554
 trojan://telegram-id-directvpn@3.77.162.60:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@confing_chanel
-trojan://telegram-id-directvpn@51.44.136.221:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1839430351584784
 trojan://telegram-id-directvpn@63.177.166.9:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🛡️ @FreakConfig
 trojan://telegram-id-directvpn@63.178.209.45:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🛡️ @FreakConfig
 trojan://telegram-id-privatevpns@13.42.217.95:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#@awlix_ir
