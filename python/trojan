@@ -101,10 +101,10 @@ trojan://NISHIKUITAN111@104.17.124.126:443?allowInsecure=1#t.me/entryNET/config=
 trojan://NISHIKUITAN111@104.17.255.213:443?allowInsecure=1#t.me/entryNET/config=1839786954508097
 trojan://NISHIKUITAN111@104.19.224.216:443?allowInsecure=1#t.me/entryNET/config=1839787014274145
 trojan://NISHIKUITAN111@104.20.134.213:443?allowInsecure=1#t.me/entryNET/config=1839787076543138
-trojan://NISHIKUITAN111@104.22.79.154:443?allowInsecure=1#t.me/entryNET/config=1839783490904075
 trojan://NISHIKUITAN111@104.25.227.104:443?allowInsecure=1#t.me/entryNET/config=1839798279156280
 trojan://NISHIKUITAN111@140.99.233.144:443?allowInsecure=1#t.me/entryNET/config=1839790789273388
-trojan://NISHIKUITAN111@45.131.4.208:443?allowInsecure=1#t.me/entryNET/config=1839783179200285
+trojan://NISHIKUITAN111@185.148.106.44:443?allowInsecure=1&sni=za.ylks.xyz&ws=1&wspath=//#t.me/entryNET/config=1839802113477889
+trojan://NISHIKUITAN111@88.216.66.169:443?allowInsecure=1#t.me/entryNET/config=1839802054117202
 trojan://Pooria@104.17.148.22:443?path=/trPyOrWMfkHd15oxiI?ed=1520#FreeV2Alpha&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=chrome&type=ws&sni=301.pOORiAm.ir#@V2rayNG3
 trojan://Pooria@104.17.148.22:443?path=/trPyOrWMfkHd15oxiI?ed=1520&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=chrome&type=ws&sni=301.pOORiAm.ir#@V2rayNG3
 trojan://Pooria@104.17.148.22:443?path=trPyOrWMfkHd15oxiI?ed=1520#@v2ray_alpha&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=chrome&type=ws&sni=301.pOORiAm.ir#@V2rayNG3
@@ -199,7 +199,6 @@ trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Tel-@Shad
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Tel-@ShadowProxy66&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#💎 @AblNet7 💎
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Tel-@V2RAYNG_1378&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#@SaghiVpnX[🇨🇦]
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Tel-@V2ray_Alpha&security=tls&host=vpn.stupidworld.web.id&fp=chrome&allowinsecure=0&type=ws&sni=vpn.stupidworld.web.id#@configfu
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Tel-@V2ray_Alpha&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#@Daily_Configs
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Tel-@V2ray_Alpha&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#@G0Dv2ray
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Tel-@V2ray_Alpha&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#@V2ray1_Ng
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Tel-@V2ray_Alpha&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#🍁 @Viturey : کانال تلگرام 🍒
