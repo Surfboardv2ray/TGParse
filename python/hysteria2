@@ -2,7 +2,6 @@ hysteria2://07a95561-a7c6-40fb-b964-45c83a2833bf@185.184.70.120:51234?security=t
 hysteria2://07a95561-a7c6-40fb-b964-45c83a2833bf@185.184.70.120:51234?security=tls&insecure=1#GB 1 🇬🇧 | @v2xay
 hysteria2://123456@192.3.85.237:443?security=tls&insecure=1&sni=bing.com#@V2rayNG3
 hysteria2://15cca331-9e92-449d-93b0-25f82203595f@gb.gomeow.online:20309?security=tls&insecure=0&sni=gb.gomeow.online#@V2rayNG3
-hysteria2://1fe99fb2-9f40-4c5e-b275-de1d49d51409@nexiateq.688997.xyz:20957?security=tls&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==&insecure=1&sni=nexiateq.688997.xyz#@SaghiVpnX[🇹🇷]
 hysteria2://22f2c759db51b3d0@109.120.135.123:12122?security=tls&obfs=salamander&obfs-password=de8287cd33b05fa3&insecure=1&sni=www.google.com#@V2rayNG3
 hysteria2://27e473f8-d610-4b04-bdf7-d0c39b47c897@23.80.81.213:45000?insecure=1&sni=www.apple.com&mport=45000-55000#美国10 付费推荐：https://dafei.de
 hysteria2://30cd031e-b4a6-4bc7-a99a-9642259fdeff@flydg.flylink.cyou:35230?security=tls&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw==&insecure=1&sni=flydg.flylink.cyou#🛡️ @FreakConfig
@@ -21,7 +20,6 @@ hysteria2://68821a5b-49db-49c7-924f-22b1441e5b30@107.173.127.166:443?sni=api.pus
 hysteria2://68821a5b-49db-49c7-924f-22b1441e5b30@198.23.130.211:443?sni=api.push.apple.com&insecure=1&mport=45000-55000#@Daily_Configs
 hysteria2://75577117-ABCD-DCBA-AAAA-CC777775577B@s15.serv00.com:7777?security=tls&insecure=1&sni=www.bing.com#@V2rayNG3
 hysteria2://8a104bc2-a8d1-4f38-8c29-17176a68b7d5@23.80.81.213:45000?insecure=1&sni=www.apple.com&mport=45000-55000#美国10 付费推荐：https://dafei.de
-hysteria2://918acdcd-8d53-4b58-8304-99bee6218e7c@nexiateq.688997.xyz:20957?security=tls&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==&insecure=1&sni=nexiateq.688997.xyz#@SaghiVpnX[🇹🇷]
 hysteria2://9f2245e8-04fb-488d-80cf-ac8e8b53da82@au1.gy6688.xyz:25977?security=tls&obfs=salamander&obfs-password=cP2sbTFOTkuTq1sW&insecure=1&mport=21000-26000&sni=au1.gy6688.xyz#澳大利亚
 hysteria2://9f2245e8-04fb-488d-80cf-ac8e8b53da82@dg1.gy6688.xyz:25352?security=tls&obfs=salamander&obfs-password=LNAnPYDfFyesRAVn&insecure=1&mport=21000-26000&sni=dg1.gy6688.xyz#德国1
 hysteria2://9f2245e8-04fb-488d-80cf-ac8e8b53da82@hl1.gy6688.xyz:24561?security=tls&obfs=salamander&obfs-password=LNAnPYDfFyesRAVn&insecure=1&mport=21000-26000&sni=hl1.gy6688.xyz#荷兰1
@@ -45,11 +43,9 @@ hysteria2://Telegram-->@Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=
 hysteria2://Yet-Another-Public-Config-1@YAPC-1.adamhayward.co.uk:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&insecure=0#@SaghiVpnXBOT-2[🇳🇱]
 hysteria2://Yet-Another-Public-Config-1@YAPC-1.adamhayward.co.uk:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&insecure=0#@SaghiVpnX[🇳🇱]
 hysteria2://Yet-Another-Public-Config-1@YAPC-1.adamhayward.co.uk:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&insecure=0#TEL > SaghiVpnXBOT 🍌[🇳🇱]
-hysteria2://Yet-Another-Public-Config-1@YAPC-1.adamhayward.co.uk:35200?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#@SaghiVpnX[🇳🇱]
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#@Tunder_vpn-WiFi--6
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🛡️ @FreakConfig
 hysteria2://cf125f42-759d-4112-82c3-014d2ffcb1e7@185.85.242.177:1443?security=tls&insecure=1&sni=gbr1.587458.xyz#GB 🇬🇧 | @v2xay
-hysteria2://d3b8fcfb-4f76-476e-9c7d-ce43a1d32267@nexiaxg.688997.xyz:20057?security=tls&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==&insecure=1&sni=nexiaxg.688997.xyz#@SaghiVpnX[🇭🇰]
 hysteria2://d4a98364-7b10-4ebd-b79b-7f045d66ff33@flyhl.flylink.cyou:35250?security=tls&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw==&insecure=1&sni=flyhl.flylink.cyou#@Daily_Configs
 hysteria2://d84be3ca-d0b6-4bd0-9b61-db86d7c65969@212.115.41.93:443?security=tls&obfs=salamander&obfs-password=Mzc5NTA3MjVlZDMyYTYyMA==&insecure=1&sni=aparat.com#TR 4 🇹🇷 | @v2xay
 hysteria2://dac2d4dd-9a4d-4eb0-92a6-028532caed52@107.174.41.101:45000?insecure=1&sni=www.apple.com&mport=45000-55000#美国10 付费推荐：https://dafei.de
