@@ -15,8 +15,6 @@ hysteria2://627712cf-d0e1-4545-81fb-241e7fda0284@108.181.23.249:443?security=tls
 hysteria2://627712cf-d0e1-4545-81fb-241e7fda0284@108.181.23.255:443?security=tls&insecure=1&mport=20000-55000&sni=www.bing.com#MCI-@Tunder_vpn
 hysteria2://627712cf-d0e1-4545-81fb-241e7fda0284@204.10.194.86:443?security=tls&insecure=1&mport=20000-55000&sni=www.bing.com#MCI-@Tunder_vpn
 hysteria2://67828a6e-0144-4e57-8169-2447a3dd2e61@23.80.81.213:45000?insecure=1&sni=www.apple.com&mport=45000-55000#美国10 付费推荐：https://dafei.de
-hysteria2://68821a5b-49db-49c7-924f-22b1441e5b30@107.173.127.166:443?sni=api.push.apple.com&insecure=1&mport=45000-55000#@Daily_Configs
-hysteria2://68821a5b-49db-49c7-924f-22b1441e5b30@198.23.130.211:443?sni=api.push.apple.com&insecure=1&mport=45000-55000#@Daily_Configs
 hysteria2://75577117-ABCD-DCBA-AAAA-CC777775577B@s15.serv00.com:7777?security=tls&insecure=1&sni=www.bing.com#@V2rayNG3
 hysteria2://8a104bc2-a8d1-4f38-8c29-17176a68b7d5@23.80.81.213:45000?insecure=1&sni=www.apple.com&mport=45000-55000#美国10 付费推荐：https://dafei.de
 hysteria2://@azadi_az_inja_migzare@all-v4.dgi000.store:443?security=tls&obfs=salamander&obfs-password=@azadi_az_inja_migzare&insecure=0&sni=all-v4.dgi000.store#@V2rayNG3
@@ -49,7 +47,6 @@ hysteria2://dongtaiwang.com@51.159.111.32:31180?security=tls&insecure=1&sni=appl
 hysteria2://dongtaiwang.com@51.159.111.32:5355?security=tls&insecure=1&sni=www.bing.com#@V2rayBaaz
 hysteria2://dongtaiwang.com@51.159.111.32:5355?security=tls&insecure=1&sni=www.bing.com#r♡ya
 hysteria2://dongtaiwang.com@51.159.111.32:5355?security=tls&insecure=1&sni=www.bing.com#→@Hddify 🚢
-hysteria2://e6eb767c-6275-4c0c-9232-75aa2a0e9952@bx.dport.top:33654?sni=bx.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==&insecure=1#@Daily_Configs
 hysteria2://eb75320e-a6d0-4b34-a6b6-2bcfc96a9099@203.174.82.145:43057?security=tls&insecure=1&sni=www.bing.com#🇸🇬@FreakConfig
 hysteria2://f8e40931bbb827df@62.60.231.189:12123?security=tls&obfs=salamander&obfs-password=dbc688df29e582d3&insecure=1&sni=www.google.com#@V2rayNG3
 hysteria2://kWlrCka5jzfKbD2z7ucwANEdZM@47.245.53.59:26404?security=tls&insecure=1#🛡️ @FreakConfig
