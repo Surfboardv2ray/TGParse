@@ -215,6 +215,7 @@ trojan://amclubs@103.160.204.1:443?path=/Telegram@V2ray_Alpha/?ed=2560&security=
 trojan://auto@104.20.19.168:2083?path=/&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#@V2rayNG3
 trojan://auto@104.20.19.168:2083?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=/&host=e9464f45.trauma-2r4.pages.dev#@Hope_Net-join-us-on-Telegram
 trojan://auto@104.20.19.218:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#@Hope_Net-join-us-on-Telegram
+trojan://auto@104.20.19.218:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#[🇨🇦]t.me/ConfigsHub
 trojan://auto@104.20.21.229:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#@Hope_Net-join-us-on-Telegram
 trojan://auto@104.20.21.229:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#@Hope_Net-join-us-on-Telegram
 trojan://auto@104.20.22.149:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#@Hope_Net-join-us-on-Telegram
@@ -223,6 +224,7 @@ trojan://auto@104.21.72.108:443?security=tls&type=ws&sni=esetsecuritylicense1.cx
 trojan://auto@108.162.195.209:443?security=tls&type=ws&sni=trojanmz.pages.dev&host=trojanmz.pages.dev#@Hope_Net-join-us-on-Telegram
 trojan://auto@172.64.35.202:443?security=tls&type=ws&sni=trojanmz.pages.dev&host=trojanmz.pages.dev#@Hope_Net-join-us-on-Telegram
 trojan://auto@172.64.35.209:443?security=tls&type=ws&sni=trojanmz.pages.dev&path=/trojanmz.pages.dev/?ed=2560&host=trojanmz.pages.dev#@Hope_Net-join-us-on-Telegram
+trojan://auto@172.64.35.209:443?security=tls&type=ws&sni=trojanmz.pages.dev&path=/trojanmz.pages.dev/?ed=2560&host=trojanmz.pages.dev#[🇨🇦]t.me/ConfigsHub
 trojan://b33b11d0-3f0f-11f0-a423-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💯
 trojan://b6f0c135-043a-40e3-863a-08fba589034c@109.230.91.202:443?mode=gun&security=tls&type=grpc&serviceName=gr1.grtj.sulindac.top&sni=gr1.grtj.sulindac.top#28 | @ConfigFast 🇮🇷💔 عضو بشید تلگرام و ایتا
 trojan://b75d3dc0-4213-11f0-bb32-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💘
@@ -243,6 +245,7 @@ trojan://bpb-trojan@104.26.4.60:443?path=/tr?ed=2560&security=tls&host=zamim340.
 trojan://bpb-trojan@104.26.4.60:443?path=/tr?ed=2560&security=tls&host=zamim340.ggff.net&type=ws&sni=zamim340.ggff.net#🛡️ @FreakConfig
 trojan://bpb-trojan@162.159.152.227:443?security=tls&sni=cf.090227.xyz&allowInsecure=1&type=tcp#@awlix_ir
 trojan://bpb-trojan@185.176.24.2:443?security=tls&type=ws&sni=403B3611-99bc-43B7-88d7-26ed5d0825a9-3.PaGes.deV&path=/tr9vfP2lflALkJrNsQ?ed=2560&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev#@Hope_Net-join-us-on-Telegram
+trojan://bpb-trojan@185.176.24.2:443?security=tls&type=ws&sni=403B3611-99bc-43B7-88d7-26ed5d0825a9-3.PaGes.deV&path=/tr9vfP2lflALkJrNsQ?ed=2560&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev#[🇳🇱]t.me/ConfigsHub
 trojan://bpb-trojan@188.114.97.123:443?sni=adagio.us.kg#@Hope_Net-join-us-on-Telegram
 trojan://bpb-trojan@188.114.97.88:2053?security=tls&sni=G1-21N.paGEs.dev&type=ws&host=g1-21n.pages.dev#@Hope_Net-join-us-on-Telegram
 trojan://bpb-trojan@188.114.98.138:2053?security=tls&type=ws&sni=G1-21N.paGEs.dev&path=/traV0kgCnzWDCx27E2/ZGUucmFkaWNhbGx5LnBybw==&host=g1-21n.pages.dev#@Hope_Net-join-us-on-Telegram
@@ -347,10 +350,8 @@ trojan://redfree8@104.17.148.22:80?path=/trLwW5jwrnymnOdqki?ed=2560&security=non
 trojan://redfree8@104.17.148.22:80?path=/trLwW5jwrnymnOdqki?ed=2560&security=none&host=redfree8-p1.pooriashop.ir&type=ws#@V2rayNG3
 trojan://slch2024@104.18.2.108:8443?path=/&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Channel id: @ShadowProxy66 🇨🇦
 trojan://telegram-id-directvpn@13.51.246.10:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
-trojan://telegram-id-directvpn@3.140.112.225:22222?sni=trojan.burgerip.co.uk&allowInsecure=0#[🇺🇸]t.me/ConfigsHub
 trojan://telegram-id-directvpn@3.77.162.60:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#VayNora
 trojan://telegram-id-directvpn@51.44.128.61:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
-trojan://telegram-id-directvpn@51.44.198.145:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.36.139.6:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.36.247.35:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.36.252.221:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
@@ -417,8 +418,10 @@ trojan://telegram_JKVPN@www.zula.ir:80?path=/TELEGRAM_JKVPN-JKVPN-JKVPN-JKVPN-JK
 trojan://telegram_JKVPN@www.zula.ir:80?type=ws&host=joker.ahang-alpha.ir&path=/TELEGRAM_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN?ed=2048&security=none#🇳🇱 Join Tel : @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd
 trojan://telegram___RK_VPS@79.137.195.203:443?type=ws&path=/TELEGRAM_BYA_CHANEL_RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS?ed=2048&host=joker.ahang-alpha.ir&security=none#All🇩🇪@Rk_VPS
 trojan://tg-dns68@162.159.152.42:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#@Hope_Net-join-us-on-Telegram
+trojan://tg-dns68@162.159.152.42:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#[🇨🇦]t.me/ConfigsHub
 trojan://tg-fq521free@216.24.57.30:443?path=/&security=tls&host=torjan.xn--xhq44j.eu.org&type=ws&sni=torjan.xn--xhq44j.eu.org#کانال+ما+در+تلگرام+@Asak_Vpn+💛
 trojan://trojan@104.21.3.52:443?security=tls&type=ws&sni=test-a23.pages.dev&path=/Telegram-@V2ray_Alpha/?ed=2560&host=test-a23.pages.dev#@Hope_Net-join-us-on-Telegram
+trojan://trojan@104.21.3.52:443?security=tls&type=ws&sni=test-a23.pages.dev&path=/Telegram-@V2ray_Alpha/?ed=2560&host=test-a23.pages.dev#[🇨🇦]t.me/ConfigsHub
 trojan://trojan@109.234.211.66:8443?path=/&security=tls&host=store.timimi.dpdns.org&type=ws&sni=store.timimi.dpdns.org#💯T.me/Asak_Vpn💯
 trojan://tunnel-astro@pl-1.stunnel.cc:8441?path=AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official&security=tls&alpn=http/1.1&host=pl-1.stunnel.cc&headerType=none&type=tcp&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev#AstroVPN_Official🇵🇱(ALL)
 trojan://tunnel-astrovpn_offcial-nl@nl-1.stunnel.cc:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=nl-1.stunnel.cc#[TrojanVPN] astrovpn_offcial-🇳🇱
