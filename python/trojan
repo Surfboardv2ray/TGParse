@@ -9,6 +9,7 @@ trojan://16132fb0-4945-11f0-a95e-1239d0255272@sg4.6n6.net:443?security=tls&heade
 trojan://19e8f800-4684-11f0-a89c-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💞
 trojan://1CvlKYj1aU@x1-sweden-linode-v2-71u92.devefun.org:1935?security=tls&headerType=none&type=tcp#Owner id: @FF_crony
 trojan://1ce1df7962f71c6f@51.195.255.103:8443?security=tls&headerType=none&type=tcp&sni=uk-03.allhubb.info#🇬🇧@FreakConfig
+trojan://1ce1df7962f71c6f@51.195.255.103:8443?type=tcp&headerType=none&security=tls&sni=uk-03.allhubb.info#[🇬🇧]t.me/ConfigsHub
 trojan://1e63e585ab2fef3adcc9ea75a62abc23@104.251.227.182:443?security=tls&sni=hezijiasuqi.com&allowInsecure=1&type=tcp#@awlix_ir
 trojan://2543a880-48a1-11f0-8578-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray❤️‍🔥
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org&type=tcp&headerType=none#Telegram:@config_proxy 💢
@@ -144,7 +145,6 @@ trojan://auto@104.20.22.95:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.
 trojan://auto@108.162.195.135:443?security=tls&type=ws&sni=trojanmz.pages.dev&host=trojanmz.pages.dev#@Hope_Net-join-us-on-Telegram
 trojan://auto@129.146.254.39:443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&alpn=http/1.1&host=tg.cmliussss.us.kg&fp=chrome&type=ws&sni=tg.cmliussss.us.kg#🩵+@Azarakhsh_Proxy+🩷
 trojan://auto@172.66.44.131:443?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=/&host=e9464f45.trauma-2r4.pages.dev#@Hope_Net-join-us-on-Telegram
-trojan://auto@172.66.44.131:443?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=/&host=e9464f45.trauma-2r4.pages.dev#[🇨🇦]t.me/ConfigsHub
 trojan://auto@172.66.44.131:443?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=/&host=e9464f45.trauma-2r4.pages.dev#t.me/entryNET/config=1841822490345791
 trojan://auto@iranserver.com:8443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&alpn=http/1.1&host=tg.cmliussss.us.kg&fp=chrome&type=ws&sni=tg.cmliussss.us.kg#🩵+@Azarakhsh_Proxy+🩷
 trojan://auto@zula.ir:443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&alpn=http/1.1&host=tg.cmliussss.us.kg&fp=chrome&type=ws&sni=tg.cmliussss.us.kg#🩵+@Azarakhsh_Proxy+🩷
@@ -162,6 +162,7 @@ trojan://blue2024@104.18.183.55:443?allowInsecure=1&sni=ha.lii2010.us.kg&ws=1&ws
 trojan://blue2024@104.18.191.251:443?allowInsecure=0&sni=ha.lii2010.us.kg&ws=1&wspath=/?ed=2560#[60905] - Telegram : @V2All
 trojan://blue2024@104.19.142.99:443?sni=ta.promote.icu#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@104.20.148.25:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#[60897] - Telegram : @V2All
+trojan://blue2024@173.245.58.80:443?sni=hb.lii2010.us.kg#[🇨🇦]t.me/ConfigsHub
 trojan://bpb-trojan@104.17.159.75:443?sni=fcspring.ggff.net#@Hope_Net-join-us-on-Telegram
 trojan://bpb-trojan@104.18.34.21:2053?path=/trEjWhhuRjwiMwSbDN/ZGUucmFkaWNhbGx5LnBybw==&security=tls&alpn=http/1.1&host=bpb-worker-panel1-e4p.pages.dev&fp=chrome&type=ws&sni=bpB-worKER-paneL1-e4p.pAGes.dEV#@V2rayNG3
 trojan://bpb-trojan@104.21.30.195:443?security=tls&sni=403b3611-99BC-43B7-88D7-26eD5d0825a9-3.PagES.DEv&type=tcp#@awlix_ir
@@ -319,7 +320,6 @@ trojan://telegram-id-privatevpns@63.179.73.222:22222?security=tls&alpn=http/1.1&
 trojan://tg-fq521free@198.62.62.67:443?path=/&security=tls&host=torjan.xn--xhq44j.eu.org&type=ws&sni=torjan.xn--xhq44j.eu.org#Channel id: @ShadowProxy66 🇺🇸
 trojan://tg-fq521free@216.24.57.30:443?path=/&security=tls&host=torjan.xn--xhq44j.eu.org&type=ws&sni=torjan.xn--xhq44j.eu.org#کانال+ما+در+تلگرام+@Asak_Vpn+💛
 trojan://trojan@109.234.211.66:8443?path=/&security=tls&host=store.timimi.dpdns.org&type=ws&sni=store.timimi.dpdns.org#💯T.me/Asak_Vpn💯
-trojan://ttfang@185.207.198.194:2096?path=Telegram🇨🇳&security=tls&type=ws&sni=ttfang.fange.me#[🏁]t.me/ConfigsHub
 trojan://ttfang@45.131.4.216:2096?path=/Telegram&security=tls&host=ttfang.fange.me&fp=chrome&type=ws&sni=ttfang.fange.me#Channel id: @ShadowProxy66 🇮🇷
 trojan://ttfang@45.131.4.216:2096?path=/Telegram&security=tls&host=ttfang.fange.me&fp=chrome&type=ws&sni=ttfang.fange.me#Channel id: @proxy_kafee 🇮🇷
 trojan://ttfang@45.131.4.216:2096?security=tls&sni=ttfang.fange.me&fp=chrome&type=ws&host=ttfang.fange.me&path=/Telegram#@Daily_Configs
