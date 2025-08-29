@@ -126,7 +126,6 @@ trojan://accbbaa-acba-abac-bcad-babbccaaabcc@127.0.0.1:8080?security=tls&type=tc
 trojan://ad6e2bae-d580-4117-aa37-a8c111100740@naiu-sg.05vr9nyqg5.download:13028?allowInsecure=1&sni=cloudflare.node-ssl.cdn-alibaba.com#@Hope_Net-join-us-on-Telegram
 trojan://amclubs@103.160.204.1:443?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&host=tran.amclubstest.nyc.mn&type=ws&sni=tran.amclubstest.nyc.mn#@V2rayNG3
 trojan://auto@103.170.72.120:27061?security=tls&type=ws&sni=trojanfree-76s.pages.dev&path=/&host=trojanfree-76s.pages.dev#@Hope_Net-join-us-on-Telegram
-trojan://auto@103.170.72.120:27061?security=tls&type=ws&sni=trojanfree-76s.pages.dev&path=/&host=trojanfree-76s.pages.dev#[🇺🇸]t.me/ConfigsHub
 trojan://auto@104.19.174.68:443?security=tls&type=ws&sni=trojanfree-76s.pages.dev&host=trojanfree-76s.pages.dev#@Hope_Net-join-us-on-Telegram
 trojan://auto@104.20.17.195:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#@Hope_Net-join-us-on-Telegram
 trojan://auto@104.20.19.168:2083?path=/&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#@V2rayNG3
@@ -171,7 +170,6 @@ trojan://bpb-trojan@172.67.92.184:443?sni=adagio.us.kg#@Hope_Net-join-us-on-Tele
 trojan://bpb-trojan@188.114.98.23:443?allowInsecure=0&sni=fcspring.ggff.net&ws=1&wspath=/tr?ed#@Hope_Net-join-us-on-Telegram
 trojan://bpb-trojan@190.93.244.202:443?path=/tr?ed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#🩵+@Azarakhsh_Proxy+🩷
 trojan://bpb-trojan@190.93.245.48:443?sni=adagio.us.kg#@Hope_Net-join-us-on-Telegram
-trojan://bpb-trojan@190.93.245.48:443?sni=adagio.us.kg#[🇨🇷]t.me/ConfigsHub
 trojan://bpb-trojan@190.93.246.23:443?security=tls&type=ws&sni=fcspring.ggff.net&path=/tr?ed&host=fcspring.ggff.net#@Hope_Net-join-us-on-Telegram
 trojan://bpb-trojan@198.41.219.190:443?sni=adagio.us.kg#@Hope_Net-join-us-on-Telegram
 trojan://bpb-trojan@23.227.60.8:443?security=tls&sni=403b3611-99bc-43b7-88D7-26Ed5D0825A9-3.paGeS.dev&type=tcp#@awlix_ir
@@ -234,7 +232,6 @@ trojan://ptM0AjehKC@x7-sweden-amazon-v2-ku4u8.devefun.org:1935?security=tls&head
 trojan://redfree8@104.17.148.22:80?path=/trLwW5jwrnymnOdqki?ed=2560&security=none&host=redfree8-p1.pooriashop.ir&type=ws#@CaV2ray ⚡️
 trojan://redfree8@104.17.148.22:80?path=/trLwW5jwrnymnOdqki?ed=2560&security=none&host=redfree8-p1.pooriashop.ir&type=ws#@V2rayNG3
 trojan://telegram-id-directvpn@13.48.40.109:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
-trojan://telegram-id-directvpn@13.48.40.109:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@15.237.12.5:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1841793549708523
 trojan://telegram-id-directvpn@18.168.232.214:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
 trojan://telegram-id-directvpn@18.197.234.75:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[60941] - Telegram : @V2All
@@ -321,6 +318,7 @@ trojan://ttfang@5.10.214.216:2096?path=/Telegram%F0%9F%87%A8%F0%9F%87%B3&securit
 trojan://ttfang@5.10.247.194:2096?path=Telegram&security=tls&host=ttfang.fange.me&fp=chrome&type=ws&sni=ttfang.fange.me#🇺🇲@FreakConfig
 trojan://ttfang@5.182.85.194:2096?path=Telegram@Config_Rayegan&security=tls&host=ttfang.fange.me&fp=chrome&type=ws&sni=ttfang.fange.me#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 trojan://ttfang@5.182.85.194:2096?path=Telegram@V2rayAlpha&security=tls&host=ttfang.fange.me&fp=chrome&type=ws&sni=ttfang.fange.me#All--@IRAN_V2RAY1
+trojan://ttfang@5.182.85.194:2096?path=Telegram@V2rayAlpha&security=tls&host=ttfang.fange.me&fp=chrome&type=ws&sni=ttfang.fange.me#[🇷🇺]t.me/ConfigsHub
 trojan://ttfang@66.225.252.194:2096?path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&host=ttfang.fange.me&type=ws&sni=ttfang.fange.me#🇩🇪 Telegram: @configfree20255🚀💫 عضو شو قطع نشی
 trojan://ttfang@66.225.252.194:2096?path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&host=ttfang.fange.me&type=ws&sni=ttfang.fange.me#🇩🇪@FreakConfig
 trojan://ttfang@72.167.243.194:2096?path=Telegram&security=tls&host=ttfang.fange.me&fp=chrome&type=ws&sni=ttfang.fange.me#@Daily_Configs
