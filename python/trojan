@@ -9,6 +9,7 @@ trojan://16132fb0-4945-11f0-a95e-1239d0255272@sg4.6n6.net:443?security=tls&heade
 trojan://19e8f800-4684-11f0-a89c-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💞
 trojan://1CvlKYj1aU@x1-sweden-linode-v2-71u92.devefun.org:1935?security=tls&headerType=none&type=tcp#Owner id: @FF_crony
 trojan://1ce1df7962f71c6f@51.195.255.103:8443?security=tls&headerType=none&type=tcp&sni=uk-03.allhubb.info#@meli_proxyy
+trojan://1ce1df7962f71c6f@51.195.255.103:8443?security=tls&headerType=none&type=tcp&sni=uk-03.allhubb.info#[🇬🇧]t.me/ConfigsHub
 trojan://1ce1df7962f71c6f@51.195.255.103:8443?security=tls&headerType=none&type=tcp&sni=uk-03.allhubb.info#t.me/entryNET/config=1841997518930276
 trojan://1ce1df7962f71c6f@51.195.255.103:8443?security=tls&headerType=none&type=tcp&sni=uk-03.allhubb.info#🇬🇧@FreakConfig
 trojan://1e63e585ab2fef3adcc9ea75a62abc23@104.251.227.182:443?security=tls&sni=hezijiasuqi.com&allowInsecure=1&type=tcp#@awlix_ir
@@ -94,6 +95,7 @@ trojan://Pooria@104.17.148.22:443?path=/trPyOrWMfkHd15oxiI?ed=1520#FreeV2Alpha&s
 trojan://Pooria@104.17.148.22:443?path=/trPyOrWMfkHd15oxiI?ed=1520&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=chrome&type=ws&sni=301.pOORiAm.ir#@V2rayNG3
 trojan://Pooria@104.17.148.22:443?path=trPyOrWMfkHd15oxiI?ed=1520#@v2ray_alpha&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=chrome&type=ws&sni=301.pOORiAm.ir#@V2rayNG3
 trojan://QwwHvrnN@36.151.192.198:36900?allowInsecure=1&sni=36.151.192.198#@Hope_Net-join-us-on-Telegram
+trojan://VPNCUSTOMIZE@www.speedtest.net:80?Telegram=@NasaV2,@NasaV2,@NasaV2,@NasaV2,@NasaV2,@NasaV2&path=/tr----VPNCUSTOMIZE---Join----VPNCUSTOMIZE---Join---VPNCUSTOMIZE---Join----VPNCUSTOMIZE---Join---VPNCUSTOMIZE&security=none&host=join-vpncustomize.ip-ddns.com&type=ws#t.me/NasaV2|🏁
 trojan://VPNCUSTOMIZE@www.speedtest.net:80?path=/tr----VPNCUSTOMIZE---Join----VPNCUSTOMIZE---Join---VPNCUSTOMIZE---Join----VPNCUSTOMIZE---Join---VPNCUSTOMIZE&security=none&host=join-vpncustomize.ip-ddns.com&type=ws#NL 🇳🇱 V2ray 💥
 trojan://Xa4^l(;.;B#a@104.18.26.90:443?path=/trUXByA1rnbs4YQ1Xw?ed=2560&security=tls&alpn=h3,h2,http/1.1&host=s1.mitivpn.workers.dev&fp=chrome&type=ws&sni=S1.mitivpN.wOrKeRS.DEV#Telegram : @EXPRESSVPN_420
 trojan://Z2P0nBrc5d-54JXKPLQcGg@www.speedtest.net:2087?type=ws&host=jfkgfuiodghlf.ahmadinabaz.ir&path=/speedtest&security=tls&fp=chrome&sni=jfkgfuiodghlf.ahmadinabaz.ir&alpn=h2,http/1.1#@SaghiVpnXBOT[🇨🇦]
@@ -108,10 +110,8 @@ trojan://auto@104.18.12.229:2053?security=tls&sni=e9464f45.trauma-2r4.pages.dev&
 trojan://auto@104.18.12.229:2053?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=/&host=e9464f45.trauma-2r4.pages.dev#@Hope_Net-join-us-on-Telegram
 trojan://auto@104.20.19.168:2083?path=/&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#@V2rayNG3
 trojan://auto@104.20.22.182:443?sni=b96ef9ae.trojanfree-76s.pages.dev#@Hope_Net-join-us-on-Telegram
-trojan://auto@104.20.22.182:443?sni=b96ef9ae.trojanfree-76s.pages.dev#[🇨🇦]t.me/ConfigsHub
 trojan://auto@104.20.22.182:443?sni=b96ef9ae.trojanfree-76s.pages.dev#t.me/entryNET/config=1842007961933114
 trojan://auto@104.20.22.92:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#@Hope_Net-join-us-on-Telegram
-trojan://auto@104.20.22.92:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#[🇨🇦]t.me/ConfigsHub
 trojan://auto@104.20.22.92:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#t.me/entryNET/config=1842007463999577
 trojan://auto@104.27.206.92:443?security=tls&type=ws&sni=trojanmz.pages.dev&path=/trojanmz.pages.dev/?ed=2560&host=trojanmz.pages.dev#@Hope_Net-join-us-on-Telegram
 trojan://auto@129.146.254.39:443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&alpn=http/1.1&host=tg.cmliussss.us.kg&fp=chrome&type=ws&sni=tg.cmliussss.us.kg#🩵+@Azarakhsh_Proxy+🩷
@@ -172,7 +172,6 @@ trojan://bpb-trojan@190.93.244.202:443?path=/tr?ed&security=tls&host=fcspring.gg
 trojan://bpb-trojan@190.93.244.89:443?allowInsecure=1&sni=adagio.us.kg&ws=1&wspath=/tr?ed=2560#@Hope_Net-join-us-on-Telegram
 trojan://bpb-trojan@190.93.245.48:443?allowInsecure=1&sni=adagio.us.kg&ws=1&wspath=/tr?ed=2560#@Hope_Net-join-us-on-Telegram
 trojan://bpb-trojan@190.93.245.69:443?security=tls&type=ws&sni=fcspring.ggff.net&path=/tr?ed&host=fcspring.ggff.net#@Hope_Net-join-us-on-Telegram
-trojan://bpb-trojan@190.93.245.69:443?security=tls&type=ws&sni=fcspring.ggff.net&path=/tr?ed&host=fcspring.ggff.net#[🇨🇷]t.me/ConfigsHub
 trojan://bpb-trojan@190.93.245.71:443?allowInsecure=1&sni=adagio.us.kg&ws=1&wspath=/tr?ed=2560#@Hope_Net-join-us-on-Telegram
 trojan://bpb-trojan@190.93.246.31:443?allowInsecure=1&sni=adagio.us.kg&ws=1&wspath=/tr?ed=2560#@Hope_Net-join-us-on-Telegram
 trojan://bpb-trojan@190.93.247.54:443?allowInsecure=1&sni=adagio.us.kg&ws=1&wspath=/tr?ed=2560#@Hope_Net-join-us-on-Telegram
@@ -360,6 +359,7 @@ trojan://xjN4xcuPGg@f.522226.xyz:45601?security=tls&headerType=none&type=tcp#@V2
 trojan://xxfJcenVhh@79.137.195.203:443?path=/TELEGRAM----@JKVPN----@JKVPN----@JKVPN----@JKVPN----@JKVPN----@JKVPN----@JKVPN----@JKVPN----@JKVPN----@JKVPN----@JKVPN----@JKVPN----@JKVPN----@JKVPN?ed=2048&security=none&host=joker.ahang-alpha.ir&type=ws#𝗝𝗼𝗶𝗻➠ᴬᴸᴸ²🇳🇱@JKVPN
 trojan://xxoo@us.blazeppn.info:443?security=tls&headerType=none&type=tcp&sni=us.blazeppn.info#@meli_proxyy
 trojan://xxoo@us.blazeppn.info:443?security=tls&headerType=none&type=tcp&sni=us.blazeppn.info#I 809 (@Outline_Vpn) free
+trojan://xxoo@us.blazeppn.info:443?security=tls&headerType=none&type=tcp&sni=us.blazeppn.info#[🇺🇸]t.me/ConfigsHub
 trojan://xxoo@us.blazeppn.info:443?security=tls&headerType=none&type=tcp&sni=us.blazeppn.info#🇺🇲@FreakConfig
 trojan://your_password@aws-uae-1.f1cflineb.com:443?type=ws&host=aws-uae-1.f1cflineb.com&path=/f1rocket&security=tls&fp=chrome&sni=aws-uae-1.f1cflineb.com#@meli_proxyy
 trojan://ypDt8RkT7J@31.172.67.242:43118?security=tls&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=tpmwh.phooeyunfold.com#@V2rayNG3
