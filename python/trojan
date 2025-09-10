@@ -19,7 +19,6 @@ trojan://62e4250a-fe02-40cc-ad32-c847389956cd@fastcup.net:8443?sni=cdn-node-oss-
 trojan://62e4250a-fe02-40cc-ad32-c847389956cd@pubg.ac:8443?sni=cdn-node-oss-99.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国06 付费推荐：https://dafei.de
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&sni=x1-germany-digitalocean-v2.devefun.org&type=tcp&headerType=none#@Golestan_VPN - JOIN
 trojan://745654@154.3.37.9:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=hk.cestbon.work#@V2rayBaaz
-trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.197.231:80?security=none&type=ws&path=/kptMTT8pTmxLWsoJ?ed=2560&host=aliii.ir#t.me/entryNET/config=1842861212196402
 trojan://90e5b46c-fad0-4a2a-827d-4d285ff35870@csgo.com:8443?sni=cdn-node-oss-98.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-98.paofu.de#美国04 付费推荐：https://dafei.de
 trojan://90e5b46c-fad0-4a2a-827d-4d285ff35870@fastcup.net:8443?sni=cdn-node-oss-98.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-98.paofu.de#美国05 付费推荐：https://dafei.de
 trojan://90e5b46c-fad0-4a2a-827d-4d285ff35870@pubg.ac:8443?sni=cdn-node-oss-98.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-98.paofu.de#美国06 付费推荐：https://dafei.de
@@ -72,7 +71,9 @@ trojan://ptM0AjehKC@x7-sweden-amazon-v2-ku4u8.devefun.org:1935?security=tls&head
 trojan://redfree8@104.17.148.22:80?path=/trLwW5jwrnymnOdqki?ed=2560&security=none&host=redfree8-p1.pooriashop.ir&type=ws#@CaV2ray ⚡️
 trojan://slch2024@185.148.107.195:2096?path=/Telegram@ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Channel id: @singbox1 🇳🇱
 trojan://slch2024@185.18.184.195:2096?path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#@Daily_Configs
+trojan://slch2024@185.251.81.195:2096?path=/Telegram@ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Channel id: @ShadowProxy66 🇪🇸
 trojan://slch2024@185.251.82.195:2096?path=/Telegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#t.me/entryNET/config=1842876370364297
+trojan://slch2024@185.7.240.195:2096?path=/Telegram@ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Channel id: @ShadowProxy66 🇳🇱
 trojan://slch2024@188.164.159.195:2096?path=/TelegramU0001F1E8U0001F1F3&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#t.me/entryNET/config=1842866682063374
 trojan://slch2024@188.164.159.87:2096?path=Telegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#[🏁]
 trojan://slch2024@188.164.248.195:2096?path=/Telegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#[🇳🇱]
@@ -95,7 +96,6 @@ trojan://slch2024@209.94.90.195:2096?path=Telegram&security=tls&host=ocost-dy.wm
 trojan://slch2024@216.205.52.195:2096?path=Telegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#[🇺🇸]
 trojan://slch2024@216.24.57.87:2096?path=Telegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#[🇺🇸]
 trojan://telegram-id-directvpn@13.37.56.104:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1842872785636315
-trojan://telegram-id-directvpn@3.78.88.96:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1842861460756407
 trojan://telegram-id-privatevpns@13.37.56.104:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1842873540902730
 trojan://telegram-id-privatevpns@13.42.217.95:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#@awlix_ir
 trojan://telegram-id-privatevpns@3.78.88.96:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1842862216299470
