@@ -88,6 +88,7 @@ trojan://telegram-id-directvpn@3.126.199.220:22223?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@3.78.88.96:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1842861460756407
 trojan://telegram-id-privatevpns@13.42.217.95:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#@awlix_ir
 trojan://telegram-id-privatevpns@3.126.199.220:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1842858441327601
+trojan://telegram-id-privatevpns@3.78.88.96:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1842862216299470
 trojan://telegram-id-privatevpns@51.21.59.141:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#@awlix_ir
 trojan://ttfang@166.0.244.206:2053?path=/&security=tls&host=ttfang.fange.me&type=ws&sni=ttfang.fange.me#کانال تلگرام ما👈🏻🇮🇳@V2raytunn🇮🇳
 trojan://ttfang@45.131.4.216:2096?security=tls&sni=ttfang.fange.me&fp=chrome&type=ws&host=ttfang.fange.me&path=/Telegram#@Daily_Configs
