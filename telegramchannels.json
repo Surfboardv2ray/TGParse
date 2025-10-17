@@ -1,6 +1,5 @@
 [
     "ablnet7",
-    "academi_vpn",
     "adamak_proxy",
     "adamak_vpn",
     "aklisvpn",
@@ -34,6 +33,7 @@
     "freakconfig",
     "freeiranweb",
     "freenettir",
+    "freeonlinevpn",
     "freev2rng",
     "g0dv2ray",
     "geek_spot",
