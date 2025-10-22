@@ -27,7 +27,9 @@ trojan://88a9a235-d071-4eda-9f47-b1e85019cfb1@172.67.168.193:443?path=/Free-VPN-
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?security=tls&headerType=none&type=tcp&sni=wus01.weyaf9sdoh2h.space#@meli_proxyy
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?security=tls&headerType=none&type=tcp&sni=wus01.weyaf9sdoh2h.space#proxy_mtm
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&headerType=none&type=tcp&sni=wus02.weyaf9sdoh2h.space#🇺🇲@FreakConfig
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?type=tcp&headerType=none&security=tls&sni=wus02.weyaf9sdoh2h.space&fp=chrome&allowInsecure=0#@meli_proxyy
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&type=tcp&sni=wus04.weyaf9sdoh2h.space#🇺🇲@FreakConfig
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?type=tcp&headerType=none&security=tls&sni=wus04.weyaf9sdoh2h.space&fp=chrome&allowInsecure=0#@meli_proxyy
 trojan://8T7egv3W4T@91.107.252.182:26805?type=tcp&security=none#telegram-@ISVvpn
 trojan://8ac7f794-efa6-42cf-9d87-482af2824472@172.67.168.193:443?path=/Free-VPN-CF-Geo-Project/AE1&security=tls&host=joss.gpj2.dpdns.org&fp=chrome&type=ws&sni=joss.gpj2.dpdns.org#t.me/entryNET/config=1846581356964726
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?security=tls&headerType=none&fp=chrome&type=tcp&sni=207.148.100.75#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
