@@ -23,14 +23,16 @@ trojan://318cab24-ec99-40a6-a54a-0db9c661a3d0@aio.proxybox.dpdns.org:443?path=/1
 trojan://318cab24-ec99-40a6-a54a-0db9c661a3d0@aio.proxybox.dpdns.org:443?path=/188.34.160.97-2053&security=tls&type=ws&sni=aio.proxybox.dpdns.org#All-@V2rayAlpha--39
 trojan://3beeaf86-5522-4278-a1e9-b24a776552cd@190.93.246.255:2053?path=/TM (@AZARBAYJAB1)/TM (@AZARBAYJAB1)/TM (@AZARBAYJAB1)&security=tls&host=gamang.gpj1.dpdns.org&type=ws&sni=gamang.gpj1.dpdns.org#🇹🇭TM (@AZARBAYJAB1)
 trojan://3r372@91.195.240.94:443?security=tls&sni=tj786.37927.online&type=tcp#@awlix_ir
+trojan://58176021-8165-48d5-94b1-ad3e96e71e8b@54.255.183.193:20230?security=tls&host=www.alibaba.com&type=ws&sni=www.alibaba.com#@Daily_Configs
+trojan://58176021-8165-48d5-94b1-ad3e96e71e8b@54.255.183.193:20230?security=tls&host=www.alibaba.com&type=ws&sni=www.alibaba.com#@meli_proxyy
 trojan://68a69d73-b871-47f1-8667-82585e07dab2@172.67.168.193:443?path=/Free-VPN-CF-Geo-Project/ES1&security=tls&host=joss.gpj2.dpdns.org&fp=chrome&type=ws&sni=joss.gpj2.dpdns.org#@meli_proxyy
-trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@172.67.68.157:8443?security=tls&type=ws&sni=vfarid.xcdi.wORKERS.DEv&path=trojan-ws/?ed=2048&host=vfarid.xcdi.wORKERS.DEv#t.me/entryNET/config=1846654329351288
 trojan://740628@136.175.177.136:8000?mode=gun&security=tls&fp=chrome&type=grpc&serviceName=cestbon&sni=sj.cestbon.work#All-@V2rayAlpha--11
 trojan://745654@154.3.37.9:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=hk.cestbon.work#@IRAN_V2RAY1
 trojan://745654@154.3.37.9:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=hk.cestbon.work#MCI-@V2rayAlpha--5
 trojan://7f86c366-948a-43cf-8f31-675f5ee00a89@172.67.168.193:443?path=/Free-VPN-CF-Geo-Project/AD1&security=tls&host=joss.gpj2.dpdns.org&fp=chrome&type=ws&sni=joss.gpj2.dpdns.org#@meli_proxyy
 trojan://879292de-3790-4f60-8ae9-557b0df71ec7@104.21.70.241:443?path=/Free-VPN-CF-Geo-Project/CH1&security=tls&host=joss.gpj2.dpdns.org&fp=chrome&type=ws&sni=joss.gpj2.dpdns.org#@meli_proxyy
 trojan://88a9a235-d071-4eda-9f47-b1e85019cfb1@172.67.168.193:443?path=/Free-VPN-CF-Geo-Project/CZ1&security=tls&host=joss.gpj2.dpdns.org&fp=chrome&type=ws&sni=joss.gpj2.dpdns.org#@meli_proxyy
+trojan://88a9a235-d071-4eda-9f47-b1e85019cfb1@172.67.168.193:443?path=/Free-VPN-CF-Geo-Project/CZ1&security=tls&host=joss.gpj2.dpdns.org&fp=chrome&type=ws&sni=joss.gpj2.dpdns.org#t.me/entryNET/config=1846769463468199
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?security=tls&headerType=none&type=tcp&sni=wus01.weyaf9sdoh2h.space#@meli_proxyy
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?security=tls&headerType=none&type=tcp&sni=wus01.weyaf9sdoh2h.space#proxy_mtm
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&headerType=none&fp=chrome&type=tcp&sni=wus02.weyaf9sdoh2h.space#@Hddify
@@ -41,6 +43,9 @@ trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?type=tcp&head
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&fp=chrome&type=tcp&sni=wus04.weyaf9sdoh2h.space#@Hddify
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&fp=chrome&type=tcp&sni=wus04.weyaf9sdoh2h.space#@V2rayNGVPN+<=+کانفیگ+رایگان
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&fp=chrome&type=tcp&sni=wus04.weyaf9sdoh2h.space#limo
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&type=tcp&sni=wus04.weyaf9sdoh2h.space#@Daily_Configs
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&type=tcp&sni=wus04.weyaf9sdoh2h.space#@meli_proxyy
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&type=tcp&sni=wus04.weyaf9sdoh2h.space#limo
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&type=tcp&sni=wus04.weyaf9sdoh2h.space#🇺🇲@FreakConfig
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?type=tcp&headerType=none&security=tls&sni=wus04.weyaf9sdoh2h.space&fp=chrome&allowInsecure=0#@meli_proxyy
 trojan://8T7egv3W4T@91.107.252.182:26805?type=tcp&security=none#telegram-@ISVvpn
@@ -62,6 +67,7 @@ trojan://YwuvGJk36B@creativecommons.org:2053?path=/yamtekodasayahhh&security=tls
 trojan://YwuvGJk36B@creativecommons.org:2053?path=/yamtekodasayahhh&security=tls&alpn=http/1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#🇬🇧@FreakConfig
 trojan://YwuvGJk36B@creativecommons.org:2053?security=tls&sni=kotlet.arshiacomplus.dpdns.org&alpn=http/1.1&fp=chrome&type=ws&host=kotlet.arshiacomplus.dpdns.org&path=/yamtekodasayahhh#@Daily_Configs
 trojan://ZHEKwAC5B4Hwwohd4PhhFw@46.62.214.228:443?mode=gun&security=tls&type=grpc&serviceName=trojan&sni=cyrus.v2bazzar.ir#All---@IRAN_V2RAY1
+trojan://ZHEKwAC5B4Hwwohd4PhhFw@46.62.214.228:443?mode=gun&security=tls&type=grpc&serviceName=trojan&sni=cyrus.v2bazzar.ir&note=@freeOnlineVPN#🇫🇮 - FI - @freeOnlineVPN
 trojan://a1b8cec4-548d-4e98-9ceb-7e80e23c9286@104.21.70.241:443?path=/Free-VPN-CF-Geo-Project/EE1&security=tls&host=joss.gpj2.dpdns.org&fp=chrome&type=ws&sni=joss.gpj2.dpdns.org#@meli_proxyy
 trojan://acababc-abac-abac-adcb-acbccaaacbbb@127.0.0.1:1080?security=tls&type=tcp#t.me/entryNET/config=1846726051829021
 trojan://atioxPSs6L@gsjcjkskfkdkkv.iranshopping.xyz:2052?path=/&security=tls&fp=chrome&type=ws#freeconfig
@@ -100,12 +106,11 @@ trojan://hNv80y7CWu@91.107.252.182:26805?type=tcp&security=none#telegram-@ISVvpn
 trojan://juzi@104.19.57.183:2096?security=tls&sni=juzi8186-sr1.pages.dev&type=tcp#@awlix_ir
 trojan://juzi@3.76.154.119:443?security=tls&sni=juzi8186-sr1.pages.dev&type=tcp#@awlix_ir
 trojan://mXP68BRNvU@66.59.208.7:17136?security=none&headerType=&type=tcp#⚜️Telegram: @IP_CF
-trojan://n611CzPX8k@mashti.isvcloud2.ir:1010?type=tcp&path=/ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#telegram-@ISVvpn
-trojan://n611CzPX8k@mashti.isvcloud2.ir:1010?type=tcp&path=/ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#telegram-@ISVvpn 〰〰〰〰〰〰〰〰〰〰 ‼️نکته: اندرویدی ها فرگمنت
 trojan://on4fCamU2E@91.107.252.182:26805?type=tcp&security=none#telegram-@ISVvpn
 trojan://on4fCamU2E@91.107.252.182:26805?type=tcp&security=none#telegram-@ISVvpn 〰〰〰〰〰〰〰〰〰〰 ‼️نکته: اندرویدی ها فرگمنت رو خاموش کنید ✅  𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
 trojan://qEqueKB1ej@nl.scpnb.top:39371?mode=gun&security=reality&pbk=Or_ba9zDYiBq1A8clfxXbpaWEdkrb7uM9MlqmOcaRBQ&fp=chrome&type=grpc&sni=cloudflare.com&sid=51be71a2bd#@AblNet7 🇮🇷 نت ملی
 trojan://qEqueKB1ej@nl.scpnb.top:39371?mode=gun&security=reality&pbk=Or_ba9zDYiBq1A8clfxXbpaWEdkrb7uM9MlqmOcaRBQ&fp=chrome&type=grpc&sni=cloudflare.com&sid=51be71a2bd#🇳🇱@FreakConfig
+trojan://qEqueKB1ej@nl.scpnb.top:39371?mode=gun&security=reality&pbk=Or_ba9zDYiBq1A8clfxXbpaWEdkrb7uM9MlqmOcaRBQ&fp=chrome&type=grpc&sni=cloudflare.com&sid=51be71a2bd&note=@freeOnlineVPN#🇳🇱 - NL - @freeOnlineVPN
 trojan://slch2024@185.7.240.195:2096?path=/Tel-@V2rayAlpha&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#All-@V2rayAlpha--12
 trojan://slch2024@192.169.223.87:2096?path=Telegram@V2rayAlpha&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#All-@IRAN_V2RAY1
 trojan://slch2024@192.169.223.87:2096?path=Telegram@V2rayAlpha&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#All-@V2rayAlpha--13
@@ -115,6 +120,7 @@ trojan://slch2024@209.94.90.195:2096?path=Telegram&security=tls&host=ocost-dy.wm
 trojan://slch2024@209.94.90.195:2096?path=Telegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#WiFi-@V2rayAlpha--6
 trojan://telegram-id-privatevpns@13.42.217.95:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#@awlix_ir
 trojan://telegram-id-privatevpns@51.21.59.141:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#@awlix_ir
+trojan://telegram-id-privatevpns@63.180.87.107:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1846788976294565
 trojan://trojan@109.234.211.66:8443?encryption=none&security=tls&sni=store.timimi.dpdns.org&type=ws&path=/#t.me/entryNET/config=1846695223849152
 trojan://ttfang@5.182.85.194:2096?path=Telegram@Config_Rayegan&security=tls&host=ttfang.fange.me&fp=chrome&type=ws&sni=ttfang.fange.me#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 trojan://ttfang@5.182.85.194:2096?path=Telegram@V2rayAlpha&security=tls&host=ttfang.fange.me&fp=chrome&type=ws&sni=ttfang.fange.me#All--@AlphaV2ray--19
@@ -157,7 +163,6 @@ trojan://tunnel-v2ray_configs_pools_official-us@us-3.stunnel.cc:8441?security=tl
 trojan://tunnel-v2ray_configs_pools_official-us@us-4.stunnel.cc:8441?security=tls&sni=zula.ir.v2ray_configs_pools-official.v2ray_configs_pools-official.workers.dev&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=us-4.stunnel.cc#[TrojanVPN] v2ray_configs_pools_official-🇺🇸
 trojan://tunnel-v2ray_configs_pools_official_ae@ae-1.stunnel.cc:8441?security=tls&sni=zula.ir.v2ray_configs_pools-official.v2ray_configs_pools-official.workers.dev&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=ae-1.stunnel.cc#[TrojanVPN] v2ray_configs_pools_official-🇦🇪
 trojan://uEgw6g4c4F4MNwa9OyKBNA@65.109.217.125:443?security=tls&headerType=none&type=tcp&sni=fl.v2bazzar.ir#@IRAN_V2RAY1
-trojan://uEgw6g4c4F4MNwa9OyKBNA@65.109.217.125:443?security=tls&headerType=none&type=tcp&sni=fl.v2bazzar.ir#𝗝𝗼𝗶𝗻 ➠ @V2rayNG_CaFe | کانال ما 🫆
 trojan://uEgw6g4c4F4MNwa9OyKBNA@65.109.217.125:443?security=tls&type=tcp&headerType=&path=&host=&sni=fl.v2bazzar.ir&fp=#💎 Hddify - Vip+ Trojan
 trojan://uEgw6g4c4F4MNwa9OyKBNA@65.109.217.125:443?security=tls&type=tcp&headerType=&path=/tv&host=&sni=fl.v2bazzar.ir&fp=#💎 Hddify - Vip+ Trojan
 trojan://wb6368@92.243.75.49:2087?path=/&security=tls&host=hsdgbuys.pages.dev&type=ws&sni=hsdgbuys.pages.dev#✅ @vistav2ray  👈👈کانال ما
