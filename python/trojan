@@ -24,32 +24,27 @@ trojan://3beeaf86-5522-4278-a1e9-b24a776552cd@190.93.246.255:2053?path=/TM (@AZA
 trojan://3r372@91.195.240.94:443?security=tls&sni=tj786.37927.online&type=tcp#@awlix_ir
 trojan://58176021-8165-48d5-94b1-ad3e96e71e8b@54.255.183.193:20230?security=tls&host=www.alibaba.com&type=ws&sni=www.alibaba.com#@Daily_Configs
 trojan://58176021-8165-48d5-94b1-ad3e96e71e8b@54.255.183.193:20230?security=tls&host=www.alibaba.com&type=ws&sni=www.alibaba.com#@meli_proxyy
-trojan://68a69d73-b871-47f1-8667-82585e07dab2@172.67.168.193:443?path=/Free-VPN-CF-Geo-Project/ES1&security=tls&host=joss.gpj2.dpdns.org&fp=chrome&type=ws&sni=joss.gpj2.dpdns.org#@meli_proxyy
 trojan://740628@136.175.177.136:8000?mode=gun&security=tls&fp=chrome&type=grpc&serviceName=cestbon&sni=sj.cestbon.work#All-@V2rayAlpha--11
 trojan://745654@154.3.37.9:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=hk.cestbon.work#@IRAN_V2RAY1
 trojan://745654@154.3.37.9:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=hk.cestbon.work#MCI-@V2rayAlpha--5
-trojan://879292de-3790-4f60-8ae9-557b0df71ec7@104.21.70.241:443?path=/Free-VPN-CF-Geo-Project/CH1&security=tls&host=joss.gpj2.dpdns.org&fp=chrome&type=ws&sni=joss.gpj2.dpdns.org#@meli_proxyy
 trojan://88a9a235-d071-4eda-9f47-b1e85019cfb1@172.67.168.193:443?path=/Free-VPN-CF-Geo-Project/CZ1&security=tls&host=joss.gpj2.dpdns.org&fp=chrome&type=ws&sni=joss.gpj2.dpdns.org#@meli_proxyy
-trojan://88a9a235-d071-4eda-9f47-b1e85019cfb1@172.67.168.193:443?path=/Free-VPN-CF-Geo-Project/CZ1&security=tls&host=joss.gpj2.dpdns.org&fp=chrome&type=ws&sni=joss.gpj2.dpdns.org#t.me/entryNET/config=1846769463468199
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?security=tls&headerType=none&type=tcp&sni=wus01.weyaf9sdoh2h.space#@meli_proxyy
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?security=tls&headerType=none&type=tcp&sni=wus01.weyaf9sdoh2h.space#All-@V2ray_Alpha--41
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?security=tls&headerType=none&type=tcp&sni=wus01.weyaf9sdoh2h.space#MTMVPN 47
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?security=tls&headerType=none&type=tcp&sni=wus01.weyaf9sdoh2h.space#proxy_mtm
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?security=tls&sni=wus01.weyaf9sdoh2h.space&type=tcp&headerType=none#@v2ray_configs_pool
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&headerType=none&fp=chrome&type=tcp&sni=wus02.weyaf9sdoh2h.space#@Hddify
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&headerType=none&fp=chrome&type=tcp&sni=wus02.weyaf9sdoh2h.space#@V2rayNGVPN+<=+کانفیگ+رایگان
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&headerType=none&fp=chrome&type=tcp&sni=wus02.weyaf9sdoh2h.space#limo
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&headerType=none&type=tcp&sni=wus02.weyaf9sdoh2h.space#@meli_proxyy
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&headerType=none&type=tcp&sni=wus02.weyaf9sdoh2h.space#All-@IRAN_V2RAY1
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&headerType=none&type=tcp&sni=wus02.weyaf9sdoh2h.space#All-@V2ray_Alpha--43
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&headerType=none&type=tcp&sni=wus02.weyaf9sdoh2h.space#t.me/entryNET/config=1846877046788140
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&headerType=none&type=tcp&sni=wus02.weyaf9sdoh2h.space#🇵🇱@FreakConfig
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&headerType=none&type=tcp&sni=wus02.weyaf9sdoh2h.space#🇺🇲@FreakConfig
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&sni=wus02.weyaf9sdoh2h.space&fp=chrome&type=tcp&headerType=none#@v2ray_configs_pool
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&sni=wus02.weyaf9sdoh2h.space&type=tcp&headerType=none#@v2ray_configs_pool
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&sni=wus02.weyaf9sdoh2h.space&type=tcp&headerType=none#t.me/entryNET/config=1846856922844873
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?type=tcp&headerType=none&security=tls&sni=wus02.weyaf9sdoh2h.space&fp=chrome&allowInsecure=0#@meli_proxyy
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.109:11013?security=tls&sni=wus03.weyaf9sdoh2h.space&type=tcp&headerType=none#@v2ray_configs_pool
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&fp=chrome&type=tcp&sni=wus04.weyaf9sdoh2h.space#@Hddify
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&fp=chrome&type=tcp&sni=wus04.weyaf9sdoh2h.space#@V2rayNGVPN+<=+کانفیگ+رایگان
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&fp=chrome&type=tcp&sni=wus04.weyaf9sdoh2h.space#limo
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&type=tcp&sni=wus04.weyaf9sdoh2h.space#@Daily_Configs
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&type=tcp&sni=wus04.weyaf9sdoh2h.space#@meli_proxyy
@@ -57,7 +52,6 @@ trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&type=tcp&sni=wus04.weyaf9sdoh2h.space#limo
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&type=tcp&sni=wus04.weyaf9sdoh2h.space#🇺🇲@FreakConfig
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&type=tcp&sni=wus04.weyaf9sdoh2h.space#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&sni=wus04.weyaf9sdoh2h.space&fp=chrome&type=tcp&headerType=none#@v2ray_configs_pool
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&sni=wus04.weyaf9sdoh2h.space&type=tcp&headerType=none#@v2ray_configs_pool
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?type=tcp&headerType=none&security=tls&sni=wus04.weyaf9sdoh2h.space&fp=chrome&allowInsecure=0#@meli_proxyy
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.111:11015?security=tls&sni=wus05.weyaf9sdoh2h.space&type=tcp&headerType=none#@v2ray_configs_pool
@@ -78,7 +72,9 @@ trojan://PKsmz7W2sx@mashti.isvcloud2.ir:1010?type=tcp&path=/ISVvpn&host=fonts.gs
 trojan://PKsmz7W2sx@mashti.isvcloud2.ir:1010?type=tcp&path=/ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#telegram-@ISVvpn 〰〰〰〰〰〰〰〰〰〰 ‼️نکته: اندرویدی ها فرگمنت
 trojan://T5ncuGweIsLseCqu96ZWJg@65.109.217.125:443?security=tls&headerType=none&type=tcp&sni=fl.v2bazzar.ir#All-@IRAN_V2RAY1
 trojan://T@_WvT8Ho@LW%w_,@172.66.47.42:2053?path=/trGPZDfetEwuO25SAs?ed=2560&security=tls&type=ws&sni=NOp-55q.pAgEs.dEv#@meli_proxyy
-trojan://T@_WvT8Ho@LW%w_,@nop-55q.pages.dev:2053?security=tls&sni=NOp-55q.pAgEs.dEv&type=ws&host=NOp-55q.pAgEs.dEv&path=/trGPZDfetEwuO25SAs#@v2ray_configs_pool
+trojan://T@_WvT8Ho@LW%w_,@nop-55q.pages.dev:2053?path=/trGPZDfetEwuO25SAs&security=tls&host=NOp-55q.pAgEs.dEv&type=ws&sni=NOp-55q.pAgEs.dEv#@V2rayNGVPN <= کانفیگ رایگان
+trojan://T@_WvT8Ho@LW%w_,@nop-55q.pages.dev:2053?path=/trGPZDfetEwuO25SAs&security=tls&host=NOp-55q.pAgEs.dEv&type=ws&sni=NOp-55q.pAgEs.dEv#@meli_proxyy
+trojan://T@_WvT8Ho@LW%w_,@nop-55q.pages.dev:2053?path=/trGPZDfetEwuO25SAs&security=tls&host=NOp-55q.pAgEs.dEv&type=ws&sni=NOp-55q.pAgEs.dEv#🇩🇪@FreakConfig
 trojan://V2qblnpdB6@91.108.249.171:443?security=reality&pbk=YAdvt-gLAjJf-a36b9XwQyd9bGxH4xIlyyeNiY7sPik&host=www.namasha.com,s45.namasha.com&headerType=http&fp=chrome&spx=/&type=tcp&sni=google.com&sid=b235e63f3b4bf29c#@HiByeVPNN👈⚡❤️‍🔥
 trojan://YwuvGJk36B@creativecommons.org:2053?path=/yamtekodasayahhh&security=tls&alpn=http/1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#Channel : @vpnserverrr
 trojan://YwuvGJk36B@creativecommons.org:2053?path=/yamtekodasayahhh&security=tls&alpn=http/1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#🇬🇧@FreakConfig
@@ -86,7 +82,6 @@ trojan://YwuvGJk36B@creativecommons.org:2053?security=tls&sni=kotlet.arshiacompl
 trojan://ZHEKwAC5B4Hwwohd4PhhFw@46.62.214.228:443?mode=gun&security=tls&type=grpc&serviceName=trojan&sni=cyrus.v2bazzar.ir#All---@IRAN_V2RAY1
 trojan://ZHEKwAC5B4Hwwohd4PhhFw@46.62.214.228:443?mode=gun&security=tls&type=grpc&serviceName=trojan&sni=cyrus.v2bazzar.ir&note=@freeOnlineVPN#🇫🇮 - FI - @freeOnlineVPN
 trojan://a1b8cec4-548d-4e98-9ceb-7e80e23c9286@104.21.70.241:443?path=/Free-VPN-CF-Geo-Project/EE1&security=tls&host=joss.gpj2.dpdns.org&fp=chrome&type=ws&sni=joss.gpj2.dpdns.org#@meli_proxyy
-trojan://acababc-abac-abac-adcb-acbccaaacbbb@127.0.0.1:1080?security=tls&type=tcp#t.me/entryNET/config=1846726051829021
 trojan://atioxPSs6L@gsjcjkskfkdkkv.iranshopping.xyz:2052?path=/&security=tls&fp=chrome&type=ws#freeconfig
 trojan://b63e5189-88c4-4eb5-9c8b-8dd997cc9b38@104.248.46.225:443?path=/Free-VPN-CF-Geo-Project/DE2&security=tls&host=joss.gpj2.dpdns.org&fp=chrome&type=ws&sni=joss.gpj2.dpdns.org#@meli_proxyy
 trojan://b63e5189-88c4-4eb5-9c8b-8dd997cc9b38@104.248.46.225:443?path=/Free-VPN-CF-Geo-Project/DE2&security=tls&host=joss.gpj2.dpdns.org&fp=chrome&type=ws&sni=joss.gpj2.dpdns.org#🏴‍☠️@FreakConfig
@@ -98,15 +93,16 @@ trojan://bpb-trojan@23.227.60.8:443?security=tls&sni=403b3611-99bc-43b7-88D7-26E
 trojan://c13b8217-7388-413b-b421-15580e4e267f@104.21.70.241:443?path=/Free-VPN-CF-Geo-Project/AE1&security=tls&host=joss.gpj2.dpdns.org&fp=chrome&type=ws&sni=joss.gpj2.dpdns.org#@meli_proxyy
 trojan://c16a577c-1dbd-41b0-90c7-d7177ce0bd1f@194.147.33.207:443?mode=auto&path=/xhttp&security=tls&alpn=h2&type=xhttp&sni=nl.xtls.sitespeedtest.net#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 trojan://c53647f3153f784b3c695ffbe5fb43c0@202.181.103.246:5041?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🔐 @AblNet7 🇸🇬
-trojan://cf142ac0-4bae-4c4b-9882-21fc0550a661@188.114.97.3:443?security=tls&sni=red-dream-2d6c.xepis84786.workers.dev&fp=chrome&type=ws&host=red-dream-2d6c.xepis84786.workers.dev&path=/?ed=2560#@v2ray_configs_pool
-trojan://cf142ac0-4bae-4c4b-9882-21fc0550a661@whatismyipaddress.com:443?security=tls&sni=red-dream-2d6c.xepis84786.workers.dev&fp=chrome&type=ws&host=red-dream-2d6c.xepis84786.workers.dev&path=/?ed=2560#@v2ray_configs_pool
-trojan://cf142ac0-4bae-4c4b-9882-21fc0550a661@www.speedtest.net:443?security=tls&sni=red-dream-2d6c.xepis84786.workers.dev&alpn=h2,http/1.1&fp=chrome&type=ws&host=red-dream-2d6c.xepis84786.workers.dev&path=/?ed=2560#@v2ray_configs_pool
+trojan://cf142ac0-4bae-4c4b-9882-21fc0550a661@188.114.97.3:443?path=/?ed=2560&security=tls&host=red-dream-2d6c.xepis84786.workers.dev&fp=chrome&type=ws&sni=red-dream-2d6c.xepis84786.workers.dev#@V2RAYROZ
+trojan://cf142ac0-4bae-4c4b-9882-21fc0550a661@188.114.97.3:443?path=/?ed=2560&security=tls&host=red-dream-2d6c.xepis84786.workers.dev&fp=chrome&type=ws&sni=red-dream-2d6c.xepis84786.workers.dev#@V2rayNGVPN <= کانفیگ رایگان
+trojan://cf142ac0-4bae-4c4b-9882-21fc0550a661@188.114.97.3:443?path=/?ed=2560&security=tls&host=red-dream-2d6c.xepis84786.workers.dev&fp=chrome&type=ws&sni=red-dream-2d6c.xepis84786.workers.dev#@meli_proxyy
+trojan://cf142ac0-4bae-4c4b-9882-21fc0550a661@whatismyipaddress.com:443?path=/?ed=2560&security=tls&host=red-dream-2d6c.xepis84786.workers.dev&fp=chrome&type=ws&sni=red-dream-2d6c.xepis84786.workers.dev#@meli_proxyy
+trojan://cf142ac0-4bae-4c4b-9882-21fc0550a661@www.speedtest.net:443?path=/?ed=2560&security=tls&alpn=h2,http/1.1&host=red-dream-2d6c.xepis84786.workers.dev&fp=chrome&type=ws&sni=red-dream-2d6c.xepis84786.workers.dev#@meli_proxyy
 trojan://ddce4f3a-e99a-47de-8d93-feeb77fd358a@179.43.156.21:8443?path=/Free-VPN-CF-Geo-Project/CH2&security=tls&host=joss.gpj2.dpdns.org&fp=chrome&type=ws&sni=joss.gpj2.dpdns.org#@meli_proxyy
 trojan://ddce4f3a-e99a-47de-8d93-feeb77fd358a@179.43.156.21:8443?path=/Free-VPN-CF-Geo-Project/CH2&security=tls&host=joss.gpj2.dpdns.org&fp=chrome&type=ws&sni=joss.gpj2.dpdns.org#🏴‍☠️@FreakConfig
 trojan://dqLPBI4gsI@s.isvspeedtest.ir:1010?type=tcp&path=/ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#telegram-@ISVvpn
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.136.130:4452?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&allowInsecure=0&sni=www.nintendogames.net#🇯🇵[Telegram:NetifyVpn]
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.136.130:4452?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🔐 @AblNet7 🇯🇵
-trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.196.59:4452?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none#@v2ray_configs_pool
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.68.250:5321?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🔐 @AblNet7 🇸🇬
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:1331?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#@meli_proxyy
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:1331?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#MTMVPN 48
@@ -116,7 +112,6 @@ trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:3161?security=tls&headerT
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:4452?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🇯🇵@FreakConfig
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:4452?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🔐 @AblNet7 🇯🇵
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:5321?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🔐 @AblNet7 🇸🇬
-trojan://ea39fa94f1ee00999337ea1fd3318e69@182.237.0.26:5321?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none#@v2ray_configs_pool
 trojan://ea39fa94f1ee00999337ea1fd3318e69@203.198.122.144:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#@meli_proxyy
 trojan://ea39fa94f1ee00999337ea1fd3318e69@203.198.122.144:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#All-@V2ray_Alpha--44
 trojan://ea39fa94f1ee00999337ea1fd3318e69@203.198.122.55:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🔐 @AblNet7 🇭🇰
@@ -124,13 +119,11 @@ trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.40:443?security=tls&headerT
 trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.40:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#All-@IRAN_V2RAY1
 trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.40:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#All-@V2ray_Alpha--42
 trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.40:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🔐 @AblNet7 🇭🇰
-trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.30.133:443?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none#@v2ray_configs_pool
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443?path=/aioproxybot/129.150.49.58-18650&security=tls&host=aio.zipzap.biz.id&type=ws&sni=aio.zipzap.biz.id#@IRAN_V2RAY1
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443?path=/aioproxybot/129.150.49.58-18650&security=tls&host=aio.zipzap.biz.id&type=ws&sni=aio.zipzap.biz.id#MCI-@V2rayAlpha--3
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#MCI-@V2rayAlpha--7
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&type=ws&sni=vpn.stupidworld.web.id#All-@IRAN_V2RAY1
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&type=ws&sni=vpn.stupidworld.web.id#All-@V2rayAlpha--6
-trojan://ff84e47c-1b2d-41cf-9610-7d55387c34c4@172.67.168.193:443?path=/Free-VPN-CF-Geo-Project/DE2&security=tls&host=joss.gpj2.dpdns.org&fp=chrome&type=ws&sni=joss.gpj2.dpdns.org#@meli_proxyy
 trojan://fi1DPGOQ0I34PYZfaYyTvQ@91.107.172.48:443?security=tls&headerType=none&type=tcp&sni=de.v2bazzar.ir#@IRAN_V2RAY1
 trojan://fi1DPGOQ0I34PYZfaYyTvQ@91.107.172.48:443?security=tls&headerType=none&type=tcp&sni=www.twitch.tv#@IRAN_V2RAY1
 trojan://hNv80y7CWu@91.107.252.182:26805?type=tcp&security=none#telegram-@ISVvpn
@@ -148,6 +141,10 @@ trojan://slch2024@194.59.5.195:2096?path=Telegram&security=tls&host=ocost-dy.wml
 trojan://slch2024@199.34.230.87:2096?path=Telegram@V2rayAlpha&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#All-@V2rayAlpha--42
 trojan://slch2024@209.94.90.195:2096?path=Telegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#WiFi-@IRAN_V2RAY1
 trojan://slch2024@209.94.90.195:2096?path=Telegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#WiFi-@V2rayAlpha--6
+trojan://telegram-id-directvpn@13.37.7.121:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1846860060024213
+trojan://telegram-id-directvpn@51.45.22.229:22223?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Daily_Configs
+trojan://telegram-id-directvpn@51.45.22.229:22223?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@V2rayNGVPN <= کانفیگ رایگان
+trojan://telegram-id-directvpn@63.178.55.65:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1846878934865900
 trojan://telegram-id-privatevpns@13.42.217.95:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#@awlix_ir
 trojan://telegram-id-privatevpns@51.21.59.141:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#@awlix_ir
 trojan://telegram-id-privatevpns@63.180.87.107:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1846788976294565
@@ -158,6 +155,7 @@ trojan://tunnel-astrovpn_official-de@de-1.stunnel.cc:8441?security=tls&sni=zula.
 trojan://tunnel-astrovpn_official-ee@ee-1.stunnel.cc:8441?security=tls&sni=zula.ir.v2ray_configs_pools-official.v2ray_configs_pools-official.workers.dev&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=ee-1.stunnel.cc#[TrojanVPN] v2ray_configs_pools_official-🇪🇪
 trojan://tunnel-astrovpn_official-gb@gb-1.stunnel.cc:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.monster.JoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=gb-1.stunnel.cc#AstroVPN_Official 🇬🇧
 trojan://tunnel-astrovpn_official-nl@nl-1.stunnel.cc:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.monster.JoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=nl-1.stunnel.cc#AstroVPN_Official 🇳🇱
+trojan://tunnel-astrovpn_official-tr@tr-1.stunnel.cc:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.monster.JoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=tr-1.stunnel.cc#AstroVPN_Official 🇹🇷
 trojan://tunnel-astrovpn_official-us@us-3.stunnel.cc:8441?security=tls&alpn=http/1.1&host=us-3.stunnel.cc&headerType=none&type=tcp&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 trojan://tunnel-astrovpn_official005@193.29.181.38:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=193.29.181.38#@AstroVPN_Official 🇳🇱
 trojan://tunnel-astrovpn_official018@193.124.46.134:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=193.124.46.134#[@AstroVPN_Official] 🇹🇷
@@ -181,6 +179,7 @@ trojan://tunnel-astrovpn_official929@188.208.110.58:8441?security=tls&sni=zula.i
 trojan://tunnel-astrovpn_official92@213.108.198.158:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=213.108.198.158#AstroVPN_Official 🇩🇪
 trojan://tunnel-astrovpnofficial-8@57.129.15.177:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=57.129.15.177#AstroVPN_Official 🇩🇪
 trojan://tunnel-astrovpnofficial1828@213.108.198.158:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=213.108.198.158#AstroVPN_Official 🇩🇪
+trojan://tunnel-astrovpnvpn_official@fr-1.stunnel.cc:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.monster.JoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=fr-1.stunnel.cc#AstroVPN_Official 🇫🇷
 trojan://tunnel-v2ray_configs_pools_offcial-nl@nl-1.stunnel.cc:8441?security=tls&sni=zula.ir.v2ray_configs_pools-official.v2ray_configs_pools-official.workers.dev&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=nl-1.stunnel.cc#[TrojanVPN] v2ray_configs_pools_offcial-🇳🇱
 trojan://tunnel-v2ray_configs_pools_official-de@de-1.stunnel.cc:8441?security=tls&sni=zula.ir.v2ray_configs_pools-official.v2ray_configs_pools-official.workers.dev&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=de-1.stunnel.cc#[TrojanVPN] v2ray_configs_pools_official-🇩🇪
 trojan://tunnel-v2ray_configs_pools_official-gb@gb-1.stunnel.cc:8441?security=tls&sni=zula.ir.v2ray_configs_pools-official.v2ray_configs_pools-official.workers.dev&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=gb-1.stunnel.cc#[TrojanVPN] v2ray_configs_pools_official-🇬🇧
