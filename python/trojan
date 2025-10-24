@@ -47,6 +47,7 @@ trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&sni=wus02.weyaf9sdoh2h.space&fp=chrome&type=tcp&headerType=none#@v2ray_configs_pool
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&sni=wus02.weyaf9sdoh2h.space&type=tcp&headerType=none#@v2ray_configs_pool
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?type=tcp&headerType=none&security=tls&sni=wus02.weyaf9sdoh2h.space&fp=chrome&allowInsecure=0#@meli_proxyy
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.109:11013?security=tls&sni=wus03.weyaf9sdoh2h.space&type=tcp&headerType=none#@v2ray_configs_pool
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&fp=chrome&type=tcp&sni=wus04.weyaf9sdoh2h.space#@Hddify
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&fp=chrome&type=tcp&sni=wus04.weyaf9sdoh2h.space#@V2rayNGVPN+<=+کانفیگ+رایگان
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&fp=chrome&type=tcp&sni=wus04.weyaf9sdoh2h.space#limo
