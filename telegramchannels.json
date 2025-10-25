@@ -62,7 +62,6 @@
     "miniproxy",
     "mrconfig_channel",
     "mrsoulb",
-    "mtmvpn",
     "netifyvpn",
     "networld_vpn",
     "nufilter",
@@ -86,7 +85,6 @@
     "v2ngfast",
     "v2ngnet",
     "v2ray_alpha",
-    "v2ray_configs_pools",
     "v2rayargon",
     "v2raybaaz",
     "v2rayfa",
@@ -102,7 +100,6 @@
     "vmesskhodam",
     "vmessorg",
     "vpn_room",
-    "vpnserverrr",
     "xpnteam",
     "zedbaz_vpn"
 ]
