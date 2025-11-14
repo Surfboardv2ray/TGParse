@@ -48,6 +48,3 @@ This is a fork of [TG-Proxy-Parser](https://github.com/ndsphonemy/TG-Proxy-Parse
 
 # Stargazers
 [![Star History Chart](https://api.star-history.com/svg?repos=Surfboardv2ray/TGParse&type=Date)](https://star-history.com/#Surfboardv2ray/TGParse&Date)
-
-# Visitors
-![Visitor's Count](https://profile-counter.glitch.me/Surfboardv2ray_TGParse/count.svg)
