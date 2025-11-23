@@ -7,7 +7,6 @@ trojan://2274c52572e721086f8bd8f88984643c@160.16.124.55:5553?security=tls&header
 trojan://2274c52572e721086f8bd8f88984643c@160.16.124.55:5553?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#Join Sho:@IRAN_V2RAY1 🇯🇵
 trojan://2302eb2b-9401-4176-a4da-b41d4cd55756@185.247.184.186:8443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/185.247.184.186=8443#🇮🇹[openproxylist.com] trojan-IT
 trojan://2302eb2b-9401-4176-a4da-b41d4cd55756@185.247.184.186:8443?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/185.247.184.186=8443&host=joss.gpj1.web.id#🇮🇹[openproxylist.com] trojan-IT
-trojan://29ca24a5-e8aa-4cbd-9bcb-f96aba1d6f15@34.22.190.30:443?path=/Free-VPN-CF-Geo-Project/34.22.190.30=443&security=tls&host=joss.gpj1.web.id&fp=chrome&type=ws&sni=joss.gpj1.web.id#t.me/entryNET/config=1849476047622004
 trojan://2AAF5UEsSd@37.27.249.93:20000?type=tcp&security=none#@V2rayNG3
 trojan://2e3562a819634de686ade78e434c0963@104.17.147.5:443?security=tls&type=ws&sni=jobscareertoday.com&path=/6b777a91&host=jobscareertoday.com#t.me/entryNET/config=1849540220375340
 trojan://3817daf8-0f2b-412f-b87b-3efa585423e8@us2.vpn.ong:443?security=tls&headerType=none&type=tcp#@V2rayNG3
@@ -64,6 +63,8 @@ trojan://ZHEKwAC5B4Hwwohd4PhhFw@46.62.214.228:443?mode=gun&security=tls&type=grp
 trojan://a5a3350e-6ea2-4e12-ae84-20db849ce1fc@94.131.114.50:81?path=/94.131.114.50=81&security=tls&host=joss.dus.biz.id&type=ws&sni=joss.dus.biz.id#MCI-IR--@V2rayAlpha-19
 trojan://amclubs@103.160.204.1:443?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&host=tran.amclubstest.nyc.mn&type=ws&sni=tran.amclubstest.nyc.mn#@V2rayNG3
 trojan://bpb-trojan@104.18.34.21:2053?path=/trEjWhhuRjwiMwSbDN/ZGUucmFkaWNhbGx5LnBybw==&security=tls&alpn=http/1.1&host=bpb-worker-panel1-e4p.pages.dev&fp=chrome&type=ws&sni=bpB-worKER-paneL1-e4p.pAGes.dEV#@V2rayNG3
+trojan://bpb-trojan@104.18.34.21:2053?security=tls&sni=bpB-worKER-paneL1-e4p.pAGes.dEV&type=ws&host=bpb-worker-panel1-e4p.pages.dev&path=/trEjWhhuRjwiMwSbDN/ZGUucmFkaWNhbGx5LnBybw==&fp=chrome&alpn=http/1.1#t.me/entryNET/config=1849569790386047
+trojan://bpb-trojan@104.18.34.21:2053?security=tls&sni=bpB-worKER-paneL1-e4p.pAGes.dEV&type=ws&host=bpb-worker-panel1-e4p.pages.dev&path=/trEjWhhuRjwiMwSbDN/ZGUucmFkaWNhbGx5LnBybw==&fp=chrome&alpn=http/1.1#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:27.44ms
 trojan://bpb-trojan@www.vpslook.com:443?path=/tr?ed=2560&security=tls&alpn=h3&host=bpb-hd.aaronchin.xyz&fp=chrome&type=ws&sni=bpb-hd.aaronchin.xyz#@V2rayNG3
 trojan://c16a577c-1dbd-41b0-90c7-d7177ce0bd1f@194.147.33.207:443?mode=auto&path=/xhttp&security=tls&alpn=h2&type=xhttp&sni=nl.xtls.sitespeedtest.net#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 trojan://d0298536-d670-4045-bbb1-ddd5ea68683e@104.25.254.4:2087?path=/azadnet-bdr.pages.dev/?ed=2560&PROT_TYPE=trojan&security=tls&host=azadnet-bdr.pages.dev&type=ws&sni=azadnet-bdr.pages.dev#@Hddify
@@ -103,7 +104,6 @@ trojan://telegram-id-privatevpns@51.45.30.4:22222?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-privatevpns@63.177.199.101:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1849506246690739
 trojan://tg-dns68@162.159.152.36:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#t.me/entryNET/config=1849562240338220
 trojan://tg-dns68@162.159.153.128:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#t.me/entryNET/config=1849543365639641
-trojan://tg-dns68@162.159.153.1:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:26.44ms
 trojan://tpCznR-P5=jZUb#c@66.245.193.152:17126?security=tls&headerType=none&type=tcp&sni=ctaldikgfyw.uefahpgsyz.click#⚜️𝗝𝗼𝗶𝗻 ➠ @tik7net_vpn کانال تلگرام-🇬🇧
 trojan://trojan@109.234.211.66:2087?path=/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)&security=tls&type=ws&sni=store.timimi.dpdns.org#🔥Join Telegram:@AZARBAYJAB1🟣
 trojan://trojan@22b.net:2087?path=/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)&security=tls&type=ws&sni=store.timimi.dpdns.org#Telegram:@AZARBAYJAB1
