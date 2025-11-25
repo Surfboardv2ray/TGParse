@@ -1396,7 +1396,6 @@ trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.40:443?security=tls&headerT
 trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.40:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#All-@IRAN_V2RAY1
 trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.40:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#All-@V2ray_Alpha--42
 trojan://ec8ce181-e3bf-4cdd-99d6-65e786657146@2.56.204.183:443?path=/Free-VPN-CF-Geo-Project/2.56.204.183=443&security=tls&host=joss.gpj1.web.id&fp=chrome&type=ws&sni=joss.gpj1.web.id#@V2rayNGVPN <= کانفیگ رایگان
-trojan://ec8ce181-e3bf-4cdd-99d6-65e786657146@2.56.204.183:443?path=/Free-VPN-CF-Geo-Project/2.56.204.183=443&security=tls&host=joss.gpj1.web.id&fp=chrome&type=ws&sni=joss.gpj1.web.id#t.me/entryNET/config=1849659762578378
 trojan://ec8ce181-e3bf-4cdd-99d6-65e786657146@2.56.204.183:443?path=/Free-VPN-CF-Geo-Project/2.56.204.183=443&security=tls&host=joss.gpj1.web.id&fp=chrome&type=ws&sni=joss.gpj1.web.id#⚜️𝗝𝗼𝗶𝗻 ➠ @tik7net_vpn کانال تلگرام 🇦🇲
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443?path=/aioproxybot/129.150.49.58-18650&security=tls&host=aio.zipzap.biz.id&type=ws&sni=aio.zipzap.biz.id#@IRAN_V2RAY1
 trojan://fi1DPGOQ0I34PYZfaYyTvQ@91.107.172.48:443?security=tls&headerType=none&type=tcp&sni=de.v2bazzar.ir#@IRAN_V2RAY1
@@ -5566,6 +5565,7 @@ vless://9dc11620-987c-4344-9088-f46fdfae4054@40.160.4.118:8080?path=/?ed&securit
 vless://9dc11620-987c-4344-9088-f46fdfae4054@40.160.4.118:8080?path=/?ed&security=none&encryption=none&type=ws#@meli_proxyy
 vless://9dc11620-987c-4344-9088-f46fdfae4054@40.160.4.118:8080?path=/?ed&security=none&encryption=none&type=ws#🇺🇸@FreakConfig
 vless://9dc11620-987c-4344-9088-f46fdfae4054@40.160.4.127:8080?encryption=none&security=none&type=ws&path=/?ed#🔷🆔@v2ray_configs_pool🔷
+vless://9dc11620-987c-4344-9088-f46fdfae4054@40.160.4.211:8080?encryption=none&security=none&type=ws&path=/?ed#TELEGRAM-@V2rayBaaz?ed=512#t.me/entryNET/config=1849752252134525
 vless://9dc11620-987c-4344-9088-f46fdfae4054@40.160.4.211:8080?encryption=none&security=none&type=ws&path=/?ed#TELEGRAM-@V2rayBaaz?ed=512#🔷🆔@v2ray_configs_pool🔷
 vless://9dc11620-987c-4344-9088-f46fdfae4054@40.160.4.211:8080?encryption=none&security=none&type=ws&path=/?ed#🔷🆔@v2ray_configs_pool🔷
 vless://9dc11620-987c-4344-9088-f46fdfae4054@40.160.4.211:8080?path=/?ed#TELEGRAM-@V2rayBaaz?ed=512&security=none&encryption=none&type=ws#r♡ya
@@ -5579,6 +5579,7 @@ vless://9dc11620-987c-4344-9088-f46fdfae4054@40.160.4.211:8080?path=/?ed&securit
 vless://9dc11620-987c-4344-9088-f46fdfae4054@40.160.4.211:8080?path=/?ed&security=none&encryption=none&type=ws#🇺🇸@FreakConfig
 vless://9dc11620-987c-4344-9088-f46fdfae4054@40.160.4.211:8080?path=/?ed=2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&security=none&encryption=none&type=ws#@HiByeVPNN 💯⚡❤️‍🔥
 vless://9dc11620-987c-4344-9088-f46fdfae4054@40.160.4.211:8080?path=/?ed=2048telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----&security=none&encryption=none&type=ws#@V2rayNGVPN <= کانفیگ رایگان
+vless://9dc11620-987c-4344-9088-f46fdfae4054@40.160.5.58:8080?encryption=none&security=none&type=ws&path=/?ed#t.me/entryNET/config=1849751612833125
 vless://9dc11620-987c-4344-9088-f46fdfae4054@92.118.230.124:8080?encryption=none&security=none&sni=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=ws&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&path=/?ed#🔷🆔@v2ray_configs_pool🔷
 vless://9dc11620-987c-4344-9088-f46fdfae4054@92.118.230.124:8080?encryption=none&security=none&type=ws&path=/?ed#🔷🆔@v2ray_configs_pool🔷
 vless://9dc11620-987c-4344-9088-f46fdfae4054@92.118.230.124:8080?path=/?ed#TELEGRAM-@V2rayBaaz?ed=512&security=none&encryption=none&type=ws#r♡ya
@@ -6242,7 +6243,6 @@ vless://a904f7b1-4ca3-4452-b2f4-1030d2d7570b@Trk.originalproxy.sbs:20936?mode=gu
 vless://a904f7b1-4ca3-4452-b2f4-1030d2d7570b@Trk.originalproxy.sbs:20936?mode=gun&security=reality&encryption=none&authority=/?BIA_TELEGRAM@V2rayBaaz&pbk=7PSnnf3p70BBT39ibFAQacJYzywQYuWeoEI98na-zjU&fp=chrome&type=grpc&sni=refersion.com&sid=ed1e5b7d7bf22a70#r♡ya
 vless://a904f7b1-4ca3-4452-b2f4-1030d2d7570b@Trk.originalproxy.sbs:20936?mode=gun&security=reality&encryption=none&pbk=7PSnnf3p70BBT39ibFAQacJYzywQYuWeoEI98na-zjU&fp=chrome&type=grpc&sni=refersion.com&sid=ed1e5b7d7bf22a70#@meli_proxyy
 vless://a904f7b1-4ca3-4452-b2f4-1030d2d7570b@Trk.originalproxy.sbs:20936?mode=gun&security=reality&encryption=none&pbk=7PSnnf3p70BBT39ibFAQacJYzywQYuWeoEI98na-zjU&fp=chrome&type=grpc&sni=refersion.com&sid=ed1e5b7d7bf22a70#All-@V2rayAlpha--21
-vless://a904f7b1-4ca3-4452-b2f4-1030d2d7570b@Trk.originalproxy.sbs:20936?mode=gun&security=reality&encryption=none&pbk=7PSnnf3p70BBT39ibFAQacJYzywQYuWeoEI98na-zjU&fp=chrome&type=grpc&sni=refersion.com&sid=ed1e5b7d7bf22a70#t.me/entryNET/config=1849661656147538
 vless://a904f7b1-4ca3-4452-b2f4-1030d2d7570b@Trk.originalproxy.sbs:20936?mode=gun&security=reality&encryption=none&pbk=7PSnnf3p70BBT39ibFAQacJYzywQYuWeoEI98na-zjU&fp=chrome&type=grpc&sni=refersion.com&sid=ed1e5b7d7bf22a70#✅ @vistav2ray  👈👈کانال ما
 vless://a904f7b1-4ca3-4452-b2f4-1030d2d7570b@Trk.originalproxy.sbs:20936?mode=gun&security=reality&encryption=none&pbk=7PSnnf3p70BBT39ibFAQacJYzywQYuWeoEI98na-zjU&fp=chrome&type=grpc&sni=refersion.com&sid=ed1e5b7d7bf22a70#🇹🇷@FreakConfig
 vless://a9082ebe-7529-4a88-a003-bc5b8ae3d5bb@91.107.190.127:3080?mode=gun&security=reality&encryption=none&authority=-@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---&pbk=ezDK7fd9ieu1_0tDnmurxVheIpDpXofzBRovR8nCtTI&fp=chrome&spx=/&type=grpc&sni=journalofbigdata.springeropen.com&sid=3078f8f691b6b4#✅سرورهایبیشتردرکانال:prrofile_purple@✅
