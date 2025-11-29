@@ -14,8 +14,6 @@ trojan://2274c52572e721086f8bd8f88984643c@160.16.124.55:5553?security=tls&header
 trojan://2274c52572e721086f8bd8f88984643c@160.16.124.55:5553?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#Join Sho:@IRAN_V2RAY1 🇯🇵
 trojan://2274c52572e721086f8bd8f88984643c@58.152.110.216:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#@V2ray1_Ng
 trojan://2AAF5UEsSd@37.27.249.93:20000?type=tcp&security=none#@V2rayNG3
-trojan://2cf6d686799e6fa95316394064f26c0a@153.121.44.99:3093?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#[🇯🇵]t.me/ConfigsHub
-trojan://2cf6d686799e6fa95316394064f26c0a@160.16.116.227:127?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#[🇯🇵]t.me/ConfigsHub
 trojan://2cf6d686799e6fa95316394064f26c0a@160.16.236.32:2760/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1#18🔒@oneclickvpnkeys
 trojan://2cf6d686799e6fa95316394064f26c0a@58.152.18.55:443?allowInsecure=0&sni=www.nintendogames.net#🇭🇰[openproxylist.com] trojan-HK
 trojan://3208e968-b862-4e2e-ad90-2b49e7ce7afb@37.252.5.75:443/?type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/37.252.5.75=443&security=tls&sni=joss.gpj1.web.id&allowInsecure=1#⚒️54@oneclickvpnkeys
@@ -30,7 +28,6 @@ trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=/6b777a91&securi
 trojan://6e6191a3-9a93-4617-859a-8d0ea0fce937@joss.gpj1.web.id:443/?type=ws&path=/Free-VPN-CF-Geo-Project/81.91.214.85=443&security=tls&allowInsecure=1#⚒️82@oneclickvpnkeys
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990/?type=tcp&security=tls&sni=diningtable.electricbanana.click&allowInsecure=1#⚱️80@oneclickvpnkeys
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&allowInsecure=1&type=tcp&headerType=none#t.me/v2Line | Free | 3054 | Canada
-trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=diningtable.electricbanana.click#[🇨🇦]t.me/ConfigsHub
 trojan://823f57d2-d271-48a6-859e-d041179e1c6b@145.239.88.255:8443/?type=ws&host=joss.gpj.web.id&path=/Free-VPN-CF-Geo-Project/145.239.88.255=8443&security=tls&sni=joss.gpj.web.id&allowInsecure=1#🎵25@oneclickvpnkeys
 trojan://83794b09-d50a-4e6e-9559-1372b6299e89@162.19.246.187:2053/?type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/162.19.246.187=2053&security=tls&sni=joss.gpj1.web.id#✨28@oneclickvpnkeys
 trojan://83794b09-d50a-4e6e-9559-1372b6299e89@162.19.246.187:2053?path=/Free-VPN-CF-Geo-Project/162.19.246.187=2053&security=tls&host=joss.gpj1.web.id&fp=chrome&type=ws&sni=joss.gpj1.web.id#@V2ray1_Ng 🇩🇪
@@ -121,6 +118,7 @@ trojan://e9GP-sYzrxL2RBjl@64.176.18.21:18415?security=tls&headerType=none&type=t
 trojan://eDHWaPzxcl@145.223.70.115:25365/?type=grpc&sni=cloudflare.com&fp=chrome&security=reality&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&sid=d9#🔒30@oneclickvpnkeys
 trojan://eDHWaPzxcl@145.223.70.115:25365?mode=gun&security=reality&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&fp=chrome&spx=/&type=grpc&sni=cloudflare.com&sid=d9#🇫🇷AZARBAYJAB1
 trojan://eDHWaPzxcl@145.223.70.115:25365?mode=gun&security=reality&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&fp=chrome&spx=/&type=grpc&sni=cloudflare.com&sid=d9#🇫🇷[openproxylist.com] trojan-FR
+trojan://eDHWaPzxcl@145.223.70.115:25365?mode=gun&security=reality&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&fp=chrome&type=grpc&sni=cloudflare.com&sid=d9#🇫🇷[openproxylist.com] trojan-FR
 trojan://eDHWaPzxcl@145.223.70.115:25365?security=reality&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&fp=chrome&type=grpc&sni=cloudflare.com&sid=d9#🇫🇷[openproxylist.com] trojan-FR
 trojan://eDHWaPzxcl@145.223.70.115:25365?security=reality&sni=cloudflare.com&fp=chrome&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&sid=d9&spx=/&allowInsecure=1&type=grpc#t.me/v2Line | Free | 3010 | France
 trojan://eDHWaPzxcl@145.223.70.115:25365?security=reality&sni=cloudflare.com&fp=chrome&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&sid=d9&spx=/&allowInsecure=1&type=grpc#🇫🇷[openproxylist.com] trojan-FR
@@ -144,7 +142,6 @@ trojan://ptM0AjehKC@x7-sweden-amazon-v2-ku4u8.devefun.org:1935?security=tls&head
 trojan://redfree8@104.17.148.22:80?path=/trLwW5jwrnymnOdqki?ed=2560&security=none&host=redfree8-p1.pooriashop.ir&type=ws#@CaV2ray ⚡️
 trojan://redfree8@104.17.148.22:80?path=/trLwW5jwrnymnOdqki?ed=2560&security=none&host=redfree8-p1.pooriashop.ir&type=ws#@V2rayNG3
 trojan://rpq9Od8Bj7@91.107.179.207:1223?security=reality&pbk=VtJ9rMo1lo9v2jHH1d8A83uErJDBE4T6Cyd1sLfPxzo&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=4b2cd56a#All-@V2rayAlpha--9
-trojan://telegram-id-directvpn@13.36.32.209:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 trojan://telegram-id-directvpn@15.188.156.122:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#⚒️10@oneclickvpnkeys
 trojan://telegram-id-directvpn@3.68.23.117:22223?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=t.me/v2Line#t.me/v2Line | Free | 3044 | Germany
 trojan://telegram-id-directvpn@51.44.94.146:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#⚒️24@oneclickvpnkeys
