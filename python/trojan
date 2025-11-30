@@ -137,6 +137,7 @@ trojan://telegram-id-privatevpns@15.188.206.228:22222/?type=tcp&security=tls&sni
 trojan://telegram-id-privatevpns@35.180.217.68:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷[openproxylist.com] trojan-FR
 trojan://telegram-id-privatevpns@63.181.72.73:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@63.181.74.15:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪[openproxylist.com] trojan-DE
+trojan://tg-dns68@162.159.153.1:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#[🇨🇦]t.me/ConfigsHub
 trojan://trojan@109.234.211.66:2087?path=/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)&security=tls&type=ws&sni=store.timimi.dpdns.org#🔥Join Telegram:@AZARBAYJAB1🟣
 trojan://trojan@22b.net:2087?path=/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)&security=tls&type=ws&sni=store.timimi.dpdns.org#Telegram:@AZARBAYJAB1
 trojan://trojan@AZERB.NET:443?path=/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)?ed=2560&security=tls&alpn=h2,http/1.1&host=store.timimi.dpdns.org&fp=chrome&type=ws#@AZARBAYJAB1
