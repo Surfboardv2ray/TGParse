@@ -173,6 +173,7 @@ trojan://rkhc8LREdu1-JW6gQ30sPtDUxeOwd@216.238.67.212:20520/?type=tcp&security=t
 trojan://rkhc8LREdu1-JW6gQ30sPtDUxeOwd@216.238.81.148:20520/?type=tcp&security=tls&sni=api.avito.ru&allowInsecure=1#🎨35@oneclickvpnkeys
 trojan://rpq9Od8Bj7@91.107.179.207:1223?security=reality&pbk=VtJ9rMo1lo9v2jHH1d8A83uErJDBE4T6Cyd1sLfPxzo&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=4b2cd56a#All-@V2rayAlpha--9
 trojan://t1k169n5zmvvwn96r9ft@146.70.90.195:57452/?type=tcp&security=tls&sni=api-yandex.maps.ru&allowInsecure=1#🧢16@oneclickvpnkeys
+trojan://telegram-id-directvpn@52.57.198.242:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@51.21.70.184:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1851988227478691
 trojan://tgegXRzYrR@Net.1lagvpn13.cfd:8443?mode=gun&security=tls&alpn=http/1.1,h2&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#@L_AGVPN13+trojan-m2uv025p
 trojan://trojan@109.234.211.66:2087?path=/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)&security=tls&type=ws&sni=store.timimi.dpdns.org#🔥Join Telegram:@AZARBAYJAB1🟣
@@ -220,5 +221,4 @@ trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@45.32.158.138:20994/?type=tcp&security=tl
 trojan://y0.qLgDed4ElASjr_3+B7kTVb9np1@83.172.159.181:17860?security=tls&headerType=none&type=tcp&sni=www.vk.ru#All_6--@V2rayAlpha
 trojan://y0.qLgDed4ElASjr_3+B7kTVb9np1@83.172.159.181:17860?security=tls&headerType=none&type=tcp&sni=www.vk.ru#🏴‍☠@FreakConfig
 trojan://yWw53C8#lfI6JQoaYANLb@45.76.228.194:24577/?type=tcp&security=tls&sni=eh.vk.com&allowInsecure=1#🧢52@oneclickvpnkeys
-trojan://zWFjJENcljZm@usa.visa.com:443?path=/?ed=2560&security=tls&insecure=0&host=vahidqaz-7o61u7.vahidqaz.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=vahidqaz-7o61u7.vahidqaz.workers.dev#[🇨🇦]t.me/ConfigsHub
 trojan://zWFjJENcljZm@usa.visa.com:443?path=/?ed=2560&security=tls&insecure=0&host=vahidqaz-7o61u7.vahidqaz.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=vahidqaz-7o61u7.vahidqaz.workers.dev#t.me/entryNET/config=1852045483556481
