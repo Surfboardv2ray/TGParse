@@ -9,3 +9,8 @@ tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b
 tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@150.230.4.133:57277/?congestion_control=bbr&udp_relay_mode=native&sni=db1.nezhasu.com&alpn=h3#🌨️13@oneclickvpnkeys
 tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@158.180.79.168:64413/?congestion_control=bbr&udp_relay_mode=native&sni=chuncheon-2.nezhasu.com&alpn=h3#🌨️12@oneclickvpnkeys
 tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@163.192.55.17:59422/?congestion_control=bbr&udp_relay_mode=native&sni=sanjose.nezhasu.com&alpn=h3#🌨️7@oneclickvpnkeys
+tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@marseille-1.nezhasu.com:55826/?congestion_control=bbr&udp_relay_mode=native&sni=marseille-1.nezhasu.com&alpn=h3#🛡️36@oneclickvpnkeys
+tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@phoenix-1.nezhasu.cn:59945/?congestion_control=bbr&udp_relay_mode=native&sni=phoenix-1.nezhasu.cn&alpn=h3#🛡️38@oneclickvpnkeys
+tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@phoenix-2.nezhasu.cn:55279/?congestion_control=bbr&udp_relay_mode=native&sni=phoenix-2.nezhasu.cn&alpn=h3#🛡️40@oneclickvpnkeys
+tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@phoenix-3.nezhasu.com:58324/?congestion_control=bbr&udp_relay_mode=native&sni=phoenix-3.nezhasu.com&alpn=h3#🛡️37@oneclickvpnkeys
+tuic://d9812081-7f61-456d-9340-a1fb8dfd603b:d9812081-7f61-456d-9340-a1fb8dfd603b@phoenix-4.nezhasu.com:56507/?congestion_control=bbr&udp_relay_mode=native&sni=phoenix-4.nezhasu.com&alpn=h3#🛡️39@oneclickvpnkeys
