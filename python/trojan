@@ -40,7 +40,6 @@ trojan://89str_hbFiA4Re5VKxLYnDPgy@149.248.50.17:15349?security=tls&host=telegra
 trojan://8kQaUakMBb@Net.1lagvpn13.cfd:8443?mode=gun&security=tls&alpn=http/1.1,h2&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#@L_AGVPN13+trojan-rpm37orb
 trojan://90y2l3mu48d10uy3ibad@51.159.103.137:58290?security=tls&headerType=none&type=tcp&sni=ads.x5.ru#WiFi_14--@V2rayAlpha
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?security=tls&headerType=none&fp=chrome&type=tcp&sni=207.148.100.75#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-trojan://9BbIGN.nF=gztO-iq7ETmxdJ@45.76.94.79:13448/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#🚨8@oneclickvpnkeys
 trojan://9BbIGN.nF=gztO-iq7ETmxdJ@80.240.17.154:13448/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#🚨20@oneclickvpnkeys
 trojan://9BbIGN.nF=gztO-iq7ETmxdJ@80.240.17.154:13448?security=tls&headerType=none&type=tcp&sni=ads.x5.ru#All_2--@V2rayAlpha
 trojan://Aimer@188.164.159.43:2083?path=/?ed?ed=2048@v2ray_configs_pools--@v2ray_configs_pools--@v2ray_configs_pools--@v2ray_configs_pools&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#telegram 🍊 v2ray_configs_pools
@@ -109,6 +108,8 @@ trojan://e86364fb-a5e3-42c3-b7fa-6ce8097fe19f@bisque.qzz.io:443?path=/66.135.4.2
 trojan://eDHWaPzxcl@145.223.70.115:25365?mode=gun&security=reality&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&fp=chrome&spx=/&type=grpc&sni=cloudflare.com&sid=d9#🇫🇷AZARBAYJAB1
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.144.208:3901?security=tls&sni=www.nintendogames.net&allowInsecure=1&type=tcp&headerType=none#t.me/v2Line | Free | 3339 | Japan
 trojan://fri4wn77p7urww5on3bt@185.212.171.204:58670?security=tls&headerType=none&type=tcp&sni=ads.x5.ru#All-@V2rayAlpha--4
+trojan://humanity@www.calmlunch.com:443/?type=ws&host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com#[🇨🇦]t.me/ConfigsHub
+trojan://humanity@www.calmlunch.com:443/?type=ws&host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com#♾️34@oneclickvpnkeys
 trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
 trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️78🌐🆕️
 trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#🇫🇷@FreakConfig
@@ -124,7 +125,9 @@ trojan://nYzYreUpD4dDjzjFcgf6Fe3oaw4QFN@trunker.cc:8080?type=tcp&headerType=none
 trojan://pk9Cl5J4dpSzj-.O21q0L@64.176.184.129:18756?security=tls&headerType=none&type=tcp&sni=io.ozone.ru#All-@V2rayAlpha--2
 trojan://ptM0AjehKC@x7-sweden-amazon-v2-ku4u8.devefun.org:1935?security=tls&headerType=none&type=tcp&sni=x7-sweden-amazon-v2-ku4u8.devefun.org#@CaV2ray ⚡️
 trojan://redfree8@104.17.148.22:80?path=/trLwW5jwrnymnOdqki?ed=2560&security=none&host=redfree8-p1.pooriashop.ir&type=ws#@CaV2ray ⚡️
+trojan://telegram-id-directvpn@3.64.206.215:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1853373979187222
 trojan://telegram-id-directvpn@63.182.57.211:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1853367372427244
+trojan://telegram-id-privatevpns@35.180.217.26:22222/?type=tcp&security=tls#♾️13@oneclickvpnkeys
 trojan://telegram-id-privatevpns@63.182.57.211:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1853367312891818
 trojan://tgegXRzYrR@Net.1lagvpn13.cfd:8443?mode=gun&security=tls&alpn=http/1.1,h2&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#@L_AGVPN13+trojan-m2uv025p
 trojan://trojan@104.24.57.5:443#t.me/entryNET/config=1853360325876645
