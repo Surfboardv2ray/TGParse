@@ -1,5 +1,4 @@
-trojan://3437698@172.67.70.2:443?path=/?ed=2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=chrome&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#[80067] - Telegram : @V2All
-trojan://381f2e86233720eacda26d50e9aa26da@160.16.116.227:1281?sni=www.nintendogames.net&path=/#[80058] - Telegram : @V2All
+trojan://3437698@104.18.45.158:443?path=/?ed=2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=chrome&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#[80141] - Telegram : @V2All
 trojan://5a2c16f9@162.159.24.131:443?path=//&security=tls&insecure=1&type=ws&allowInsecure=1&sni=snippets.kkii.eu.org#All-@V2rayAlpha--2
 trojan://5a2c16f9@172.208.36.45:80?path=Telegram@V2rayAlpha&security=tls&insecure=1&host=snippets.kkii.eu.org&type=ws&allowInsecure=1&sni=snippets.kkii.eu.org#All-@V2rayAlpha--1
 trojan://5a2c16f9@199.119.137.77:2053?path=Telegram@V2rayAlpha&security=tls&insecure=1&host=snippets.kkii.eu.org&type=ws&allowInsecure=1&sni=snippets.kkii.eu.org#All-@V2rayAlpha--3
@@ -8,3 +7,7 @@ trojan://da943f80-91e6-46df-b7ba-c6ecf28e0171@blueivy.qzz.io:443?path=/192.252.1
 trojan://e2e3b171-33a8-4c8f-9e5f-ae6e92299e40@ivory.qzz.io:443?path=/46.232.122.240:8000&security=tls&host=ivory.qzz.io&type=ws&sni=ivory.qzz.io#ALL-@V2rayAlpha--14
 trojan://e86364fb-a5e3-42c3-b7fa-6ce8097fe19f@bisque.qzz.io:443?path=/66.135.4.222:8443&security=tls&host=bisque.qzz.io&type=ws&sni=bisque.qzz.io#ALL-@V2rayAlpha--18
 trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️100🌐🆕️
+trojan://telegram-id-directvpn@13.60.131.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[80132] - Telegram : @V2All
+trojan://telegram-id-directvpn@3.70.165.84:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[80140] - Telegram : @V2All
+trojan://telegram-id-directvpn@3.70.165.84:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1854091834344163
+trojan://telegram-id-privatevpns@3.70.165.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[80139] - Telegram : @V2All
