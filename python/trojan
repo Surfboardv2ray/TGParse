@@ -1,4 +1,6 @@
 trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@38.207.160.35:443/?type=tcp&security=tls&sni=www.bilibili.com&allowInsecure=1#🇭🇰 HK
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.138.24:1281?sni=www.nintendogames.net&path=/#[81568] - Telegram : @V2All
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.144.208:1281?security=tls&sni=www.nintendogames.net&path=/#[81567] - Telegram : @V2All
 trojan://59a62e95-6262-4ba1-8027-c642b7c72713@green2.cdntencentmusic.com:31101/?type=tcp&security=tls&sni=green2.cdntencentmusic.com#🇭🇰 香港
 trojan://5a2c16f9@162.159.24.131:443?path=//&security=tls&insecure=1&type=ws&allowInsecure=1&sni=snippets.kkii.eu.org#All-@V2rayAlpha--2
 trojan://5a2c16f9@172.208.36.45:80?path=Telegram@V2rayAlpha&security=tls&insecure=1&host=snippets.kkii.eu.org&type=ws&allowInsecure=1&sni=snippets.kkii.eu.org#All-@V2rayAlpha--1
@@ -6,13 +8,18 @@ trojan://5a2c16f9@199.119.137.77:2053?path=Telegram@V2rayAlpha&security=tls&inse
 trojan://5a2c16f9@98.70.26.236:443?path=Telegram@V2rayAlpha&security=tls&insecure=1&host=snippets.kkii.eu.org&type=ws&allowInsecure=1&sni=snippets.kkii.eu.org#All-@V2rayAlpha--1
 trojan://BxceQaOe@58.152.26.173:443/?type=tcp&security=tls&allowInsecure=1#香港
 trojan://b574ea88-168d-4504-a62d-fe9a2271d726@green2.cdntencentmusic.com:31103/?type=tcp&security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1#🇭🇰 香港
+trojan://d0298536-d670-4045-bbb1-ddd5ea68683e@www.digitalocean.com:443?encryption=none&security=tls&sni=azadnet-5vk.pages.dev&fp=chrome&type=ws&path=/azadnet-5vk.pages.dev/?ed=2560&PROT_TYPE=trojan#[81592] - Telegram : @V2All
+trojan://d0298536-d670-4045-bbb1-ddd5ea68683e@www.digitalocean.com:443?encryption=none&security=tls&sni=azadnet-5vk.pages.dev&fp=chrome&type=ws&path=/azadnet-5vk.pages.dev/?ed=2560&PROT_TYPE=trojan#[🇨🇦]t.me/ConfigsHub
 trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:21102/?type=tcp&security=tls&sni=cdnfire.xiaomispeed.com&allowInsecure=1#🇭🇰 香港
 trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:23301/?type=tcp&security=tls&sni=cdnfire.xiaomispeed.com&allowInsecure=1#🇸🇬 新加坡
 trojan://da943f80-91e6-46df-b7ba-c6ecf28e0171@blueivy.qzz.io:443?path=/192.252.182.52:7602&security=tls&host=blueivy.qzz.io&type=ws&sni=blueivy.qzz.io#ALL-@V2rayAlpha--17
 trojan://e2e3b171-33a8-4c8f-9e5f-ae6e92299e40@ivory.qzz.io:443?path=/46.232.122.240:8000&security=tls&host=ivory.qzz.io&type=ws&sni=ivory.qzz.io#ALL-@V2rayAlpha--14
 trojan://e86364fb-a5e3-42c3-b7fa-6ce8097fe19f@bisque.qzz.io:443?path=/66.135.4.222:8443&security=tls&host=bisque.qzz.io&type=ws&sni=bisque.qzz.io#ALL-@V2rayAlpha--18
+trojan://e8781c66-aeec-4655-984f-2aca65a64766@157.120.35.234:443?allowInsecure=1&sni=download.windowsupdate1.com#[81576] - Telegram : @V2All
+trojan://e8781c66-aeec-4655-984f-2aca65a64766@gzyd1.52147.top:30120?allowInsecure=1&sni=download.windowsupdate1.com#[81588] - Telegram : @V2All
+trojan://e8781c66-aeec-4655-984f-2aca65a64766@hinet.52147.top:443?allowInsecure=1&sni=download.windowsupdate1.com#[81561] - Telegram : @V2All
+trojan://e8781c66-aeec-4655-984f-2aca65a64766@hkt.52147.top:443?allowInsecure=1&sni=download.windowsupdate1.com#[81564] - Telegram : @V2All
+trojan://e8781c66-aeec-4655-984f-2aca65a64766@hnyd.52147.top:30180?allowInsecure=1&sni=download.windowsupdate1.com#[81577] - Telegram : @V2All
 trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️100🌐🆕️
-trojan://jTT1K.bu<(7&@www.speedtest.net:443?encryption=none&security=tls&sni=022.eleCTrOCEllCo-cf-022.wOrKeRs.DEV&alpn=http/1.1&fp=chrome&type=ws&host=022.electrocellco-cf-022.workers.dev&path=/eyJqdW5rIjoickdxMEZTZ2pCejVhIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560#[81432] - Telegram : @V2All
-trojan://telegram-id-directvpn@63.182.2.148:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[81440] - Telegram : @V2All
-trojan://telegram-id-privatevpns@63.182.2.148:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[81439] - Telegram : @V2All
+trojan://telegram-id-privatevpns@13.36.1.246:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[81581] - Telegram : @V2All
 trojan://tunnel-astrovpn_official@5.188.200.224:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=5.188.200.224#[@AstroVPN_Official] 🇪🇪
