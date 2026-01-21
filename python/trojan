@@ -3,7 +3,6 @@ trojan://09553aee-5191-4870-a312-51d053ea668b@103.173.255.21:443?allowInsecure=1
 trojan://13e71ddb-908c-45e0-993c-da482d848c88@seashell.qzz.io:443?path=/156.254.114.120:30011&security=tls&host=seashell.qzz.io&type=ws&sni=seashell.qzz.io#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆
 trojan://3d24de45-e38a-49c2-a963-ba8271c62d2b@tronblue.qzz.io:443?path=/152.32.255.24:587&security=tls&host=tronblue.qzz.io&type=ws&sni=tronblue.qzz.io#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆
 trojan://59a62e95-6262-4ba1-8027-c642b7c72713@green2.cdntencentmusic.com:31101/?type=tcp&security=tls&sni=green2.cdntencentmusic.com#🇭🇰 香港
-trojan://5a2c16f9@98.70.26.236:443?path=Telegram@V2rayAlpha&security=tls&insecure=1&host=snippets.kkii.eu.org&type=ws&allowInsecure=1&sni=snippets.kkii.eu.org#All-@V2rayAlpha--1
 trojan://89str_hbFiA4Re5VKxLYnDPgy@149.248.50.17:15349?security=tls&host=telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray&headerType=none&type=tcp&sni=ya.ru#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆
 trojan://BxceQaOe@58.152.26.173:443/?type=tcp&security=tls&allowInsecure=1#香港
 trojan://Fv7ogJ6vfz@209.200.246.53:36774?mode=gun&security=reality&authority=telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray&pbk=QX1ITiHw0tTKi5ouMn-6mE2-Hb0-gk25N67gP2sQ-nU&fp=chrome&type=grpc&sni=cloudflare.com&sid=3e#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆²
@@ -15,10 +14,12 @@ trojan://b574ea88-168d-4504-a62d-fe9a2271d726@green2.cdntencentmusic.com:31103/?
 trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:21102/?type=tcp&security=tls&sni=cdnfire.xiaomispeed.com&allowInsecure=1#🇭🇰 香港
 trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:23301/?type=tcp&security=tls&sni=cdnfire.xiaomispeed.com&allowInsecure=1#🇸🇬 新加坡
 trojan://da943f80-91e6-46df-b7ba-c6ecf28e0171@blueivy.qzz.io:443?path=/192.252.182.52:7602&security=tls&host=blueivy.qzz.io&type=ws&sni=blueivy.qzz.io#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆
-trojan://humanity@chatgpt.com:443?path=/assignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#🐋Telegram:@YamYamProxy
+trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#@TeLPJ+تمام+نت+ها+🟦🟨
+trojan://humanity@chatgpt.com:443?path=/assignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#@Shh_Proxy
+trojan://humanity@chatgpt.com:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#@V2rayBaaz
+trojan://humanity@chatgpt.com:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#@vpnbaz | نت ملی
+trojan://humanity@chatgpt.com:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#⚡Telegram = @XpnTeam
 trojan://humanity@chatgpt.com:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#✅سرورها بیشتردرکانال:prrofile_purple@✅
-trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#[🇨🇦]t.me/ConfigsHub
-trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#🐋Telegram:@YamYamProxy
 trojan://telegram-id-directvpn@16.170.75.74:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[82978] - Telegram : @V2All
 trojan://telegram-id-directvpn@51.44.34.191:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[82937] - Telegram : @V2All
 trojan://telegram-id-privatevpns@3.11.219.16:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[82976] - Telegram : @V2All
