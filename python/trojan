@@ -1,10 +1,12 @@
 trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@38.207.160.35:443/?type=tcp&security=tls&sni=www.bilibili.com&allowInsecure=1#🇭🇰 HK
 trojan://13e71ddb-908c-45e0-993c-da482d848c88@seashell.qzz.io:443?path=/156.254.114.120:30011&security=tls&host=seashell.qzz.io&type=ws&sni=seashell.qzz.io#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆
+trojan://1e32fe52198848788f029c2ec244f347@212.192.14.227:9443?type=tcp&sni=ya.ru&fp=chrome&security=reality&pbk=GooqN94J-NNbWxkVsDb7NIQW4xXhkMGByk58ihKwX1Q&sid=aabbccdd#[84786] - Telegram : @V2All
 trojan://3d24de45-e38a-49c2-a963-ba8271c62d2b@tronblue.qzz.io:443?path=/152.32.255.24:587&security=tls&host=tronblue.qzz.io&type=ws&sni=tronblue.qzz.io#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆
 trojan://59a62e95-6262-4ba1-8027-c642b7c72713@green2.cdntencentmusic.com:31101/?type=tcp&security=tls&sni=green2.cdntencentmusic.com#🇭🇰 香港
 trojan://89str_hbFiA4Re5VKxLYnDPgy@149.248.50.17:15349?security=tls&host=telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray&headerType=none&type=tcp&sni=ya.ru#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆
 trojan://BxceQaOe@58.152.26.173:443/?type=tcp&security=tls&allowInsecure=1#香港
 trojan://BxceQaOe@58.152.53.45:443?allowInsecure=1&sni=t.me/ripaojiedian#⚡Telegram = @SOSkeyNET
+trojan://BxceQaOe@58.152.53.45:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me/ripaojiedian#ConfigV2RayNG
 trojan://POORIARED@172.67.134.185:443?path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#%telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆
 trojan://POORIARED@172.67.134.185:443?path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆
 trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&headerType=none&type=tcp#WiFi--@V2rayAlpha-1
@@ -24,7 +26,10 @@ trojan://humanity@chatgpt.com:443?path=/assignment&security=tls&insecure=0&host=
 trojan://humanity@chatgpt.com:443?path=/assignment&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#@icv2ray
 trojan://humanity@free1.aattaash.com:443?path=/assignment&security=tls&alpn=h2,http/1.1&host=www.creationlong.org&fp=chrome&type=ws&sni=www.creationlong.org#r♡ya@V2rayBaaz◇⃟💜
 trojan://humanity@free1.aattaash.com:443?path=/assignment&security=tls&alpn=h2,http/1.1&host=www.creationlong.org&fp=chrome&type=ws&sni=www.creationlong.org#⚡Telegram = @SOSkeyNET
+trojan://humanity@free1.aattaash.com:443?path=/assignment&security=tls&alpn=h2,http/1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#ConfigV2RayNG
+trojan://humanity@free1.aattaash.com:443?path=/assignment&security=tls&alpn=h2,http/1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#[🇺🇸]t.me/ConfigsHub
 trojan://humanity@free1.aattaash.com:443?path=/assignment&security=tls&alpn=h2,http/1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#https://t.me/ConfigX2ray
+trojan://humanity@free1.aattaash.com:443?path=/assignment&security=tls&alpn=h2,http/1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#https://t.me/v2rayng_fars
 trojan://humanity@free1.aattaash.com:443?path=/assignment&security=tls&alpn=h2,http/1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#✅سرورها بیشتردرکانال:prrofile_purple@✅
 trojan://nodes-b211f28a@node-tr-1.v2sv.top:2083?security=tls&insecure=0&host=TELEGRAM--JKVPN&headerType=none&type=tcp&allowInsecure=0&sni=node-tr-1.v2sv.top#🇩🇪@JKVPN
 trojan://telegram-id-directvpn@15.188.35.102:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram = @SOSkeyNET
