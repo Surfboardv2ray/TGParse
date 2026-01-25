@@ -34,8 +34,8 @@ trojan://humanity@free1.aattaash.com:443?path=/assignment&security=tls&alpn=h2,h
 trojan://humanity@free1.aattaash.com:443?security=tls&sni=www.creationlong.org&alpn=h2,http/1.1&fp=chrome&allowInsecure=1&type=ws&host=www.creationlong.org&path=/assignment#@Capoit
 trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&fp=chrome&allowInsecure=0&alpn=h2,http/1.1&type=ws&path=/assignment#@sogoandfuckyourlove
 trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&fp=chrome&allowInsecure=0&alpn=h2,http/1.1&type=ws&path=/assignment#⚡Telegram = @SOSkeyNET
+trojan://nodes-b211f28a@node-fr-1.v2sv.top:2083?security=tls&headerType=none&type=tcp&sni=node-fr-1.v2sv.top#[84475] - Telegram : @V2All
 trojan://nodes-b211f28a@node-tr-1.v2sv.top:2083?security=tls&insecure=0&host=TELEGRAM--JKVPN&headerType=none&type=tcp&allowInsecure=0&sni=node-tr-1.v2sv.top#🇩🇪@JKVPN
 trojan://telegram-id-directvpn@35.157.181.130:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram = @SOSkeyNET
-trojan://telegram-id-privatevpns@35.157.181.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[84442] - Telegram : @V2All
 trojan://telegram-id-privatevpns@35.157.181.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram = @SOSkeyNET
 trojan://trojan@top.imlast2.com:443?path=/?ed=2560&security=tls&insecure=0&host=nixian.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=nixian.pages.dev#@v2rayngzendegimamad🕊️
