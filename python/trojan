@@ -1,12 +1,10 @@
 trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@38.207.160.35:443/?type=tcp&security=tls&sni=www.bilibili.com&allowInsecure=1#🇭🇰 HK
-trojan://11fd7d06-a1fb-4a47-a490-e0a62d1e1c0e@103.21.244.208:443?path=/156.244.1.250:8443&security=tls&insecure=1&host=afrcloud4.mmv.kr&type=ws&allowInsecure=1&sni=afrcloud4.mmv.kr#Config 2 - @lebertad
-trojan://11fd7d06-a1fb-4a47-a490-e0a62d1e1c0e@103.21.244.208:443?path=/36.95.152.58:12137&security=tls&insecure=1&host=afrcloud4.mmv.kr&type=ws&allowInsecure=1&sni=afrcloud4.mmv.kr#Config 1 - @lebertad
 trojan://13e71ddb-908c-45e0-993c-da482d848c88@seashell.qzz.io:443?path=/156.254.114.120:30011&security=tls&host=seashell.qzz.io&type=ws&sni=seashell.qzz.io#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆
+trojan://1e32fe52198848788f029c2ec244f347@212.192.14.227:9443?type=tcp&sni=ya.ru&fp=chrome&security=reality&pbk=GooqN94J-NNbWxkVsDb7NIQW4xXhkMGByk58ihKwX1Q&sid=aabbccdd#[86805] - Telegram : @V2All
 trojan://2238e2f3-1a01-485e-8c22-24b65764c68b@185.18.250.252:443?security=tls&sni=gzjx.dpdns.org&fp=chrome&type=ws&path=/51.91.253.83=8443#@HedwigV2ray
 trojan://2ea04117-9a71-409c-b789-eec6e5f0a8f4@172.64.155.209:443?path=/172.235.54.221=443&security=tls&insecure=1&host=dragonhost9.qzz.io&type=ws&allowInsecure=1&sni=dragonhost9.qzz.io#⚡Telegram = @SOSkeyNET
 trojan://3d24de45-e38a-49c2-a963-ba8271c62d2b@tronblue.qzz.io:443?path=/152.32.255.24:587&security=tls&host=tronblue.qzz.io&type=ws&sni=tronblue.qzz.io#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆
 trojan://59a62e95-6262-4ba1-8027-c642b7c72713@green2.cdntencentmusic.com:31101/?type=tcp&security=tls&sni=green2.cdntencentmusic.com#🇭🇰 香港
-trojan://67db77a5-2171-41e4-8a30-91fa5c11ddf6@188.114.97.132:443?path=/194.127.193.240:50791&security=tls&insecure=1&host=afrcloud4.mmv.kr&type=ws&allowInsecure=1&sni=afrcloud4.mmv.kr#Config 3 - @lebertad
 trojan://869e9086806483ca4744a4cb0f3d6e16@52.195.170.6:491?security=tls&sni=www.nintendogames.net&allowInsecure=1&type=tcp#r♡ya@V2rayBaaz◇⃟💜
 trojan://89str_hbFiA4Re5VKxLYnDPgy@149.248.50.17:15349?security=tls&host=telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray&headerType=none&type=tcp&sni=ya.ru#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆
 trojan://BxceQaOe@58.152.26.173:443/?type=tcp&security=tls&allowInsecure=1#香港
@@ -15,6 +13,8 @@ trojan://POORIARED@172.67.134.185:443?path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJw
 trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&headerType=none&type=tcp#WiFi--@V2rayAlpha-1
 trojan://b0a58cd7-1ab8-4cb3-b98f-bcad7783036f@104.17.74.206:443?path=/31.192.238.71=2053&security=tls&host=corvusazalea.qzz.io&type=ws&sni=corvusazalea.qzz.io#⚡Telegram = @SOSkeyNET
 trojan://b0a58cd7-1ab8-4cb3-b98f-bcad7783036f@104.17.74.206:443?path=/31.192.238.71=2053/Telegram@V2rayAlpha&security=tls&insecure=0&host=corvusazalea.qzz.io&type=ws&allowInsecure=0&sni=corvusazalea.qzz.io#@V2ray_Alpha--10
+trojan://b0a58cd7-1ab8-4cb3-b98f-bcad7783036f@corvusazalea.qzz.io:443?path=/31.192.238.71=2053&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=corvusazalea.qzz.io#Config 3 - @lebertad
+trojan://b0a58cd7-1ab8-4cb3-b98f-bcad7783036f@corvusazalea.qzz.io:443?path=/31.192.238.71=2053&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=corvusazalea.qzz.io#⚡Telegram = @SOSkeyNET
 trojan://b0a58cd7-1ab8-4cb3-b98f-bcad7783036f@corvusazalea.qzz.io:443?security=tls&sni=corvusazalea.qzz.io&fp=chrome&allowInsecure=0&type=ws&path=/31.192.238.71=2053#قشاع ⚡️
 trojan://b574ea88-168d-4504-a62d-fe9a2271d726@green2.cdntencentmusic.com:31103/?type=tcp&security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1#🇭🇰 香港
 trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:21102/?type=tcp&security=tls&sni=cdnfire.xiaomispeed.com&allowInsecure=1#🇭🇰 香港
@@ -29,6 +29,7 @@ trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&hos
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#All-@V2rayAlpha--9
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#@V2ray_Alpha--14
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#channel : @freedomofinfor
+trojan://humanity@172.64.152.23:443?security=tls&sni=www.gossipglove.com&type=ws&path=/assignment#[86807] - Telegram : @V2All
 trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#@HedwigV2ray
 trojan://humanity@188.114.96.3:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#@V2ray_Alpha--13
 trojan://humanity@188.114.96.3:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#⚡Telegram = @prrofile_purple
