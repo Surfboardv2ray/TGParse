@@ -1,4 +1,2 @@
 tuic://aea65e62-056d-49e4-b097-cb978f176430:aea65e62-056d-49e4-b097-cb978f176430@107.175.51.245:40001/?congestion_control=bbr&udp_relay_mode=native&sni=www.python.org&alpn=h3&allow_insecure=1#🦇1@oneclickvpnkeys
 tuic://aea65e62-056d-49e4-b097-cb978f176430:aea65e62-056d-49e4-b097-cb978f176430@nat3.reconv.pl:5432/?congestion_control=bbr&udp_relay_mode=native&sni=www.python.org&alpn=h3&allow_insecure=1#🦇2@oneclickvpnkeys
-tuic://c1969963-71c3-4181-b36c-6ec340153cee:c1969963-71c3-4181-b36c-6ec340153cee@194.58.38.116:53614?congestion_control=bbr&udp_relay_mode=native&alpn[0]=h3&sni=www.python.org&allow_insecure=1&allowInsecure=1#https://t.me/allproconf
-tuic://c1969963-71c3-4181-b36c-6ec340153cee:c1969963-71c3-4181-b36c-6ec340153cee@207.174.28.26:31851?congestion_control=bbr&udp_relay_mode=native&alpn[0]=h3&sni=apple.com&allow_insecure=1&allowInsecure=1#https://t.me/allproconf
