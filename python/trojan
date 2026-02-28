@@ -64,7 +64,6 @@ trojan://262f1d150049457ac1d6e66b020fa980@160.16.68.250:1281?security=tls&sni=ww
 trojan://2929@8.39.125.15:2083?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.wiyol35440.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.wiyol35440.workers.dev#3 🇩🇪 @V2ngFast
 trojan://2AAF5UEsSd@37.27.249.93:20000?type=tcp&security=none#@V2rayNG3
 trojan://2kehlwam-k70a-05j1-1nfz-wzy9vls569ee@127.0.0.1:2080?security=tls&type=tcp#@Trick_mobil
-trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?mux=&security=tls&headerType=none&type=tcp&muxConcurrency=-1&sni=iepl.jpz2.cat.bilibili.com#@filembad
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.jpz2.cat.bilibili.com&note=@FreeOnlineVPN#🇯🇵 - JP - @FreeOnlineVPN
 trojan://3w3jnmkh-xmx1-7f1m-7gnr-3rxdhvqcvvs9@127.0.0.1:4080?security=tls&type=tcp#@Trick_mobil
 trojan://4646@173.245.58.57:8443?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.moket12807.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.moket12807.workers.dev#5 🇩🇪 @V2ngFast
@@ -86,7 +85,6 @@ trojan://984c7793-1447-4af5-9200-d514ad6fe329@bgp1.stimaysmhy8.com:14011?securit
 trojan://984c7793-1447-4af5-9200-d514ad6fe329@sg05.stimaysmhy8.com:45005?security=tls&headerType=none&type=tcp&sni=jsygouer.weixin-baidu-qq.com#vpnsal
 trojan://984c7793-1447-4af5-9200-d514ad6fe329@sg05.stimaysmhy8.com:45005?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=jsygouer.weixin-baidu-qq.com#🇸🇬@FreakConfig
 trojan://984c7793-1447-4af5-9200-d514ad6fe329@sg05.stimaysmhy8.com:45005?security=tls&sni=jsygouer.weixin-baidu-qq.com&allowInsecure=1&type=tcp&headerType=none#⚡Telegram = @SOSkeyNET
-trojan://BooNHlhUWmTAV7YD6FyTdQ@Cow.gov.cloud-family.com.tr:202?security=none&type=tcp&headerType=&path=&host=#@filembad
 trojan://BxceQaOe@16.163.102.116:52951/?type=tcp&security=tls&allowInsecure=1#🍪61@oneclickvpnkeys
 trojan://BxceQaOe@16.163.102.116:52951/?type=tcp&security=tls&allowInsecure=1&note=@FreeOnlineVPN#🇸🇬 - SG - @FreeOnlineVPN
 trojan://BxceQaOe@16.163.102.116:52951?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#🍪ConfigV2RayNG
@@ -140,7 +138,6 @@ trojan://humanity@104.18.32.47:443?security=tls&sni=www.calmlunch.com&insecure=0
 trojan://humanity@104.18.32.47:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#@Trick_mobil
 trojan://humanity@104.18.7.147:443?path=/assignment&security=tls&alpn=h2,http/1.1&insecure=0&type=ws&allowInsecure=0&sni=www.creationlong.org#🇺🇸 ShatakVPN 355038
 trojan://humanity@104.21.40.34:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#🇫🇷 @FreakConfig
-trojan://humanity@104.21.40.34:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#🇫🇷 Join+Telegram:@Farah_VPN 🇫🇷
 trojan://humanity@104.21.40.34:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#🏳️ ShatakVPN 419669
 trojan://humanity@104.21.40.34:443?security=tls&sni=www.gossipglove.com&allowInsecure=1&type=ws&host=www.gossipglove.com&path=/assignment#t.me/v2Line | Free | 3463 | Cloudflare
 trojan://humanity@172.64.152.23:443/?type=ws&host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com&allowInsecure=1#🌑 این راه عمومی نیست | @panbehnet
@@ -167,7 +164,6 @@ trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&hos
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#🔸Join SHo @IRAN_V2RAY1⚜️
 trojan://humanity@172.64.152.23:443?security=tls&sni=www.calmlunch.com&insecure=1&allowInsecure=1&type=ws&host=www.calmlunch.com&path=/assignment#کانفیگ رایگان = t.me/arisping
 trojan://humanity@172.64.152.23:443?security=tls&sni=www.creationlong.org&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=/assignment#کانفیگ رایگان = t.me/arisping
-trojan://humanity@172.64.152.23:443?security=tls&sni=www.multiplydose.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=www.multiplydose.com&path=/assignment#کانفیگ رایگان = t.me/arisping
 trojan://humanity@172.64.152.23:443?security=tls&sni=www.multiplydose.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/assignment#کانفیگ رایگان = t.me/arisping
 trojan://humanity@172.64.155.209:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#Telegram @Ettehad_vpn
 trojan://humanity@172.64.155.209:443?security=tls&sni=www.gossipglove.com&insecure=1&allowInsecure=1&type=ws&host=www.gossipglove.com&path=/assignment#کانفیگ رایگان = t.me/arisping
@@ -187,7 +183,6 @@ trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&host=www.creati
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#جهت اتصال رایگان و دور زدن فیلترینگ به ما بپیوندید @chlra85
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#@WedBaZtel
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🇵🇱@FreakConfig
-trojan://humanity@188.114.98.0:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&host=www.calmlunch.com&path=/assignment#کانفیگ رایگان = t.me/arisping
 trojan://humanity@188.114.98.0:443?security=tls&sni=www.multiplydose.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/assignment#کانفیگ رایگان = t.me/arisping
 trojan://humanity@188.114.98.0:443?type=ws&security=tls&sni=www.creationlong.org&host=www.creationlong.org&path=/assignment#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.89ms
 trojan://humanity@v1.dabache.top:443?path=/assignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#🇳🇱 |⚡@EuServer
