@@ -153,6 +153,7 @@ trojan://humanity@chat.openai.com:443?path=/assignment&security=tls&alpn=h2,http
 trojan://humanity@chat.openai.com:443?path=/assignment&security=tls&alpn=h2,http/1.1&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#〘 🇺🇸 | 🪽 @ProxyMThub 〙
 trojan://humanity@chatgpt.com:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#@V2rayAlpha--4
 trojan://humanity@v1.dabache.top:443?path=/assignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#🇳🇱 |⚡@EuServer
+trojan://humanity@v1.dabache.top:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
 trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#@Golestan_VPN 🆓 IRAN
 trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#@v2rayland02🌐
 trojan://humanity@www.gossipglove.com:443?path=/assignment?TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#@JKVPN
@@ -215,7 +216,6 @@ trojan://telegram-id-directvpn@63.176.126.9:22223?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@63.183.124.201:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@63.183.124.201:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram = @SOSkeyNET
 trojan://telegram-id-directvpn@63.183.93.61:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Proxyiranip
-trojan://telegram-id-directvpn@63.183.93.61:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@filembad
 trojan://telegram-id-directvpn@63.183.93.61:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@icv2ray
 trojan://telegram-id-directvpn@63.183.93.61:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@63.183.93.61:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[21031] - Telegram : @V2All
