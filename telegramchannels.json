@@ -13,6 +13,7 @@
     "configx2ray",
     "dailyv2proxy",
     "digiv2ray",
+    "electvpn0",
     "evay_vpn",
     "falcunargo",
     "farah_vpn",
@@ -27,6 +28,7 @@
     "icv2ray",
     "kalbodteam",
     "ln2ray",
+    "magsin_vpn",
     "mainv2ray",
     "masterserver1",
     "meliproxyy",
@@ -73,5 +75,6 @@
     "vpnbaz",
     "wedbaztel",
     "wirexnet",
-    "yamyamproxy"
+    "yamyamproxy",
+    "zel2ovpn"
 ]
