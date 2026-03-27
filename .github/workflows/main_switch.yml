@@ -2,13 +2,13 @@ name: Parse Channels, Split & Base64
 
 on:
   push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+    paths:
+      - 'telegramchannels.json'
+      - '.github/workflows/main_switch.yml'
 
   workflow_dispatch:
   schedule:
-    - cron: "* */8 * * *"
+    - cron: "* */2 * * *"
 jobs:
   run_python_and_push:
 
