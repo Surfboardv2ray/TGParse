@@ -1,6 +1,3 @@
-trojan://6d29eb2f74293cb01a19b32cf08ad2e9@13.230.200.237:3057/?type=tcp&security=tls&sni=www.nintendogames.net#@v2rayconfigamir 8638
-trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.124.17:1524?type=raw&headerType=none&security=tls&sni=www.nintendogames.net#@v2rayconfigamir 9490
-trojan://6d29eb2f74293cb01a19b32cf08ad2e9@18.183.73.66:921/?type=tcp&security=tls&sni=www.nintendogames.net#@v2rayconfigamir 3770
 trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?security=tls#@v2rayconfigamir 4595
 trojan://IL37892054@steady-lemming.rooster465.autos:443?security=tls&sni=steady-lemming.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#@v2rayconfigamir 2463
 trojan://OVsFRZT5jG@172.67.191.189:443?path=/&security=tls&host=web.teama.tk&type=ws&sni=web.teama.tk#@v2rayconfigamir 2526
