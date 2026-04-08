@@ -33,6 +33,7 @@ trojan://ZJU29smXwp@172.67.191.189:2053?path=/&security=tls&host=k.teama.tk&type
 trojan://ZJU29smXwp@172.67.68.87:2053?path=/&security=tls&host=k.teama.tk&type=ws&sni=Web2.teama.tk#@v2rayconfigamir 7708
 trojan://ZJU29smXwp@45.85.118.0:2053?path=/&security=tls&host=k.teama.tk&type=ws&sni=web2.teama.tk#@v2rayconfigamir 6833
 trojan://bpb-trojan@94.140.0.1:443?path=/tr?ed=2560&security=tls&host=singbox.lu567890.us.kg&fp=chrome&type=ws&sni=singbox.lu567890.us.kg#@cllubvpn لطفا برای حمایت جوین شید
+trojan://bpb-trojan@94.140.0.1:443?path=/tr?ed=2560&security=tls&insecure=0&host=singbox.lu567890.us.kg&fp=chrome&type=ws&allowInsecure=0&sni=singbox.lu567890.us.kg#@UnNurmal
 trojan://hCjWaBe5vTkewfiljOL=9FS9DYg0c09c.t@81.29.149.240:18390?security=tls&fp=chrome&type=tcp&sni=osl9.solidly.click#@v2rayconfigamir 5836
 trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#🇫🇷 - FR - @FreeOnlineVPN
 trojan://humanity@104.18.32.47:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&path=/assignment&note=@FreeOnlineVPN#🇫🇷 - FR - @FreeOnlineVPN
@@ -48,7 +49,6 @@ trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&in
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@148.135.195.95:2083?path=/trojan-ws&security=tls&host=xo.e0f.cx&type=ws&sni=xo.e0f.cx#@v2rayconfigamir 2837
 trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=celestialcorset.crystalhamster.click#@V2rayAlpha--7
 trojan://telegram-id-directvpn@13.39.166.165:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @TeleProxyTele
-trojan://telegram-id-directvpn@18.156.124.169:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @TeleProxyTele
 trojan://telegram-id-privatevpns@13.36.197.1:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.36.250.59:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.38.177.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
@@ -60,7 +60,6 @@ trojan://telegram-id-privatevpns@15.224.29.219:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@15.224.68.36:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.237.155.59:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.156.124.169:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@18.156.124.169:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/TeleProxyTele
 trojan://telegram-id-privatevpns@18.156.97.29:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.156.97.29:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#یام‌یام
 trojan://telegram-id-privatevpns@18.157.121.169:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
