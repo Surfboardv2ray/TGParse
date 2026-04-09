@@ -30,14 +30,14 @@ trojan://TOwMPNqmZvUobRbEAZxFiN1q@185.189.58.195:37976?type=tcp&security=tls&sni
 trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#🇫🇷 - FR - @FreeOnlineVPN
 trojan://humanity@104.18.32.47:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&path=/assignment&note=@FreeOnlineVPN#🇫🇷 - FR - @FreeOnlineVPN
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#🇫🇷 - FR - @FreeOnlineVPN
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#@TeleProxyTele
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#[🇨🇦]t.me/ConfigsHub
 trojan://humanity@chatgpt.com:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#@V2rayAlpha--4
 trojan://humanity@www.gossipglove.com:443?allowInsecure=1&path=/assignment&type=ws#🧬78@oneclickvpnkeys
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#@V2rayAlpha--3
 trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=celestialcorset.crystalhamster.click#@V2rayAlpha--7
 trojan://telegram-id-directvpn@35.157.169.92:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk #FreeConffning👨‍💻
 trojan://telegram-id-privatevpns@13.36.197.1:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@13.37.214.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@13.37.214.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/TeleProxyTele
 trojan://telegram-id-privatevpns@13.38.177.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.39.166.165:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.188.46.103:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
@@ -54,7 +54,6 @@ trojan://telegram-id-privatevpns@3.77.109.217:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@35.157.169.92:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.181.184.47:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.102.234.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@51.44.53.220:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.45.34.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.45.56.96:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.47.115.113:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
