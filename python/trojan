@@ -29,7 +29,12 @@ trojan://BxceQaOe@43.198.13.210:41973?allowInsecure=1&sni=t.me/ripaojiedian&note
 trojan://TOwMPNqmZvUobRbEAZxFiN1q@185.189.58.195:37976?type=tcp&security=tls&sni=185.189.58.195&alpn=h2,http/1.1&fp=chrome#@Guesswhaat | DE | TROJAN40@wibeofme
 trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#🇫🇷 - FR - @FreeOnlineVPN
 trojan://humanity@104.18.32.47:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&path=/assignment&note=@FreeOnlineVPN#🇫🇷 - FR - @FreeOnlineVPN
+trojan://humanity@104.18.32.47:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=/assignment#
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#🇫🇷 - FR - @FreeOnlineVPN
+trojan://humanity@172.64.152.23:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#
+trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=/assignment#
+trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#[🇨🇦]t.me/ConfigsHub
+trojan://humanity@188.114.98.0:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment#
 trojan://humanity@chatgpt.com:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#@V2rayAlpha--4
 trojan://humanity@www.gossipglove.com:443?allowInsecure=1&path=/assignment&type=ws#🧬78@oneclickvpnkeys
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#@V2rayAlpha--3
@@ -38,6 +43,7 @@ trojan://telegram-id-directvpn@35.157.169.92:22223?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@13.36.197.1:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.37.214.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.37.214.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/TeleProxyTele
+trojan://telegram-id-privatevpns@13.37.25.98:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.38.177.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.39.166.165:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.188.46.103:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
@@ -57,7 +63,6 @@ trojan://telegram-id-privatevpns@51.102.234.18:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@51.45.34.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.45.56.96:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.47.115.113:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@52.59.32.38:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@54.93.56.163:22222?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#@v2rayconfigamir 9617
 trojan://telegram-id-v2rayvpnchannel@35.157.169.92:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @FreeConffning
 trojan://vpn@45.82.14.144:2025?security=none&fp=chrome&type=ws&path=/&host=dns.google.com#@v2rayconfigamir 5411
