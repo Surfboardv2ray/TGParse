@@ -41,6 +41,7 @@ trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=1&host
 trojan://humanity@188.114.98.0:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment#
 trojan://humanity@chatgpt.com:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#@V2rayAlpha--4
 trojan://humanity@www.calmlunch.com:443?allowInsecure=1&host=www.calmlunch.com&path=/assignment&type=ws#🐵72@oneclickvpnkeys
+trojan://humanity@www.multiplydose.com:443?allowInsecure=1&path=/assignment&type=ws#🐵7@oneclickvpnkeys
 trojan://humanity@www.multiplydose.com:443?host=www.multiplydose.com&path=//assignment&type=ws#🪺29@oneclickvpnkeys
 trojan://opentunnel.net-andonezi30day@38.9.140.91:443?security=tls&headerType=none&type=tcp&sni=uplod.ir#@v2rayconfigamir 7843
 trojan://opentunnel.net-engliah30day1@38.48.123.89:443?security=tls&headerType=none&type=tcp&sni=uplod.ir#@v2rayconfigamir 4558
