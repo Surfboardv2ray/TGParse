@@ -27,6 +27,7 @@ trojan://humanity@104.18.12.149:443?path=/assignment&security=tls&insecure=0&hos
 trojan://humanity@104.18.12.149:443?path=/assignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#🇨🇦  @ProxyVpn11
 trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#🦉@FreeConfigForYou
 trojan://humanity@127.0.0.1:40443?path=//assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#@ProxyVPN11 | Sni روش
+trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#@proxymelimon
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇫🇷 @ProxyVPN11
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🇵🇱 @ProxyVPN11
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#🇫🇷 @ProxyVPN11
@@ -38,15 +39,12 @@ trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&host=www.creati
 trojan://humanity@2.144.5.118:40443?type=ws&security=tls&path=/assignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&allowInsecure=1#✅➣@Zel2ovpn
 trojan://humanity@2.144.7.23:40443?type=ws&security=tls&path=/assignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&allowInsecure=1#@zel2ovpn
 trojan://humanity@8.6.112.0:443?allowInsecure=1&alpn=http/1.1&host=www.calmloud.com&path=/assignment&sni=www.calmloud.com&type=ws#🍎95@oneclickvpnkeys
-trojan://humanity@8.6.112.0:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#@InfoTech_VK2
 trojan://humanity@8.6.112.0:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#Tel;Father_vpn
 trojan://humanity@8.6.112.6:443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#@icv2ray
 trojan://humanity@8.6.112.6:443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#Telegram: @vpnbaz
 trojan://humanity@clud.soonteam.top:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#SoonTeam
-trojan://humanity@v1.dabache.top:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#🏳️ Join+Telegram:@Farah_VPN 🏳️
 trojan://humanity@www.ignitelimit.com:443?security=tls&sni=www.ignitelimit.com&fp=chrome&allowInsecure=0&type=ws&path=/assignment#@neet_done👈ایرانسل وصل شین
 trojan://humanity@www.multiplydose.com:443?allowInsecure=1&host=www.multiplydose.com&path=/assignment&type=ws#🍎59@oneclickvpnkeys
-trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#[29343] - Telegram : @V2All
 trojan://telegram-id-privatevpns@13.37.187.91:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.38.163.166:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.38.210.223:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
@@ -67,4 +65,4 @@ trojan://telegram-id-privatevpns@51.102.234.219:22222?security=tls&alpn=http/1.1
 trojan://telegram-id-privatevpns@51.44.188.122:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.44.56.66:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@63.179.16.188:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
-trojan://trojan@103.136.70.115:443?path=/?ed=2560&https://t.me/WangCai2🇨🇳&security=tls&insecure=1&host=jflsjlaf.pages.dev&type=ws&allowInsecure=1&sni=jflsjlaf.pages.dev#@InfoTech_VK
+trojan://trojan@152.53.45.251:8888?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#[29480] - Telegram : @V2All
