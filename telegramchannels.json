@@ -23,6 +23,7 @@
     "evay_vpn",
     "farah_vpn",
     "farahproxy",
+    "fastnettools",
     "father_vpn",
     "filtershekan_channel",
     "flyv2ray",
@@ -98,5 +99,6 @@
     "vmessorg",
     "vpnbaz",
     "vpnfail_v2ray",
-    "yamyamproxy"
+    "yamyamproxy",
+    "zed_netmeli"
 ]
