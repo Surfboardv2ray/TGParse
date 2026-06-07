@@ -40,6 +40,7 @@
     "ehsawn8",
     "electvpn0",
     "evay_vpn",
+    "express_freevpn",
     "farah_vpn",
     "farazv2ray",
     "fastkanfig",
@@ -51,7 +52,6 @@
     "freakconfig",
     "free_conf_iran",
     "free_vpn02",
-    "freeconffning",
     "freeconfigforyou",
     "freeconfigsplus",
     "freenettir",
@@ -111,7 +111,6 @@
     "privatevpns",
     "prossh",
     "proxy_vpney",
-    "proxymelimon",
     "proxyvpn11",
     "raiv2mmr",
     "rez1vpn",
@@ -125,8 +124,8 @@
     "soskeynet",
     "spikevpn",
     "spotfyhits",
-    "syncguard",
     "tanhanet",
+    "tirexnet",
     "v2all",
     "v2dogs_n",
     "v2freehub",
@@ -163,6 +162,5 @@
     "vpnine1",
     "vpsave",
     "wetconfig",
-    "zdyz2",
-    "zorexvpn"
+    "zdyz2"
 ]
