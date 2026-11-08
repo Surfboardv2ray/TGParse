@@ -19,6 +19,7 @@ jobs:
     
     - name: Create timestamped directory
       run: |
+        touch ./archives/latest_backup/mixed
         mkdir -p ./archives/$(date +'%Y%m')
         mkdir -p ./archives/$(date +'%Y%m')/$(date +'%Y-%m-%d_%H-%M-%S')
         mkdir -p ./archives/channels/$(date +'%Y%m')/$(date +'%Y-%m-%d_%H-%M-%S')
